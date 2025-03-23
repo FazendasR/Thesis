@@ -1,0 +1,314 @@
+Text from https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/postgraduate-program-in-digital-enterprise-management/study-plan/#:
+Study Plan
+Study Plan
+en
+Education
+Programs
+Postgraduate Programs and Master Degree Programs
+Postgraduate Program in Digital Enterprise Management
+Study Plan
+1
+st
+year - Spring Semester
+resumo do conteudo da tabela
+Course Units
+Type
+Duration
+ECTS
+Big Data Analytics for Business
+Mandatory
+Quarterly
+4
+Cloud and Mobility Solutions
+Mandatory
+Quarterly
+3,5
+Digital Systems for Enterprise 4.0
+Mandatory
+Semester
+7,5
+Digital Transformation Methodologies
+Mandatory
+Semester
+7,5
+Analysis of Discrete Data
+Elective
+Quarterly
+4
+Analysis of Variance
+Elective
+Quarterly
+4
+Architectures for Information Systems
+Elective
+Quarterly
+3,5
+Architectures for Information Systems
+Elective
+Quarterly
+3,5
+Big Data Analytics
+Elective
+Semester
+7,5
+Blockchain
+Elective
+Quarterly
+4
+Business Impact of Digital Projects
+Elective
+Quarterly
+3,5
+Business Intelligence II
+Elective
+Semester
+7,5
+Consumer Behavior Insights
+Elective
+Semester
+7,5
+Customer Relationship Management Systems
+Elective
+Semester
+7,5
+Customer Relationship Management Systems
+Elective
+Semester
+7,5
+Cybersecurity
+Elective
+Semester
+7,5
+Data Visualization
+Elective
+Semester
+7,5
+E-Business
+Elective
+Quarterly
+4
+Econometrics Methods
+Elective
+Semester
+7,5
+Emerging Technologies for Innovation
+Elective
+Quarterly
+3,5
+Enterprise Resource Management Systems
+Elective
+Semester
+7,5
+Generative Artificial Intelligence
+Elective
+Semester
+7,5
+Information Project Management
+Elective
+Quarterly
+4
+Information Project Management II
+Elective
+Quarterly
+3,5
+Innovation  Management and Design Thinking
+Elective
+Semester
+7,5
+Innovation  Management and Design Thinking
+Elective
+Semester
+7,5
+Leadership and People Management
+Elective
+Semester
+7,5
+Market and Credit Risk Management
+Elective
+Semester
+7,5
+Market Research
+Elective
+Semester
+7,5
+Marketing Engineering and Analytics
+Elective
+Semester
+7,5
+Predictive Analytics in Marketing
+Elective
+Semester
+7,5
+Predictive Methods of Data Mining
+Elective
+Semester
+7,5
+Process Mining Powered By Nokia
+Elective
+Semester
+7,5
+Process Mining Powered By Nokia
+Elective
+Semester
+7,5
+Risk Management
+Elective
+Semester
+7,5
+Sampling Theory and Methods
+Elective
+Semester
+7,5
+Search Engine Optimization
+Elective
+Quarterly
+4
+Social Media Analytics
+Elective
+Semester
+7,5
+Solvency Models
+Elective
+Semester
+7,5
+1
+st
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Type
+Duration
+ECTS
+Adoption Models
+Mandatory
+Quarterly
+4
+Change Management
+Mandatory
+Quarterly
+3,5
+Digital Transformation Capstone Project
+Mandatory
+Semester
+7,5
+Online Collaboration Tools
+Mandatory
+Semester
+7,5
+Applied Multivariate Data Analysis
+Elective
+Semester
+7,5
+Applied Network Analysis
+Elective
+Semester
+7,5
+Banking and Insurance Operations
+Elective
+Semester
+7,5
+Brand Management
+Elective
+Quarterly
+3,5
+Business Intelligence I
+Elective
+Semester
+7,5
+Business Process Management
+Elective
+Semester
+7,5
+Business Process Management
+Elective
+Semester
+7,5
+Data Governance
+Elective
+Quarterly
+3,5
+Data Privacy, Security and Ethics
+Elective
+Quarterly
+4
+Data Science for Marketing
+Elective
+Semester
+7,5
+DataBase Management Systems
+Elective
+Semester
+7,5
+Descriptive Analytics in Marketing
+Elective
+Semester
+7,5
+Descriptive Methods of Data Mining
+Elective
+Semester
+7,5
+Descriptive Methods of Data Mining
+Elective
+Semester
+7,5
+Digital Analytics
+Elective
+Semester
+7,5
+Digital Marketing & E-Commerce
+Elective
+Semester
+7,5
+Enterprise Cloud Mobility
+Elective
+Semester
+7,5
+Experimental Design
+Elective
+Quarterly
+4
+Forecasting Methods
+Elective
+Quarterly
+3,5
+Information Management Systems
+Elective
+Quarterly
+3,5
+Information Systems Governance
+Elective
+Quarterly
+3,5
+Investments and Portfolio Management
+Elective
+Semester
+7,5
+Life & Non-Life Actuarial Techniques
+Elective
+Semester
+7,5
+Marketing Strategy and Innovation
+Elective
+Semester
+7,5
+Smart and Sustainable Cities
+Elective
+Annual
+7,5
+Social Network Analysis
+Elective
+Quarterly
+3,5
+Statistical Analysis
+Elective
+Semester
+7,5
+Time Series Analysis
+Elective
+Quarterly
+4
+Course Unit
+Loading...
+modal item
+card item
+

@@ -1,0 +1,66 @@
+Text from https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/postgraduate-program-in-business-intelligence-and-analytics-for-hospitality-tourism/study-plan/#:
+Study Plan
+Study Plan
+en
+Education
+Programs
+Postgraduate Programs and Master Degree Programs
+Postgraduate Program in Business Intelligence and Analytics for Hospitality & Tourism
+Study Plan
+1
+st
+year - Spring Semester
+resumo do conteudo da tabela
+Course Units
+Type
+Duration
+ECTS
+Business Intelligence in Tourism
+Mandatory
+Semester
+7,5
+Data Science for Hospitality and Tourism I
+Mandatory
+Semester
+7,5
+Digital Transformation in Hospitality and Tourism
+Mandatory
+Quarterly
+3,5
+Management in Hospitality and Tourism
+Mandatory
+Semester
+7,5
+Revenue Management
+Mandatory
+Quarterly
+4
+1
+st
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Type
+Duration
+ECTS
+Data Science for Hospitaly and Tourism II
+Mandatory
+Semester
+7,5
+Digital Marketing
+Mandatory
+Semester
+7,5
+Project in Analytics for Hospitality and Tourism
+Mandatory
+Semester
+7,5
+Smart Tourism
+Mandatory
+Semester
+7,5
+Course Unit
+Loading...
+modal item
+card item
+

@@ -1,0 +1,429 @@
+Text from https://www.novaims.unl.pt/en/education/programs/bachelor-s-degrees/information-systems/program/#:
+Program
+Study Plan
+en
+Education
+Programs
+Bachelor's Degrees
+Information Systems
+Program
+1
+st
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Business Management
+Semester
+Mandatory
+TP - 45 | OT - 5
+112
+4
+Computation  I
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+196
+7
+Information Systems
+Semester
+Mandatory
+TP - 64,5 | S - 3 | OT - 7,5
+168
+6
+Linear Algebra
+Semester
+Mandatory
+T - 22,5 | PL - 22,5 | OT - 7,5
+112
+4
+Mathematical Analysis I **
+Semester
+Mandatory
+T - 22,5 | PL - 45 | OT - 7,5
+140
+5
+Organizations Behavior
+Semester
+Mandatory
+TP - 45 | OT - 5
+112
+4
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+1
+st
+year - Spring Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Computation  II
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Mathematical Analysis II **
+Semester
+Mandatory
+T - 22,5 | PL - 45 | OT - 7,5
+196
+7
+Personal Development I
+Semester
+Mandatory
+TP - 22,5 | OT - 7,5
+56
+2
+Statistics and Probability Distributions
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Technologies and Web Apps
+Semester
+Mandatory
+TP - 22,5 | PL - 42
+140
+5
+Theory and Practice of Information Systems
+Semester
+Mandatory
+TP - 45 | OT - 5
+112
+4
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+2
+nd
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Computation  III
+Semester
+Mandatory
+TP - 67,5 | OT - 10
+168
+6
+Databases I
+Semester
+Mandatory
+TP - 64,5 | S - 3 | OT - 7,5
+168
+6
+Information Technologies Hardware and Software
+Semester
+Mandatory
+TP - 67,5 | OT - 10
+168
+6
+Statistical Inference
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Systems Analysis
+Semester
+Mandatory
+TP - 64,5 | S - 3 | OT - 7,5
+168
+6
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+2
+nd
+year - Spring Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Computer Networks & Cloud Computing
+Semester
+Mandatory
+T - 22,5 | PL - 45 | OT - 7,5
+140
+5
+Databases II
+Semester
+Mandatory
+T - 22,5 | PL - 45 | OT - 7,5
+168
+6
+Human - Computer Interaction
+Semester
+Mandatory
+TP - 67,5 | OT - 10
+140
+5
+Information Systems Project Management (A)
+Semester
+Mandatory
+T - 22,5 | PL - 42 | S - 3 | OT - 7,5
+140
+5
+Mobile Apps Development
+Semester
+Mandatory
+T - 22,5 | PL - 42
+140
+5
+Web Marketing and E-business
+Semester
+Mandatory
+TP - 45 | OT - 5
+112
+4
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+(A) - Possible IPMA Certificat;
+3
+rd
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Artificial Intelligence
+Semester
+Mandatory
+T - 22,5 | PL - 45 | OT - 15
+168
+6
+Business Process Management
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Cybersecurity
+Semester
+Mandatory
+TP - 67,5 | OT - 10
+112
+4
+Geospatial Intelligence
+Semester
+Mandatory
+TP - 45 | OT - 7,5
+112
+4
+Personal Development II
+Semester
+Mandatory
+TP - 22,5 | OT - 5
+56
+2
+Project of Information Systems Powered by Webasto
+Semester
+Mandatory
+TP - 22,5 | PL - 45 | OT - 10
+224
+8
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+3
+rd
+year - Spring Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Applied Cybersecurity
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Applied Economics
+Semester
+Elective
+T - 45 | OT - 5
+112
+4
+Business Law
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Digital Innovation Projects
+Semester
+Elective
+T - 45 | OT - 10
+112
+4
+Entrepreneurship and Project Analysis
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Financial Calculus and Project Analysis
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Forecasting Methods
+Semester
+Elective
+T - 67,5 | OT - 15
+168
+6
+Geospatial Analytics
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Informatics and Information Law
+Semester
+Elective
+TP - 45 | OT - 10
+112
+4
+Information Systems Seminar
+Semester
+Elective
+T - 9 | S - 45 | TC - 13,5
+168
+6
+Information Tecnologies, Governance and Service Management
+Semester
+Elective
+T - 22,5 | PL - 45 | OT - 10
+168
+6
+Machine Learning
+Semester
+Elective
+TP - 67,5 | OT - 15
+168
+6
+Network Analysis
+Semester
+Elective
+T - 67,5
+168
+6
+Nonparametric and Computational Statistics
+Semester
+Elective
+TP - 45 | OT - 5
+112
+4
+People Management and Leadership
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Process Intelligence
+Semester
+Elective
+TP - 45
+112
+4
+Remote Sensing
+Semester
+Elective
+TP - 67,5 | OT - 10
+168
+6
+Risk Management
+Semester
+Elective
+TP - 67,5 | OT - 10
+168
+6
+Smart and Sustainable Cities
+Semester
+Elective
+T - 45 | OT - 7,5
+112
+4
+Startup Venture Studio
+Semester
+Elective
+TP - 64,5 | OT - 7,5
+168
+6
+Survey Methodology
+Semester
+Elective
+TP - 45 | OT - 5
+112
+4
+Web Analytics
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+Course Unit
+Loading...
+modal item
+card item
+

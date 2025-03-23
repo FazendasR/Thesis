@@ -1,0 +1,274 @@
+Text from https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/postgraduate-program-in-information-management-and-business-intelligence-in-healthcare/study-plan/#:
+Study Plan
+Study Plan
+en
+Education
+Programs
+Postgraduate Programs and Master Degree Programs
+Postgraduate Program in Information Management and Business Intelligence in Healthcare
+Study Plan
+1
+st
+year - Spring Semester
+resumo do conteudo da tabela
+Course Units
+Type
+Duration
+ECTS
+Innovation, Change Management and the New Healthcare Client
+Mandatory
+Semester
+7,5
+Leadership and People Management
+Mandatory
+Semester
+7,5
+Planning and Management Control in Healthcare Organizations
+Mandatory
+Semester
+7,5
+Architectures for Information Systems
+Elective
+Quarterly
+3,5
+Big Data Analytics
+Elective
+Semester
+7,5
+Blockchain
+Elective
+Quarterly
+4
+Blockchain & CryptoAssets
+Elective
+Quarterly
+4
+Business Impact of Digital Projects
+Elective
+Quarterly
+3,5
+Consumer Behavior Insights
+Elective
+Semester
+7,5
+Credit Risk Management
+Elective
+Quarterly
+3,5
+Customer Relationship Management Systems
+Elective
+Semester
+7,5
+Cybersecurity
+Elective
+Semester
+7,5
+Data Collection, Administrative Sources and Big Data
+Elective
+Semester
+6
+Data Mining II
+Elective
+Semester
+7,5
+Data Visualization
+Elective
+Semester
+7,5
+Digital Transformation
+Elective
+Quarterly
+3,5
+E-Business
+Elective
+Quarterly
+4
+Econometrics Methods
+Elective
+Semester
+7,5
+Emerging Technologies for Innovation
+Elective
+Quarterly
+3,5
+Enterprise Cloud Mobility
+Elective
+Semester
+7,5
+Financial Derivatives and Risk Management
+Elective
+Semester
+7,5
+Generative Artificial Intelligence
+Elective
+Semester
+7,5
+Industry 4.0
+Elective
+Quarterly
+4
+Information Project Management
+Elective
+Quarterly
+4
+Information Project Management II
+Elective
+Quarterly
+3,5
+Innovation  Management and Design Thinking
+Elective
+Semester
+7,5
+Knowledge Management
+Elective
+Quarterly
+3,5
+Leadership and People Management
+Elective
+Semester
+7,5
+Market and Liquidity Risk Management
+Elective
+Quarterly
+4
+Market Research
+Elective
+Semester
+7,5
+Marketing Engineering and Analytics
+Elective
+Semester
+7,5
+Process Mining Powered By Nokia
+Elective
+Semester
+7,5
+Sampling Theory and Methods
+Elective
+Semester
+7,5
+Search Engine Optimization
+Elective
+Quarterly
+4
+Social Media Analytics
+Elective
+Semester
+7,5
+1
+st
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Type
+Duration
+ECTS
+Business Intelligence
+Mandatory
+Semester
+7,5
+New Healthcare Market
+Mandatory
+Quarterly
+4
+Sustainable Healthcare
+Mandatory
+Quarterly
+3,5
+Applied Multivariate Data Analysis
+Elective
+Semester
+7,5
+Brand Management
+Elective
+Quarterly
+3,5
+Business Process Management
+Elective
+Semester
+7,5
+Change Management
+Elective
+Quarterly
+4
+Data Governance
+Elective
+Quarterly
+3,5
+Data Management and Storage
+Elective
+Quarterly
+4
+Data Mining I
+Elective
+Semester
+7,5
+Data Privacy, Security and Ethics
+Elective
+Quarterly
+4
+Digital Analytics
+Elective
+Semester
+7,5
+Digital Marketing & E-Commerce
+Elective
+Semester
+7,5
+Experimental Design
+Elective
+Quarterly
+4
+Forecasting Methods
+Elective
+Quarterly
+3,5
+Information Management Systems
+Elective
+Quarterly
+3,5
+Information Systems Development
+Elective
+Quarterly
+4
+Information Systems Governance
+Elective
+Quarterly
+3,5
+Information Technologies Services Management
+Elective
+Quarterly
+4
+Investments and Portfolio Management
+Elective
+Semester
+7,5
+Life Insurance
+Elective
+Quarterly
+4
+Marketing Strategy and Innovation
+Elective
+Semester
+7,5
+Non-Life Insurance
+Elective
+Quarterly
+3,5
+Statistical Analysis
+Elective
+Semester
+7,5
+Time Series Analysis
+Elective
+Quarterly
+4
+Transformação Digital
+Elective
+Semester
+7,5
+Course Unit
+Loading...
+modal item
+card item
+

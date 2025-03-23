@@ -1,0 +1,286 @@
+Text from https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-in-statistics-and-information-management-with-a-specialization-in-data-analytics/study-plan/#:
+Study plan
+Study Plan
+en
+Education
+Programs
+Postgraduate Programs and Master Degree Programs
+Master Degree in Statistics and Information Management, with a specialization in Data Analytics
+Study plan
+1
+st
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Type
+Duration
+ECTS
+Forecasting Methods
+Mandatory
+Quarterly
+3,5
+Multivariate Analytics
+Mandatory
+Semester
+7,5
+Statistics for Data Analytics
+Mandatory
+Semester
+7,5
+Time Series Analysis
+Mandatory
+Quarterly
+4
+Applied Network Analysis
+Elective
+Semester
+7,5
+Banking and Insurance Economics
+Elective
+Quarterly
+3,5
+Business Intelligence I
+Elective
+Semester
+7,5
+Business Process Management
+Elective
+Semester
+7,5
+Change Management
+Elective
+Quarterly
+4
+Computational Statistics I
+Elective
+Semester
+6
+Data Governance
+Elective
+Quarterly
+3,5
+Data Management and Storage
+Elective
+Quarterly
+4
+Data Mining I
+Elective
+Semester
+7,5
+Data Privacy, Security and Ethics
+Elective
+Quarterly
+4
+DataBase Management Systems
+Elective
+Semester
+7,5
+Fixed Income Securities
+Elective
+Quarterly
+7,5
+Information Management Systems
+Elective
+Quarterly
+3,5
+Information Systems Development
+Elective
+Quarterly
+4
+Information Systems Governance
+Elective
+Quarterly
+3,5
+Information Technologies Services Management
+Elective
+Quarterly
+4
+Investments and Portfolio Management
+Elective
+Semester
+7,5
+Life Insurance
+Elective
+Quarterly
+4
+Monetary and Financial Statistics
+Elective
+Semester
+6
+Non-Life Insurance
+Elective
+Quarterly
+3,5
+Predictive Analytics in Finance
+Elective
+Quarterly
+4
+Transformação Digital
+Elective
+Semester
+7,5
+1
+st
+year - Spring Semester
+resumo do conteudo da tabela
+Course Units
+Type
+Duration
+ECTS
+Regression Analysis
+Mandatory
+Semester
+7,5
+Sampling Methods
+Mandatory
+Semester
+7,5
+Statistical Treatment of Data
+Elective
+Semester
+6
+Analysis of Discrete Data
+Elective
+Quarterly
+4
+Analysis of Variance
+Elective
+Quarterly
+4
+Architectures for Information Systems
+Elective
+Quarterly
+3,5
+Banking and Insurance Regulation and Supervision
+Elective
+Semester
+7,5
+Big Data Analytics
+Elective
+Semester
+7,5
+Blockchain
+Elective
+Quarterly
+4
+Blockchain & CryptoAssets
+Elective
+Quarterly
+4
+Business Impact of Digital Projects
+Elective
+Quarterly
+3,5
+Business Intelligence II
+Elective
+Semester
+7,5
+Computational Statistics II
+Elective
+Semester
+6
+Credit Risk Management
+Elective
+Quarterly
+3,5
+Customer Relationship Management Systems
+Elective
+Semester
+7,5
+Cybersecurity
+Elective
+Semester
+7,5
+Data Mining II
+Elective
+Semester
+7,5
+Data Visualization
+Elective
+Semester
+7,5
+Data-driven decision making
+Elective
+Quarterly
+4
+E-Business
+Elective
+Quarterly
+4
+Emerging Technologies for Innovation
+Elective
+Quarterly
+3,5
+Enterprise Cloud Mobility
+Elective
+Semester
+7,5
+Financial Derivatives and Risk Management
+Elective
+Semester
+7,5
+Financial Reporting
+Elective
+Semester
+6
+Gestão do Conhecimento
+Elective
+Quarterly
+3,5
+Human Resources Analytics
+Elective
+Semester
+4
+Industry 4.0
+Elective
+Quarterly
+4
+Information Project Management
+Elective
+Quarterly
+4
+Innovation  Management and Design Thinking
+Elective
+Semester
+7,5
+Leadership and People Management
+Elective
+Semester
+7,5
+Market and Liquidity Risk Management
+Elective
+Quarterly
+4
+Operational and Business Continuity Risk
+Elective
+Quarterly
+4
+Process Mining Powered By Nokia
+Elective
+Semester
+7,5
+Smart and Sustainable Cities
+Elective
+Semester
+7,5
+2
+nd
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Type
+Duration
+ECTS
+Dissertation/ Work Project
+Mandatory
+Annual
+30
+Research Methods
+Mandatory
+Annual
+5
+Course Unit
+Loading...
+modal item
+card item
+

@@ -1,0 +1,587 @@
+Text from https://www.novaims.unl.pt/en/education/programs/doctoral-program-in-information-management/doctoral-program-in-information-management/:
+Doctoral Program in Information Management
+Doctoral Program in Information Management
+en
+Education
+Programs
+Doctoral Program in Information Management
+Doctoral Program in Information Management
+The Doctoral Program in Information Management aims to
+promote knowledge and innovation in Information Management
+, particularly in the research of its impact on wealth creation, improving the performance of organizations and the development of new methodologies and decision-making tools.
+It provides advanced training through research, contributing to the progress of knowledge and the training of researchers, university teachers and highly qualified professionals.
+The study cycle in Information Management is designed to include five areas:
+Business Analytics;
+Data-Driven Marketing;
+Data Science;
+Geoinformatics;
+Information Systems.
+This Doctoral Program is part of
+NOVA Doctoral School
+, which main goals are to develop Good Academic Practices and offer complementary training to its students, in free attendance events. For more information, please click
+here
+.
+The applications for this program are open between
+February 6
+th
+and March 7
+th
+, 2025. To apply, click
+here
+.
+Format
+After Working Hours
+Length and ECTS
+6 semesters (180 ECTS)
+Attendance
+2 to 3 times a
+week
+Start Date
+September 2025
+Who is it for?
+This Doctoral Program aims to provide advanced knowledge for highly qualified researchers, teachers, technical staff and managers.
+Goals
+The Doctoral Program provides advanced training through research, contributing to the progress of knowledge and the training of researchers, university teachers and high qualification professionals. The research may follow a more theoretical approach or be developed in an applied context, allowing the knowledge transfer from academia to society.
+The main goal is to acquire:
+Solid scientific knowledge in an area of expertise;
+Ability to design and develop independent research, according to international quality standards, the results must be of publishable quality for international journals;
+Communication skills for research and the academic community;
+Skills to manage innovation in academia, private enterprise, or public administration.
+Study plan
+Study plan
+Mandatory Course Units
+Elective Course Units
+Program Coordinator
+Faculty
+Academic calendar
+Lenght and timetable
+Scholarships
+NOVA Doctoral School
+Regulations and accreditations
+Admissions and fees
+FAQ
+Study plan
+The standard length of the Doctoral Program is no fewer than 6 semesters (full-time). However, it is desirable not to exceed a period of 4 years.
+The curricular component takes place in the first three semesters, and corresponds to 40 credits (ECTS). These are distributed between mandatory course units (25 ECTS) and elective course units (15 ECTS). The conclusion of the curricular component awards a Diploma of Advanced Studies.
+Research Seminar I;
+Research Seminar II;
+Research Seminar III;
+These.
+1
+st
+Year
+Course Units
+Semester
+Professor
+ECTS
+Research Seminar I
+Fall Semester
+Tiago Oliveira
+7,5
+Research Seminar II
+Spring Semester
+Paulo Rita
+7,5
+Elective Course Units
+Fall/ Spring Semester
+-
+15
+Course Unit
+Loading...
+modal item
+card item
+2
+nd
+Year
+Course Units
+Semester
+Professor
+ECTS
+Research Seminar III
+Fall Semester
+Marco Painho
+10
+Course Unit
+Loading...
+modal item
+card item
+3
+rd
+Year
+Course Units
+Semester
+ECTS
+Thesis
+Fall/ Spring Semester
+140
+Course Unit
+Loading...
+modal item
+card item
+Mandatory Course Units
+Research Seminar I
+Introduction to NOVA IMS' research fields through presentations by the researchers / teachers. Introduction to the main research methodologies in Information Management. The students determine their work subject, the research literature/bibliography and present a preliminary proposal for their dissertation.
+Research Seminar II
+Continues the work developed in Research Seminar I, focusing on the methodologies and the preparation of the research work proposal. In this course the students make an advanced and comprehensive research literature/bibliography, and determine, in great detail, the methodologies to be applied in their dissertation. At this stage the dissertation advisor is chosen.
+Research Seminar III
+The main goal of this course unit is to introduce the student to scholarly publishing. The students develop regular presentations, ending with the production of a first peer-reviewed publication, or the peer-reviewed presentation of the preliminary research findings at an international conference.
+Elective Course Units
+For the conclusion of the lective part, Students will have to choose 15 ECTS in Elective Course Units among the following are available:
+Course Units
+Semester
+Professor(s)
+ECTS
+Advanced Topics Geographic Information Science
+Fall Semester
+Marco Painho
+7,5
+Experimental Design
+Fall Semester
+Diego Costa Pinto
+5
+Machine Learning
+Fall Semester
+Fernando Bação
+7,5
+Scale Development
+Fall Semester
+Pedro Simões Coelho
+5
+Business Decision Making with Data Science
+Spring Semester
+Nuno António
+7,5
+Advanced Topics in Geospatial Analysis
+Spring Semester
+Ana Cristina Costa
+Roberto Henriques
+7,5
+Genetic Programming
+Spring Semester
+Leonardo Vanneschi
+Mauro Castelli
+7,5
+Theories of the Adoption and Impact of Technologies
+Spring Semester
+Tiago Oliveira
+7,5
+Theory Testing with Structural Equation Modelling
+Spring Semester
+Pedro Simões Coelho
+5
+Course Unit
+Loading...
+modal item
+card item
+See in here the program of each course unit:
+Fall Semester
+Advanced Topics Geographic Information Science
+Main goals of this course unit:
+Identify the properties of Geographic Information (GI);
+Recognize the importance of GI at present;
+Know the use of GIS to different knowledge domains;
+Know and apply correctly the concepts related to the use of GI and associated technologies;
+Understand the relations between GI Science (GISc) and GIS;
+Identify the main GISc components;
+Frame the main geographic problems in the context of GISc’s components and explore their relations and
+challenges;
+Recognize the main advantages on presenting a holistic model of a functional GIS;
+Understand the main future research challenges in GISc;
+Understand the concept of spatial modeling and its importance in GIS;
+Identify several spatial modeling methodologies and to recognize their suitability considering existing project
+objectives and existing data constraints.
+Experimental Design
+This course unit aims to develop skills, methodologies, and research. At the end of the course unit, students should be able to:
+Design, conduct, and analyze experiments in any field of knowledge;
+Develop and conduct their own experimental studies.
+Machine Learning
+Main goals of this course unit:
+Ensure that students in the PhD program who wish to develop their PhD project in the area of data science have
+advanced theoretical knowledge and are formally grounded in the area of machine learning;
+Understand the fundamental paradigms and principles is machine learning;
+Understand how to perform evaluation of learning algorithms and model selection;
+Know the main machine learning research areas at NOVA IMS;
+Be able to develop, test and assess the performance of prototypes of learning models in Python and scikit-learn;
+Be able to read current research papers and understand the scientific issues involved.
+Scale Development
+The development of measurement scales is a fundamental tool to support research in business and social sciences and in general for all those that perform research based on theory testing. This course provides an introduction to scale development in the context business and social sciences research. It covers both qualitative and quantitative methods that may be used to conceptualize, operationalize, test and validate different scales and measurement models in the research framework. The main goal is to provide professionals, researchers and doctoral students with the methodological tools to develop scales underlying the test of theories in the context of social sciences.
+Spring Semester
+Advanced Topics in Geospatial Analysis
+PAt the end of the course unit, students should be able to:
+Use advanced tools for Exploratory Spatial Data Analysis (ESDA);
+Describe the characteristics and patterns of spatial data;
+Verify the assumptions of regression models, understand the consequences of violating the assumptions; apply
+corrections; interpret the results;
+Understand the spatial regression models, discuss their limitations, apply the appropriate model, and interpret the
+results;
+Understand the implications of the spatial prefix in Spatial Data Mining and the concepts of Spatial associations and
+Spatial outliers;
+Understand unsupervised learning applied to spatial data and analyze the state-of-the-art algorithms;
+Understand supervised learning for spatial classification and spatial regression problems and analyze the state-of-
+the-art algorithms;
+Understand spatio-temporal and trajectory data mining;
+Identify the main research areas of geospatial analysis and understand the limitations of current methods.
+Business Decision Making with Data Science
+Description
+This course focuses on applying critical thinking, business management, machine learning, data mining, causal inference, data visualization, and statistical techniques to address business challenges and improve decision-making.
+Enrollment requirements
+Students should have previous approval in a Machine Learning or Predictive Analytics course and in a Data Mining, Statistics, or Introductory Data Science course.
+Genetic Programming
+Main goals of this course unit:
+Introducing the main concepts of Evolutionary Computation, motivating its importance in several different
+applicative scenarios;
+Introducing Genetic Programming, explaining why and how it is particularly appropriate for Data Science (and thus
+creating an important link with the discipline of Machine Learning);
+Presenting the recent trends and hot topics of research in Genetic Programming;
+Introducing the concept of Neuroevolution, with some of its possible different aspects.
+Theories of the Adoption and Impact of Technologies
+This course unit aims to develop skills, methodologies and research. At the end of the course unit, students should be able to:
+Critically discuss key concepts and concepts related to information technology (IT) adoption models and ITs impact
+models;
+Conduct scientific research related to the adoption and/or impact (value) models of ITs;
+Present the results of research;
+Criticize and evaluate the results of colleagues;
+Write a scientific article that may be published in a high impact journal (Q1 or ABS list level 3).
+Theory Testing with Structural Equation Modelling
+With the completion of this course unit, Students should be familiar with the various steps associated with the specification, identification, estimation, evaluation and modification of structural equation models needed to test theories in social sciences.
+Students should also be able to select the estimation methods that are most appropriate to the context in which they work, know the application requirements of each method and make the most appropriate decisions at every stage of modelling.
+Finally, Students should be able to organize and present the produced results and to write the results section of a report or a scientific paper.
+Program Coordinator
+Pedro Simões Coelho
+Full Professor
+psc@novaims.unl.pt
+Know more
+Faculty
+The faculty consists of highly qualified teachers, of recognized competence in their areas of expertise to ensure the quality of teaching and the adequate students monitoring.
+Leonardo Vanneschi
+Full Professor
+lvanneschi@novaims.unl.pt
+Know more
+Marco Painho
+Full Professor
+painho@novaims.unl.pt
+Know more
+Pedro Simões Coelho
+Full Professor
+psc@novaims.unl.pt
+Know more
+Tiago Oliveira
+Full Professor
+toliveira@novaims.unl.pt
+Know more
+See Detailed Teaching Staff
+Lenght and timetable
+Length
+The program lasts 6 academic semesters and includes the curricular component during the first three semesters, divided in 25 ECTS in Mandatory Course Units (Research Seminar I, II and III) and 15 ECTS in Elective Course Units.
+Timetable
+Academic year 2024-25: see the timetable
+here;
+Academic year 2025-26: classes of the 1
+st
+year start in September 2025, ending in June 2026 and running after working hours (after 6:30 p.m.), 2 to 3 times a week.
+Scholarships
+The NOVA IMS programs, offer a unique learning experience, combining theory with the application of the best and most innovative teaching practices.
+If you are interested in studying at NOVA IMS and want to explore scholarship and award opportunities, this page is your starting point to discover the options available in the different programs.
+Know more about it
+here
+.
+NOVA Doctoral School
+The Doctoral Program in Information Management is part of the NOVA Doctoral School (NED), the doctoral school of Universidade NOVA de Lisboa. NED promotes the quality, interdisciplinarity and internationalization of the University's PhD programs, and reinforces the doctoral candidates' personal and professional training, through a wide range of skills training programs. NED promotes:
+Complementary training for the Doctoral candidates;
+Academic and scientific activities, that promote interdisciplinarity, creating an open space for discussion and creativity;
+Sharing good practices not only among the University's PhD programs, but also through partnerships with other higher
+education institutions;
+The creation of collaborative mechanisms with businesses and society.
+The attendance in NED's activities is free for NOVA IMS's Doctorate students. More information about the NOVA Doctoral School can be found at
+www.unl.pt/escola-doutoral
+.
+Regulations and accreditations
+Regulations
+Admission to the Doctoral (3
+rd
+cycle of studies) is governed by its established regulations.This Regulation nº 332/2021 was published in the Diário de República, 2
+nd
+series– N 69 – April 9
+th
+, 2021. You can download the Regulation
+here
+(in Portuguese).
+Accreditations
+Study Program Self-Evaluation Report;
+External Review Team Final Report (CAE);
+Decision of the A3ES Board of Directors;
+A3ES Deliberation.
+Admissions and fees
+Admissions and Fees
+The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
+2nd Applications phase
+From February 6
+th
+to March 7
+th
+, 2025.
+Requirements
+To enter the Doctoral Program, applicants must meet one of the requirements set out in national legislation:
+Hold a Master's degree or equivalent, or a bachelor's degree, in which the number of credits is at least 240. In this case the
+final grade average must be at least 16 (out of 20);
+Hold a degree and a relevant academic or scientific curriculum and which has been recognized and approved by the Academic
+Board that declares that the applicant is able to carry out this cycle of studies;
+Applicants must show proficiency in English (spoken and written).
+How to apply
+The application process includes the following documents:
+Fill the form available in
+NOVA IMS' Applications Portal
+;
+Curriculum Vitae
+;
+Identity Card or passport (optional);
+A copy of degree certificate, with the classifications obtained (optional);
+If the applicant submits a request to FCT – MCTES for a scholarship (and only in this case), the applicant must submit the
+research work proposal and the acceptance letter by the supervisor;
+Letter of intent, in which the applicant explains the reasons for seeking admission in the Doctorate Program;
+Two recommendation letters (optional).
+Admission criteria
+The admission process is based on:
+Final grade of the master's and/or the bachelor's degrees;
+Analysis of the academic and scientific
+curriculum
+;
+Analysis of the professional
+curriculum
+.
+The members of the Admissions's Jury Panel may decide to hold an interview with all or some candidates - face-to-face or videoconference.
+Application fee
+The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
+Registration fee
+After being admitted to the program and upon confirmation of enrollment, the candidate must make a payment of pre-registration (around one week after the admission result announcement), deductible in the Doctoral Program's tuition fee, non-refundable in case of withdrawal, with the following value:
+€1.250 for applicants with a nationality from a European Union member country;
+€1.500 for applicants of other nationalities, unless their registration fee is provided by an official entity.
+Upon registration, the students should make the following payments:
+€35 - for enrollment fee (this value is updated annually);
+€1,40 - for annual school insurance (this value is updated annually).
+The registration fee for the 2
+nd
+year and the following years is €35 (this value is updated annually).
+Tuition fee
+The tuition fee of this Doctoral Program is:
+€ 3.000 per year, for applicants with a nationality from a European Union member country;
+€ 3.600 per year, for applicants of other nationalities.
+Tuition fee payment dates
+The tuition fee of this program for the 1
+st
+year can be paid in full or in four installments:
+Payment in full: from September 25
+th
+to 30
+th
+, 2025.
+Payment in four installments:
+1
+st
+. September 25
+th
+to 30
+th
+, 2025 (25% of the tuition fee);
+2
+nd
+. November 25
+th
+to 30
+th
+, 2025 (25% of the tuition fee);
+3
+rd
+. February 22
+nd
+to 28
+th
+, 2026 (25% of the tuition fee);
+4
+th
+. April 25
+th
+to 30
+th
+, 2026 (25% of the tuition fee).
+Discounts
+Financial Discount: Students who choose to pay fee in a full payment have a 2,5% discount on the payable amount;
+NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount.
+Scholarships
+The Coordinator of the Program encourages and helps doctoral students with applications for scholarships or other financial support. Applicants in the Doctoral Program of NOVA IMS are, historically, highly successful in their applications for scholarships from FCT – the Science and Technology Foundation.
+FAQ
+Do you have a question? Explore the most frequently asked questions and find the answer here! If you still have unanswered questions, please contact us!
+Applications
+When can I apply?
+It is only possible to submit the application during its applications phase. The date of the call for applications is available in the Admissions and Fees page of each program. However, you can fill the application form at any time, submitting it when the applications phase starts.
+How can I apply?
+The applications are submitted online, in
+NOVA IMS’ Applications Portal
+. To submit their application, the applicants must register in the Portal, fill the form, upload your Curriculum Vitae, choose the program and pay the application fee in the Portal. The application process is the same for all the applicants, national or international.
+Which documents are required?
+The only mandatory document during the application process is the
+Curriculum Vitae
+(in .doc or .pdf format). The applicant can upload other documents such as diploma or other certificate of their qualifications.
+How do I convert a file to .PDF?
+Here is a list of websites where you can convert files to the pdf format, as a reference:
+https://smallpdf.com/word-to-pdf
+https://www.zamzar.com/
+https://cloudconvert.com/
+https://www.ilovepdf.com/
+https://online2pdf.com/doc-to-pdf
+Is there an application fee?
+The application fee is €51 in the academic year 2025-26. The payment of the application fee will be made during the application process in the
+Applications’ Portal
+, through bank transfer/ATM reference, MBWay, PayPal or Visa. The application will only be considered successfully submitted after the payment of the application fee, within the stipulated time. It’s non-refundable in case of withdrawal or non-admission in the program.
+Can I apply to more than one program?
+You can apply to a maximum of 2 programs per application phase, by paying the application fee for each program, that is, the application to 1 program equals the payment of 1 application fee, the application to 2 programs equals the payment of 2 application fees.
+I have a bachelor's degree. Can I apply?
+You are eligible to apply if you hold a bachelor's degree, in which the number of credits is at least 240. In this case the final grade average must be at least 16 (out of 20). The applicant must also have a relevant academic or scientific curriculum, and which has been recognized and approved by the Academic Board that declares that the applicant is able to carry out this cycle of studies.
+In the application form, a Tax Identification Number is requested. What is Tax Identification Number? I don’t have one, what should I put in that blank field?
+In Portugal, the Tax Identification Number is required to identify a taxable entity or person, in tax declarations or financial transactions. If you don’t have a Tax ID Number or similar, please put “999999999” in that field of the application form.
+What should I write in the field: “Goals/motivation to apply to this program”?
+In this field, please mention:
+In which way your background (academic and professional) fits the program;
+What are your short-term professional goals;
+What are your expectations with the attendance of this program.
+Admission
+How does the selection process work?
+The selection process is based on the analysis of the academic and professional
+curriculum
+. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some candidates – face-to-face or videoconference).
+In case I am contacted for an interview, can it be held at distance?
+Yes, the interview can be held at distance, preferably by Zoom.
+When will I know the result of the application?
+The result of the application will be known, through email, in the date to be announced in the confirmation of submitted application email and/or by the Admissions’ Jury/Programs Manager.
+I was admitted in the program. What’s the next step?
+In case of admission, the applicant must make the payment of the pre-registration fee (around 1 week after the result announcement), until its deadline, in NOVA IMS’ Applications Portal and upload the diploma or other certificate of his latest qualification (example: Bachelor’s degree, Master’s degree or PhD).
+Can I attend more than one program by academic year?
+Yes, you may attend two programs per school year, although it’s not recommended. Please pay attention to the fact that there may be overlap of the Mandatory Course Units of each program, as well as the overlap of the exams.
+I was admitted in two programs, but I only intend to attend one. What should I do?
+In case of admission to two programs, the candidate will have to choose, in the Application Portal, the program in which they intend to attend. After choosing the desired program and paying the pre-registration fee, you must select the option "Withdrawal" in the 2
+nd
+program in which you do not intend to attend. Thus, your vacancy is available to a candidate on the Waiting List.
+I'm on the Waiting List. Can I still be admitted?
+Since it is possible for candidates to apply for two programs per application phase, there will be cases where the same candidate has been admitted to both programs, but intends to join only one. In these cases and if the limit number of vacancies is not completed, the remaining vacancy will be assigned to a candidate on the Waiting List.
+I intend the invoice for the payment of the application / pre-registration fees.
+The Invoice-Receipt will be available in this Applications’ Portal up to 2 business days after the payment, in the tab "Billing/Treasury".
+I was admitted in the program, but I need visa. What should I do?
+NOVA IMS can issue a document that proves admission in the program, that will be sent to the student and the Embassy. The document will only be issued or provided after the payment of the pre-registration fee. Regardless of issuance the document, the student must contact the Portuguese Embassy or Consulate in their country to get more information.
+Other Informations
+Is this program taught in Portuguese or English?
+Considering the diversity of students’ nationalities, all the classes will be taught in English.
+Are there scholarships?
+NOVA IMS does not award scholarships. However, you can apply to Universidade Nova de Lisboa’ scholarships and financial support, provided by the university’s Social Welfare Services. You can learn more at
+https://sas.unl.pt/en/scholarships-2/scholarships_/
+or contact them directly to
+bolsas@unl.pt
+. We don’t hold information about other scholarships.
+Is it possible to park on campus?
+The students can park their vehicles on campus, if they have the access card. There are several parking areas on campus and near to NOVA IMS. The request for access of vehicles to Campus de Campolide is made through registration or renewal of registration and subsequent payment. To do this, the interested parties should register in the system and select the type of access. Afterwards, they will receive all the data for the payment. It should be noted that the management of parking spaces is the exclusive responsibility of the NOVA’s Rectory. For more information, please visit the webpage
+http://www.unl.pt/en/nova/parking-campus
+.
+Is there accommodation on campus?
+The Social Welfare Services of Universidade Nova has ties with three student residences (one of them in Campus de Campolide) for Portuguese scholarship student and international students. The capacity of accommodation at school residences is limited. We can’t, in any way, guarantee you a room and we can only put your name on a waiting list, only after confirmation of admission. You will find more information about the residences at
+https://sas.unl.pt/en/accommodation/
+.
+In case you are admitted to the program and want accommodation in one of the University’s residences, please contact
+adnovaims@novaims.unl.pt
+.
+Can you help me look for accommodation websites?
+Here’s a list of websites, just for reference:
+Airbnb
+;
+BQuarto
+;
+Casa Alfacinha
+;
+Collegiate
+;
+Coolivin
+;
+Easy Roomate
+;
+Erasmusu
+;
+Erasmus Life Lisboa
+;
+Erasmus Lisboa
+;
+Erasmus Student Network
+;
+Fundação Cidade de Lisboa
+;
+Housing Anywhere
+;
+Houze Student
+;
+Lemon Garden
+;
+Lisbon Rooms
+;
+Livensa Living
+;
+Residência Avenidas
+;
+Accommodation at Rua Fialho de Almeida 17 4E
+;
+Spot A Home
+;
+The Housing Concept
+;
+Traveling To Lisbon
+;
+UHub
+;
+Uniplaces
+;
+Wimdu
+.
+Does the University offer a Portuguese course for international students?
+Yes, there is a
+Course of Portuguese as Foreign Language
+. This course is available in 4 types of classes:
+Individual lessons
+(the student arranges the schedule with the teacher according to their availability);
+Semester Group lessons
+(56 study classes + 8 hours for other activities);
+30 hours intensive course
+(2 weeks);
+Online summer course
+(month of July).
+If you have any questions about this course, please contact:
+cursoportugues@fcsh.unl.pt
+.
+Pedro Guerra
+Lead Data Analyst | Banco de Portugal
+Pedro Ruivo
+Professor Auxiliar Convidado | NOVA IMS & Head of DSC Sales for Portugal | SAP
+Luis Madureira
+Managing Partner - Chief Intelligence Officer & Advisor at ÜBERBRANDS | Invited Assistant Professor at NOVA IMS
+Catarina Neves
+Invited Assistant Professor | NOVA IMS
+João Fonseca
+Invited Assistant Professor | NOVA IMS
+Caetano Haberli Júnior
+Consultant | CHJ Negócios, Estratégias e Pesquisa
+Frank Bivar Franque
+PhD Student Consultant | Trustly
+Yasser Al Helaly
+Invited Assistant Professor | NOVA IMS
+Saleh Shuqair
+Researcher | NOVA IMS
+2
+/
+9
+My PhD at NOVA IMS was an intense, transforming, and extremely rewarding journey. NOVA IMS stands at the forefront of academic excellence and practical relevance, and its close relationship with industry and government bodies made it a clear choice for my doctoral studies. This doctoral program strikes an excellent balance of academic rigor, industry relevance, and expert mentorship.
+The challenges posed throughout this experience were immense. Demanding research, and the constant push towards innovation were always hallmarks of this program, and the curriculum was carefully designed to foster critical thinking.
+I could not go without thanking Prof. Mauro Castelli for his invaluable support, guidance, and experience. He was a crucial pillar of my success.
+The NOVA IMS Doctoral Program in Information Management provided me with an invaluable experience and new way of thinking that indelibly has been shaping my journey as an executive in the business software industry. Sponsored by Microsoft my research was mainly focused on how analytics, collaboration and use contributes to enterprise applications value. Partnering with international researchers and under the supervision of Prof. Tiago Oliveira and Prof. Miguel Neto my research was published across five high-impact journals. A few years later joined SAP to promote the adoption of in-memory computing by enterprises.
+The PhD in Information Management at NOVA IMS was an enriching experience. NOVA IMS, which stands out for its academic excellence, provided me with a solid foundation in data science and information management that complemented my professional experience in Competitive Intelligence, which is essential in today's marketplace. The professors and experts in these fields, as well as the access to academic resources, allowed me to explore new frontiers of knowledge, publish in top scientific journals, and lay the foundation for Competitive Intelligence Science. This program has not only prepared me for new professional challenges, but has also fostered my personal growth. I am proud to be part of NOVA IMS's community, an institution that truly values innovation and applied research.
+This doctoral program was an exceptional and very rewarding experience. I would like to highlight the excellent guidance, the opportunity to learn new methodologies through interaction with renowned professionals and academics, and, without a doubt, the collaborative and welcoming academic environment. NOVA IMS was more than a school; it was the impetus for my professional development, preparing me for the challenges of an academic and research career. I am very grateful to NOVA IMS for providing me with an exceptional PhD program that has consolidated my career in the field of Information Management.
+The PhD Program in Information Management at NOVA IMS provided me with the opportunity to cultivate independent research skills. The carefully crafted curriculum, tailored to the needs of each student, facilitated the development of the research work. Throughout the program,I felt completely free to explore the topics that intrigued me the most. The unwavering support from all the faculty involved, particularly my supervisor, Professor Fernando Bação, proved exceptional and instrumental to my success in the program.
+NOVA IMS’ Doctoral Program in Information Management is extraordinary. Personal and professional satisfaction can be interpreted as growth. I grew in my skills alongside giants. Thank you, NOVA IMS!
+NOVA IMS offers a great experience for international students. The quality of the Doctoral Program in Information Management is exceptional and very enriching, thus, providing important tools for the researcher's career. It is also important to reference the quality and motivation of the professors involved in preparing the new researchers.
+As a PhD graduate from NOVA IMS, I deeply explored cybersecurity, focusing on identity protection and privacy. The program effectively bridged theory and practice in information security, aiding my academic and professional development. I gained invaluable experience in publishing and presenting at top IS journals and conferences. Now, as a cybersecurity professor, I impart these insights to a new generation of students. This journey at NOVA IMS was transformative, equipping me to tackle contemporary cybersecurity challenges with confidence. To future PhD students at NOVA IMS: you are embarking on a journey that will inspire and challenge you, preparing you for a dynamic and rewarding career in information management.
+The experience was personally enriching, unique, and fulfilling. The level of engagement, and interaction that I received from the faculty, helped prepare me for an excellent academic and research career path. Indeed, the Doctoral Program provides rigorous methodology training, dedicated supervision, as well as a robust research environment exemplified by regular seminars.
+

@@ -1,0 +1,362 @@
+Text from https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/postgraduate-program-in-geospatial-intelligence/:
+Postgraduate Program in Geospatial Intelligence
+Postgraduate Program in Geospatial Intelligence
+en
+Education
+Programs
+Postgraduate Programs and Master Degree Programs
+Postgraduate Program in Geospatial Intelligence
+The Geospatial Intelligence Certificate,
+accredited by the
+United States Geospatial Intelligence Foundation (USGIF)
+, provides education and training in scientific concepts, methods and key geospatial technologies, used in the solution of global problems of security and defense, including emergency and civil protection, natural disasters, humanitarian crisis, environmental risks, military operations, political action in general, public health, education, transport, telecommunications, management dilemmas of heritage, as well as responding to economic, social and cultural challenges, among many others.
+The main objective of this course is to train technicians capable of applying knowledge of image processing and remote sensing, geographic information science, informatics and processes analytical tools to geospatial intelligence, as well as selecting, using, synthesizing and demonstrating the techniques, skills and tools needed to solve GEOINT problems that, on a day-to-day basis, affect and stimulate the society in general.
+The completion of this postgraduate degree guarantees access to the
+Master Degree in Geographic Information Systems and Science
+.
+Accredited by the United States Geospatial Intelligence Foundation (USGIF)
+Know more
+Next
+Next article
+Partner Entities
+Academia Militar
+Esri Portugal
+Centro de Informação Geoespacial do Exército
+United States Geospatial Intelligence Foundation
+Loading...
+resumo do conteudo da tabela
+Curricular
+Unit
+Program
+Annual Prize
+Value
+caption text
+Format
+After Working Hours
+Length and ECTS
+2 semesters
+(60 ECTS)
+Attendance
+2 times a week
+Start Date
+September 2024
+Who is it for?
+This Postgraduate Program, with access to the GEOINT Certificate and the USGIF Certificate, is for anyone who desires to work in or who already is working in GEOINT fields, such as emergency and disaster response, environmental change, national and corporate defense and security.
+This certificate is especially relevant to individuals in:
+Armed Forces and Security Forces and Services working with geospatial information;
+National and international humanitarian and civil protection agencies and organizations, as well as non-governmental organizations operating in geopolitically deprived and/or conflict regions;
+Organizations operating in the fields of security, defense, and space;
+Studies and assessments of environmental and climate changes, including land use and physical conditions of the Earth's surface (impacts of drought, fire, pests, coastal/maritime conditions, and natural disasters);
+Government agencies in the areas of internal administration, statistics, international cooperation, justice, economy, planning and management, health, education, and information services.
+Goals
+According to USGIF accreditation criteria, GEOINT graduates know how to:
+Apply and develop knowledge of image processing and remote sensing, geographic information science, computing and analytical processes to geospatial intelligence;
+Investigate, collect, and interpret data that leads to complex analyses;
+Promote a network that unifies the National GEOINT Community (National GEOINT Network), aiming at the development and innovation in this knowledge area;
+Work in a collaborative environment;
+Select, use, synthesize, and demonstrate the techniques, skills and tools necessary to solve geospatial intelligence problems.
+Study plan
+Study plan
+Program Coordinator
+Faculty
+Academic calendar
+Length and timetable
+Scholarships
+Admissions and fees
+FAQ
+Study plan
+The study plan of this program consists of 10 course units:
+1
+st
+Semester
+Course Units
+ECTS
+Advanced Topics in Geospatial Intelligence
+2,5
+Artificial Intelligence (Image Classification)
+4
+Intelligence for Defence and Security
+7,5
+Geographical Information Systems and Science
+4
+Geospatial Datamining
+4
+Modelling in Geographic Information Systems
+4
+Structured Analytical Tecnhiques for Intelligence Analysis
+4
+Course Unit
+Loading...
+modal item
+card item
+2
+nd
+Semester
+Course Units
+ECTS
+Advanced Topics in Geospatial Intelligence
+2,5
+Geospatial Intelligence (GEOINT) - CAPSTONE
+7,5
+Geospatial Predictive Analysis
+4
+Imagery Intelligence (IMINT)
+4
+Remote Sensing (Active Sensors)
+4
+Remote Sensing (Passive Sensors)
+4
+Social Network Intelligence
+4
+Course Unit
+Loading...
+modal item
+card item
+Program Coordinator
+Marco Painho
+Full Professor
+painho@novaims.unl.pt
+Know more
+Academic calendar
+Academic year 2024-25
+The classes will start in September 2024, ending in June 2025, and run after working hours, 2 to 3 times a week.
+The school calendar for the 2024-25 academic year will be published in June 2024.
+Length and timetable
+Length
+The program lasts 2 semesters. The classes will start in September 2024, ending in June 2025 and run after working hours (after 6:30 p.m.), 2 to 3 times a week.
+This program works on a face-to-face format, however there might be the possibility for remote participation through synchronous means (for example: Zoom or Teams).
+Timetable
+The schedule for the 2024-2025 academic year will be published in July 2024.
+Scholarships
+The NOVA IMS programs, offer a unique learning experience, combining theory with the application of the best and most innovative teaching practices.
+If you are interested in studying at NOVA IMS and want to explore scholarship and award opportunities, this page is your starting point to discover the options available in the different programs.
+Know more about it
+here
+.
+Admissions and fees
+The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
+Entry Requirements
+To enter this program, applicants must meet the following requirements:
+Hold a bachelor's degree in a compatible field
+(completed by September 2025);
+Be proficient in English (spoken and written).
+How to Apply and Selection Process
+To apply, you need to access the
+NOVA IMS' Applications Portal
+and follow these steps:
+Fill in the form available in the user area, namely
+:
+Personal, academic and professional background;
+Upload your Curriculum Vitae
+(this
+is the only mandatory document
+for the application). Although it is not necessary to attach any other documents, the applicant has the option of including other documents that they consider relevant to enrich their application, such as a certificate of completion of their Bachelor's and/or Master's degree.
+Please note
+that if you are admitted, you will need to submit your Bachelor's and/or Master's degree completion certificate, or a certificate of attendance if you have not yet completed your degree, within one month;
+Choose the program;
+Present the goals and motivation for applying
+to the program (limit 1,000 characters, including spaces);
+Pay the application fee
+. After this last step, the applicant will receive an email confirming their submitted application.
+The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
+Application Fee
+The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
+Tuition Fee
+The tuition fee of this postgraduate program is €4.100.
+Tuition Fee Payment Dates
+The tuition fee of this postgraduate program can be paid in full or in four installments:
+Full payment: September 25
+th
+to 30
+th
+, 2024.
+Payment in four installments:
+1
+st
+: September 25
+th
+to 30
+th
+, 2024 (25% of tuition fee);
+2
+nd
+: November 25
+th
+to 30
+th
+, 2024 (25% of tuition fee);
+3
+rd
+: February 22
+nd
+to 28
+th
+, 2025 (25% of tuition fee);
+4
+th
+: April 25
+th
+to 30
+th
+, 2025 (25% of tuition fee).
+Registration Fee
+After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of a pre-registration fee (around one week after the admission result announcement), deductible in this postgraduate program's tuition fee, non-refundable in case of withdrawal, with the following value:
+€1.250 for applicants from EU and Portuguese-speaking countries;
+€2.500 for applicants from other countries, unless their registration fee is provided by an official entity.
+Upon registration, students should make the following payments:
+€35 - for enrollment fee (the value is updated annually);
+€1,40 - for annual school insurance (the value is updated annually).
+Discounts
+Financial discount: students who choose to pay the tuition fee in a single payment have a 2,5% discount on the payable amount;
+NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount;
+Companies that finance the program to at least 2 employees, in the same academic year, have a 10% discount on the tuition
+fee. This discount is not cumulative with other discounts;
+Companies that finance the program to 3 or more employees, in the same academic year, have a 20% discount on the tuition
+fee. This discount is not cumulative with other discounts;
+Members of the Ordem dos Engenheiros – Região Sul, have 15% discount on tuition fees. This discount can be extended to members' spouses and descendants upon presentation of valid documentation. For more information, please contact admissions@novaims.unl.pt. This discount is not cumulative with other financial discounts.
+FAQ
+Do you have a question? Explore the most frequently asked questions and find the answer here! If you still have unanswered questions, please contact us!
+Applications
+When can I apply?
+It is only possible to submit the application during its applications phase. The date of the call for applications is available in the Admissions and Fees page of each program. However, you can fill the application form at any time, submitting it when the applications phase starts.
+How can I apply?
+The applications are submitted online, in
+NOVA IMS’ Applications Portal
+. To submit their application, the applicants must register in the Portal, fill the form, upload your Curriculum Vitae, choose the program and pay the application fee in the Portal. The application process is the same for all the applicants, national or international.
+Which documents are required?
+The only mandatory document during the application process is the
+Curriculum Vitae
+(in .doc or .pdf format). The applicant can upload other documents such as diploma or other certificate of their qualifications.
+How do I convert a file to .PDF?
+Here is a list of websites where you can convert files to the pdf format, as a reference:
+https://smallpdf.com/word-to-pdf
+https://www.zamzar.com/
+https://cloudconvert.com/
+https://www.ilovepdf.com/
+https://online2pdf.com/doc-to-pdf
+Is there an application fee?
+The application fee is €51 in the academic year 2024-25. The payment of the application fee will be made during the application process in the
+Applications’ Portal
+, through bank transfer/ATM reference, MBWay, PayPal or Visa. The application will only be considered successfully submitted after the payment of the application fee, within the stipulated time. It’s non-refundable in case of withdrawal or non-admission in the program.
+Can I apply to more than one program?
+You can apply to a maximum of 2 programs per application phase, by paying the application fee for each program, that is, the application to 1 program equals the payment of 1 application fee, the application to 2 programs equals the payment of 2 application fees.
+I'm a bachelor's degree senior student. Can I apply ?
+Yes. If you are a final year student and you graduate until September 2024, you can apply and you must deliver an authenticated copy of your degree certificate or diploma until the beginning of the academic year, until September 2024.
+In the application form, a Tax Identification Number is requested. What is Tax Identification Number? I don’t have one, what should I put in that blank field?
+In Portugal, the Tax Identification Number is required to identify a taxable entity or person, in tax declarations or financial transactions. If you don’t have a Tax ID Number or similar, please put “999999999” in that field of the application form.
+What should I write in the field: “Goals/motivation to apply to this program”?
+In this field, please mention:
+In which way your background (academic and professional) fits the program;
+What are your short-term professional goals;
+What are your expectations with the attendance of this program.
+Admission
+How does the selection process work?
+The selection process is based on the analysis of the academic and professional
+curriculum
+. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some candidates – face-to-face or videoconference).
+In case I am contacted for an interview, can it be held at distance?
+Yes, the interview can be held at distance, preferably by Zoom.
+When will I know the result of the application?
+The result of the application will be known, through email, in the date to be announced in the confirmation of submitted application email and/or by the Admissions’ Jury/Programs Manager.
+I was admitted in the program. What’s the next step?
+In case of admission, the applicant must make the payment of the pre-registration fee (around 1 week after the result announcement), until its deadline, in NOVA IMS’ Applications Portal and upload the diploma or other certificate of his latest qualification (example: Bachelor’s degree, Master’s degree or PhD).
+Can I attend more than one program by academic year?
+Yes, you may attend two programs per school year, although it’s not recommended. Please pay attention to the fact that there may be overlap of the Mandatory Course Units of each program, as well as the overlap of the exams.
+I was admitted in two programs, but I only intend to attend one. What should I do?
+In case of admission to two programs, the candidate will have to choose, in the Application Portal, the program in which they intend to attend. After choosing the desired program and paying the pre-registration fee, you must select the option "Withdrawal" in the 2
+nd
+program in which you do not intend to attend. Thus, your vacancy is available to a candidate on the Waiting List.
+I'm on the Waiting List. Can I still be admitted?
+Since it is possible for candidates to apply for two programs per application phase, there will be cases where the same candidate has been admitted to both programs, but intends to join only one. In these cases and if the limit number of vacancies is not completed, the remaining vacancy will be assigned to a candidate on the Waiting List.
+I intend the invoice for the payment of the application / pre-registration fees.
+The Invoice-Receipt will be available in this Applications’ Portal up to 2 business days after the payment, in the tab "Billing/Treasury".
+I was admitted in the program, but I need visa. What should I do?
+NOVA IMS can issue a document that proves admission in the program, that will be sent to the student and the Embassy. The document will only be issued or provided after the payment of the pre-registration fee. Regardless of issuance the document, the student must contact the Portuguese Embassy or Consulate in their country to get more information.
+Other Informations
+Is this program taught in Portuguese or English?
+The program is taught in Portuguese.
+Are there scholarships?
+NOVA IMS does not award scholarships. However, you can apply to Universidade Nova de Lisboa’ scholarships and financial support, provided by the university’s Social Welfare Services. You can learn more at
+https://sas.unl.pt/en/scholarships-2/scholarships_/
+or contact them directly to
+bolsas@unl.pt
+. We don’t hold information about other scholarships.
+Is it possible to park on campus?
+The students can park their vehicles on campus, if they have the access card. There are several parking areas on campus and near to NOVA IMS. The request for access of vehicles to Campus de Campolide is made through registration or renewal of registration and subsequent payment. To do this, the interested parties should register in the system and select the type of access. Afterwards, they will receive all the data for the payment. It should be noted that the management of parking spaces is the exclusive responsibility of the NOVA’s Rectory. For more information, please visit the webpage
+http://www.unl.pt/en/nova/parking-campus
+.
+Is there accommodation on campus?
+The Social Welfare Services of Universidade Nova has ties with three student residences (one of them in Campus de Campolide) for Portuguese scholarship student and international students. The capacity of accommodation at school residences is limited. We can’t, in any way, guarantee you a room and we can only put your name on a waiting list, only after confirmation of admission. You will find more information about the residences at
+https://sas.unl.pt/en/accommodation/
+.
+In case you are admitted to the program and want accommodation in one of the University’s residences, please contact
+adnovaims@novaims.unl.pt
+.
+Can you help me look for accommodation websites?
+Here’s a list of websites, just for reference:
+Airbnb
+;
+BQuarto
+;
+Casa Alfacinha
+;
+Collegiate
+;
+Coolivin
+;
+Easy Roomate
+;
+Erasmusu
+;
+Erasmus Life Lisboa
+;
+Erasmus Lisboa
+;
+Erasmus Student Network
+;
+Fundação Cidade de Lisboa
+;
+Housing Anywhere
+;
+Houze Student
+;
+Lemon Garden
+;
+Lisbon Rooms
+;
+Livensa Living
+;
+Residência Avenidas
+;
+Accommodation at Rua Fialho de Almeida 17 4E
+;
+Spot A Home
+;
+The Housing Concept
+;
+Traveling To Lisbon
+;
+UHub
+;
+Uniplaces
+;
+Wimdu
+.
+Does the University offer a Portuguese course for international students?
+Yes, there is a
+Course of Portuguese as Foreign Language
+. This course is available in 4 types of classes:
+Individual lessons
+(the student arranges the schedule with the teacher according to their availability);
+Semester Group lessons
+(56 study classes + 8 hours for other activities);
+30 hours intensive course
+(2 weeks);
+Online summer course
+(month of July).
+If you have any questions about this course, please contact:
+cursoportugues@fcsh.unl.pt
+.
+Samuel Goulding
+Once I decided to specialize in the application of Geographical Information for defense and security purposes, the postgraduate program in Geospatial Intelligence at NOVA IMS, certified by the United States Geospatial Intelligence Foundation (USGIF), was the clear path for me to follow. The contents of this course, combined with the quality and know-how of the professors, were clearly a major factor in determining my career development. The course changed my life, and it all started at NOVA IMS.
+

@@ -1,0 +1,376 @@
+Text from https://www.novaims.unl.pt/en/education/programs/bachelor-s-degrees/data-science/program/#:
+Program
+Study Plan
+en
+Education
+Programs
+Bachelor's Degrees
+Data Science
+Program
+1
+st
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Computers' Architecture
+Semester
+Mandatory
+TP - 45 | OT - 5
+112
+4
+Foundational aspects of data science
+Semester
+Mandatory
+TP - 45 | OT - 5
+112
+4
+Information Systems
+Semester
+Mandatory
+TP - 64,5 | S - 3 | OT - 7,5
+168
+6
+Introduction to Programming
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+196
+7
+Linear Algebra
+Semester
+Mandatory
+T - 22,5 | PL - 22,5 | OT - 7,5
+112
+4
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+1
+st
+year - Spring Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Algorithms and Data Structures
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Introduction to Artificial Intelligence
+Semester
+Mandatory
+TP - 67,5 | OT - 15
+140
+5
+Introduction to Computational Thinking and Data Science
+Semester
+Mandatory
+TP - 45 | OT - 5
+112
+4
+Mathematical Analysis I **
+Semester
+Mandatory
+T - 22,5 | PL - 45 | OT - 7,5
+140
+5
+Mathematical Analysis II **
+Semester
+Mandatory
+T - 22,5 | PL - 45 | OT - 7,5
+196
+7
+Personal Development I
+Semester
+Mandatory
+TP - 22,5 | OT - 7,5
+56
+2
+Statistics and Probability Distributions
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+Semestre 1 - 2;
+2
+nd
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Data preprocessing and visualization
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Databases
+Semester
+Mandatory
+TP - 64,5 | S - 3 | OT - 7,5
+168
+6
+Machine Learning I
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Programming for Data Science
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Statistical Inference
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+Semestre 2 - 1;
+2
+nd
+year - Spring Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Big Data Storage
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Forecasting Methods
+Semester
+Mandatory
+TP - 67,5 | OT - 15
+168
+6
+Machine Learning II
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Optimization Algorithms
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Regression Analysis
+Semester
+Mandatory
+TP - 67,5 | OT - 7,5
+168
+6
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+3
+rd
+year - Fall Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Big Data Analysis
+Semester
+Mandatory
+TP - 67,5 | OT - 15
+168
+6
+Capstone Project
+Semester
+Mandatory
+TP - 22,5 | OT - 45
+224
+8
+Deep Learning
+Semester
+Mandatory
+TP - 67,5 | OT - 15
+168
+6
+Ethical, Social and Legal Aspects of Artificial Intelligence
+Semester
+Mandatory
+TP - 22,5 | OT - 7,5
+56
+2
+Personal Development II
+Semester
+Mandatory
+TP - 22,5 | OT - 7,5
+56
+2
+Text Mining
+Semester
+Mandatory
+TP - 45 | OT - 12,5
+168
+6
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+3
+rd
+year - Spring Semester
+resumo do conteudo da tabela
+Course Units
+Duration
+Type
+Contact Hours
+Total Workload
+ECTS
+Applied Economics
+Semester
+Elective
+TP - 45 | OT - 5
+112
+4
+Digital Innovation Projects
+Semester
+Elective
+TP - 45 | OT - 10
+112
+4
+Entrepreneurship and Project Analysis
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Financial Calculus and Project Analysis
+Semester
+Elective
+TP - 45
+112
+4
+Geospatial Analytics
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Informatics and Information Law
+Semester
+Elective
+TP - 45 | OT - 10
+112
+4
+Information Systems Seminar
+Semester
+Elective
+T - 9 | S - 45 | OT - 7,5 | TC - 13,5
+168
+6
+Information Tecnologies, Governance and Service Management
+Semester
+Elective
+TP - 77,5 | OT - 10
+168
+6
+Network Analysis
+Semester
+Elective
+TP - 67,5 | OT - 10
+168
+6
+People Management and Leadership
+Semester
+Elective
+TP - 45
+112
+4
+Process Intelligence
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Risk Management
+Semester
+Elective
+TP - 67,5 | OT - 10
+168
+6
+Web Analytics
+Semester
+Elective
+TP - 45 | OT - 7,5
+112
+4
+Web Marketing and E-business
+Semester
+Elective
+TP - 45 | OT - 10
+112
+4
+Show subtitles
+T – Theoretical Teaching;
+TP – Theoretical/ Practical Teaching;
+TC – Field Work;
+PL – Theoretical/ Practical Teaching;
+S – Seminar;
+OT – Tutor Group;
+** – Course Unit available in both semesters;
+Course Unit
+Loading...
+modal item
+card item
+

@@ -1,0 +1,60 @@
+{
+    "model-name":"FILL",
+    "owner":"FILL",
+    "project-tag":"FILL",
+    "key-dag-owner-tag":"FILL",
+    "functions":[
+        {
+            "function":"train",
+            "job-timeout-minutes":"45",
+            "description": "FILL",
+            "parameters":{
+                "LOGNAME":"mlops",
+                "nr_mec":"FILL"
+            },
+            "secrets":[
+                "DATAHUB_USERNAME",
+                "DATAHUB_TOKEN",
+                "AWS_ACCESS_KEY_ID",
+                "AWS_SECRET_ACCESS_KEY"
+            ],
+            "schedule-interval":"0 0 1 */1 *",
+            "function-trigger":[
+                "predict"
+            ]
+        },
+        {
+            "function":"predict",
+            "job-timeout-minutes":"30",
+            "description": "FILL",
+            "parameters":{
+                "LOGNAME":"mlops",
+                "nr_mec":"FILL"
+            },
+            "secrets":[
+                "DATAHUB_USERNAME",
+                "DATAHUB_TOKEN",
+                "AWS_ACCESS_KEY_ID",
+                "AWS_SECRET_ACCESS_KEY"
+            ],
+            "schedule-interval":"1 * * * *"
+        },
+        {
+            "function":"monitor",
+            "job-timeout-minutes":"30",
+            "description": "FILL",
+            "parameters":{
+                "LOGNAME":"mlops",
+                "nr_mec":"FILL"
+            },
+            "secrets":[
+                "DATAHUB_USERNAME",
+                "DATAHUB_TOKEN",
+                "AWS_ACCESS_KEY_ID",
+                "AWS_SECRET_ACCESS_KEY"
+            ],
+            "schedule-interval":"0 9 * * 3"
+        }
+        
+    ]
+}
