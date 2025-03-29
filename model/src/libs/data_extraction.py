@@ -10,148 +10,10 @@ from bs4 import BeautifulSoup
 from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.chrome.options import Options
+from urllib.parse import urlparse, unquote
 
 
-def extract_faculty_and_studyplan(url, search_name, save_directory):
-    """
-    Extracts text content from the specified search section on the webpage
-    and saves it as a .txt file in the specified directory.
-
-    :param url: The webpage URL to scrape.
-    :param search_name: The section name to search for (e.g., "Faculty", "Study plan").
-    :param save_directory: The directory where the extracted text will be saved.
-    """
-    
-    # Ensure the save directory exists
-    os.makedirs(save_directory, exist_ok=True)
-
-    # Setup WebDriver
-    driver_path = ChromeDriverManager().install()
-    service = Service(driver_path)
-    driver = webdriver.Chrome(service=service)
-
-    # Retry mechanism for opening the URL
-    retries = 0
-    max_retries = 3
-    while retries < max_retries:
-        try:
-            print(f"Attempt {retries + 1}: Accessing {url}")
-            driver.get(url)  # Load the webpage
-            
-            # Wait for elements to load
-            wait = WebDriverWait(driver, 10)
-            print(f"✅ Successfully accessed {url} for {search_name}")
-            break  # Exit loop if successful
-        except (TimeoutException, WebDriverException) as e:
-            print(f"⚠️ Error on attempt {retries + 1}: {e}")
-            retries += 1
-            time.sleep(5)  # Wait before retrying
-
-    if retries == max_retries:
-        print(f"❌ Failed to load {url} after {max_retries} retries. Exiting function.")
-        driver.quit()
-        return  # Stop execution if the page couldn't load
-
-    try:
-        # Find the main div dynamically
-        main_block = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.block.has-aside")))
-
-        # Find all articles within the main block
-        articles = main_block.find_elements(By.CSS_SELECTOR, "article.content__article")
-
-        if articles:
-            for article in articles:
-                try:
-                    # Find the <h2> heading inside the article
-                    heading_element = article.find_element(By.CSS_SELECTOR, "h2.content__heading.has-border.beta")
-                    heading_text = heading_element.text.strip()
-                    
-                    if search_name in heading_text:
-                        print(f"✅ Found Article: {heading_text}")
-
-                        # Extract the corresponding content within <div class="content__article-wrap">
-                        content_element = article.find_element(By.CSS_SELECTOR, "div.content__article-wrap")
-                        content_html = content_element.get_attribute('outerHTML')
-
-                        # Parse the content using BeautifulSoup
-                        soup = BeautifulSoup(content_html, 'html.parser')
-                        content_text = soup.get_text(separator=' ', strip=True)
-
-                        # Check for links inside the content and extract the last one
-                        links = soup.find_all('a', href=True)
-                        if links:
-                            last_link = links[-1]['href']  # Get the last link URL
-                            print(f"✅ Last Found Link: {last_link}")
-
-                            # Check if the last link ends with one of the desired keywords
-                            if last_link.rstrip("/").endswith(("study-plan", "teaching-staff", "faculty")):
-                                # Open the linked page
-                                driver.get(last_link)
-                                time.sleep(5)  # Wait for the page to load
-
-                                if search_name == "Faculty":
-                                    try:
-                                        section = driver.find_element(By.CSS_SELECTOR, "div.block.has-aside")
-                                        print("✅ Faculty link page is not empty. Extracting contect from link page.")
-
-                                        # Extract content using BeautifulSoup
-                                        page_soup = BeautifulSoup(driver.page_source, 'html.parser')
-                                        section_content = page_soup.find('div', class_='block has-aside')
-                                        extracted_text = section_content.get_text(separator=' ', strip=True)
-
-                                    except Exception:
-                                        print("⚠️ Faculty link page is empty. ✅ Extracting content from the first page.")
-                                        extracted_text = content_text
-
-                                else:
-                                    # If search_name is "Study plan", extract the entire content of the linked page
-                                    main_element = driver.find_element(By.TAG_NAME, "main")
-                                    main_html = main_element.get_attribute('outerHTML')
-                                    page_soup = BeautifulSoup(main_html, 'html.parser')
-
-                                    # Remove brochure/country sections if present
-                                    unwanted_section = page_soup.find("div", class_="hero-article__info")
-                                    if unwanted_section:
-                                        unwanted_section.decompose()  
-
-                                    extracted_text = page_soup.get_text(separator=' ', strip=True)
-                                    print("✅ Extracting Study plan from the linked page")
-
-                            else:
-                                print("Last link is not valid for Faculty or Study Plan. Skipping link.")
-                                extracted_text = content_text
-
-                        else:
-                            print("⚠️ No links found in this article.")
-                            extracted_text = content_text
-
-                        # Extract the last part of the URL for the file name
-                        file_name = url.split("/")[-2] + "_" + search_name + ".txt"
-                        file_path = os.path.join(save_directory, file_name)
-
-                        with open(file_path, "w", encoding="utf-8") as file:
-                            file.write(extracted_text)
-
-                        print(f"✅ Extracted content saved to: {file_path}")
-                        break  # Stop after finding the first match for this search_name
-                    else: 
-                         print(f"⚠️ Not Found Article: {heading_text}")
-
-                except Exception as e:
-                    print(f"❌ Skipping article due to error: {e}")
-
-        else:
-            print("❌ No articles found inside 'block has-aside'.")
-
-    except Exception as e:
-        print(f"❌ Error locating elements: {e}")
-
-    finally:
-        # Close WebDriver
-        driver.quit()
-
-
-def extract_faq_section(url, save_directory, search_name="FAQ"):
+def extract_faq_section(url, save_directory):
     """
     Extracts the FAQ section from a given webpage and saves it as 'FAQ_postgraduate_master_degrees.txt'.
 
@@ -164,7 +26,7 @@ def extract_faq_section(url, save_directory, search_name="FAQ"):
     driver_path = ChromeDriverManager().install()
     service = Service(driver_path)
     driver = webdriver.Chrome(service=service)
-
+    search_name = 'FAQ'
     try:
         # Open the target webpage
         driver.get(url)
@@ -330,3 +192,186 @@ def extract_main_course(url, save_directory):
     finally:
         # Ensure the WebDriver is closed in case of an error
         driver.quit()
+
+def extract_studyplan(url, save_directory):
+    """
+    Extracts text content from STUDY PLAN section on the webpage
+    and saves it as a .txt file in the specified directory.
+
+    :param url: The webpage URL to scrape.
+    :param save_directory: The directory where the extracted text will be saved.
+    """
+    os.makedirs(save_directory, exist_ok=True)
+
+    # Setup WebDriver
+    driver_path = ChromeDriverManager().install()
+    service = Service(driver_path)
+    driver = webdriver.Chrome(service=service)
+    search_name = "Study plan"
+    retries, max_retries = 0, 3
+    while retries < max_retries:
+        try:
+            print(f"Attempt {retries + 1}: Accessing {url}")
+            driver.get(url)
+            wait = WebDriverWait(driver, 10)
+            print(f"✅ Successfully accessed {url} for {search_name}")
+            break
+        except (TimeoutException, WebDriverException) as e:
+            print(f"⚠️ Error on attempt {retries + 1}: {e}")
+            retries += 1
+            time.sleep(5)
+
+    if retries == max_retries:
+        print(f"❌ Failed to load {url} after {max_retries} retries.")
+        driver.quit()
+        return
+
+    try:
+        main_block = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "div.block.has-aside"))
+        )
+        articles = main_block.find_elements(By.CSS_SELECTOR, "article.content__article")
+    except Exception as e:
+        print(f"❌ Error locating main content block: {e}")
+        driver.quit()
+        return
+
+    for article in articles:
+        try:
+            heading_element = article.find_element(By.CSS_SELECTOR, "h2.content__heading.has-border.beta")
+            heading_text = heading_element.text.strip().lower()
+            if search_name.lower() not in heading_text:
+                continue
+            
+            print(f"✅ Found Article: {heading_text}")
+            content_element = article.find_element(By.CSS_SELECTOR, "div.content__article-wrap")
+            content_html = content_element.get_attribute('outerHTML')
+            soup = BeautifulSoup(content_html, 'html.parser')
+            content_text = soup.get_text(separator=' ', strip=True)
+
+            links = [a['href'] for a in soup.find_all('a', href=True)]
+            last_link = links[-1] if links else None
+            extracted_text = content_text
+
+            if last_link:
+                parsed_url = urlparse(last_link)
+                last_segment = unquote(parsed_url.path.strip("/")).lower()
+                if any(last_segment.endswith(ending) for ending in {"study-plan"}):
+                    driver.get(last_link)
+                    time.sleep(5)
+                    try:
+                        main_element = driver.find_element(By.TAG_NAME, "main")
+                        main_html = main_element.get_attribute('outerHTML')
+                        page_soup = BeautifulSoup(main_html, 'html.parser')
+                        unwanted_section = page_soup.find("div", class_="hero-article__info")
+                        if unwanted_section:
+                            unwanted_section.decompose()
+                        extracted_text = page_soup.get_text(separator=' ', strip=True)
+                        print("✅ Extracted content from linked page")
+                    except Exception:
+                        print("⚠️ Error extracting from linked page, using main page content")
+                else:
+                    print("⚠️ Last link not relevant, using main page content")
+            
+            file_name = f"{url.split('/')[-2]}_{search_name}.txt"
+            file_path = os.path.join(save_directory, file_name)
+            with open(file_path, "w", encoding="utf-8") as file:
+                file.write(extracted_text)
+
+            print(f"✅ Extracted content saved to: {file_path}")
+            break
+        except Exception as e:
+            print(f"❌ Error processing article: {e}")
+
+    driver.quit()
+
+def extract_teaching_staff(url, save_directory):
+    """
+    Extracts text content from the TEACHING STAFF section on the webpage
+    and saves it as a .txt file in the specified directory.
+
+    :param url: The webpage URL to scrape.
+    :param save_directory: The directory where the extracted text will be saved.
+    """
+    os.makedirs(save_directory, exist_ok=True)
+
+    # Setup WebDriver
+    driver_path = ChromeDriverManager().install()
+    service = Service(driver_path)
+    driver = webdriver.Chrome(service=service)
+    search_name = 'Faculty'
+
+    retries, max_retries = 0, 3
+    while retries < max_retries:
+        try:
+            print(f"Attempt {retries + 1}: Accessing {url}")
+            driver.get(url)
+            wait = WebDriverWait(driver, 10)
+            print(f"✅ Successfully accessed {url} for {search_name}")
+            break
+        except (TimeoutException, WebDriverException) as e:
+            print(f"⚠️ Error on attempt {retries + 1}: {e}")
+            retries += 1
+            time.sleep(5)
+
+    if retries == max_retries:
+        print(f"❌ Failed to load {url} after {max_retries} retries.")
+        driver.quit()
+        return
+
+    try:
+        main_block = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "div.block.has-aside"))
+        )
+        articles = main_block.find_elements(By.CSS_SELECTOR, "article.content__article")
+    except Exception as e:
+        print(f"❌ Error locating main content block: {e}")
+        driver.quit()
+        return
+
+    for article in articles:
+        try:
+            heading_element = article.find_element(By.CSS_SELECTOR, "h2.content__heading.has-border.beta")
+            heading_text = heading_element.text.strip().lower()
+            if search_name.lower() not in heading_text:
+                continue
+            
+            print(f"✅ Found Article: {heading_text}")
+            content_element = article.find_element(By.CSS_SELECTOR, "div.content__article-wrap")
+            content_html = content_element.get_attribute('outerHTML')
+            soup = BeautifulSoup(content_html, 'html.parser')
+            content_text = soup.get_text(separator=' ', strip=True)
+
+            links = [a['href'] for a in soup.find_all('a', href=True)]
+            last_link = links[-1] if links else None
+            extracted_text = content_text
+
+            if last_link:
+                parsed_url = urlparse(last_link)
+                last_segment = unquote(parsed_url.path.strip("/")).lower()
+                if any(last_segment.endswith(ending) for ending in {"teaching-staff", "faculty"}):
+                    driver.get(last_link)
+                    time.sleep(5)
+                    try:
+                        section = driver.find_element(By.CSS_SELECTOR, "div.block.has-aside")
+                        print("✅ Faculty link page is not empty. Extracting contect from link page.")
+                        # Extract content using BeautifulSoup
+                        page_soup = BeautifulSoup(driver.page_source, 'html.parser')
+                        section_content = page_soup.find('div', class_='block has-aside')
+                        extracted_text = section_content.get_text(separator=' ', strip=True)
+                    except Exception:
+                        print("⚠️ Error Faculty link page is empty, using main page content")
+                else:
+                    print("⚠️ Last link not relevant, using main page content")
+            
+            file_name = f"{url.split('/')[-2]}_{search_name}.txt"
+            file_path = os.path.join(save_directory, file_name)
+            with open(file_path, "w", encoding="utf-8") as file:
+                file.write(extracted_text)
+
+            print(f"✅ Extracted content saved to: {file_path}")
+            break
+        except Exception as e:
+            print(f"❌ Error processing article: {e}")
+
+    driver.quit()
