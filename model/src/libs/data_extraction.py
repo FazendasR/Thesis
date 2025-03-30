@@ -144,7 +144,7 @@ def extract_main_course(url, save_directory):
         has_aside_block = driver.find_element(By.CLASS_NAME, "block.has-aside")
         articles = has_aside_block.find_elements(By.CLASS_NAME, "content__article")
 
-        relevant_headings = ["Program Coordinator", "Length, timetable and exams", "Admissions and fees"]
+        relevant_headings = ["Program Coordinator", "NOVA IMS' Program Coordinator", "Timetable", "Exames", "Length, timetable and exams", "Length and timetable", "Admissions and fees"]
         extracted_aside_html = ""
 
         for article in articles:

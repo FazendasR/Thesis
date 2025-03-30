@@ -8,6 +8,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import plotly.express as px
 import plotly.figure_factory as ff
 import tiktoken
+from nltk.util import ngrams
+
+nltk.download("punkt")
 
 def visualize_general_text_statistics(text_data):
     """
@@ -292,5 +295,115 @@ def generate_document_statistics_by_tokens(text_data, model="gpt-4"):
     
     fig.show()
 
+
+def bar_plot_word_frequency(text_data, top_n=20):
+    """
+    Generates a Plotly bar chart of the most frequent words in a given text dataset.
     
+    Parameters:
+    - text_data (dict): Dictionary where keys are filenames and values are document contents.
+    - top_n (int): Number of top words to display.
     
+    Returns:
+    - A Plotly bar plot showing word frequency with counts and percentages.
+    """
+    
+    # Tokenize and normalize words (remove punctuation, convert to lowercase)
+    words = []
+    for content in text_data.values():
+        tokens = word_tokenize(content)
+        words.extend([word.lower() for word in tokens if word.isalnum()])  # Keep only alphanumeric words
+    
+    # Compute word frequency
+    word_freq = Counter(words)
+    most_common_words = word_freq.most_common(top_n)
+
+    # Convert to DataFrame for visualization
+    df = pd.DataFrame(most_common_words, columns=["Word", "Count"])
+    
+    # Calculate percentage
+    total_words = sum(word_freq.values())
+    df["Percentage"] = (df["Count"] / total_words) * 100
+
+    # Create Plotly bar chart
+    fig = px.bar(
+        df, 
+        x="Word", 
+        y="Count",
+        text=df.apply(lambda row: f"{row['Count']} ({row['Percentage']:.2f}%)", axis=1),
+        title=f"Top {top_n} Most Frequent Words",
+        labels={"Word": "Word", "Count": "Frequency"},
+        color="Count",
+        color_continuous_scale="Blues"
+    )
+
+    # Update layout
+    fig.update_traces(textposition="outside")
+    fig.update_layout(
+        xaxis_title="Words",
+        yaxis_title="Frequency",
+        coloraxis_showscale=False,
+        bargap=0.2
+    )
+
+    # Show figure
+    fig.show()
+
+def bar_plot_ngram_frequency(text_data, n=2, top_n=20):
+    """
+    Generates a Plotly bar chart of the most frequent n-grams in a given text dataset.
+    
+    Parameters:
+    - text_data (dict): Dictionary where keys are filenames and values are document contents.
+    - n (int): The 'n' in n-gram (default is 2 for bigrams).
+    - top_n (int): Number of top n-grams to display.
+    
+    Returns:
+    - A Plotly bar plot showing n-gram frequency with counts and percentages.
+    """
+    
+    # Tokenize and normalize words (remove punctuation, convert to lowercase)
+    all_ngrams = []
+    for content in text_data.values():
+        tokens = word_tokenize(content)
+        words = [word.lower() for word in tokens if word.isalnum()]  # Keep only alphanumeric words
+        n_grams = list(ngrams(words, n))
+        all_ngrams.extend(n_grams)
+    
+    # Compute n-gram frequency
+    ngram_freq = Counter(all_ngrams)
+    most_common_ngrams = ngram_freq.most_common(top_n)
+
+    # Convert to DataFrame for visualization
+    df = pd.DataFrame(most_common_ngrams, columns=["N-Gram", "Count"])
+    
+    # Convert tuples to readable strings
+    df["N-Gram"] = df["N-Gram"].apply(lambda x: " ".join(x))
+    
+    # Calculate percentage
+    total_ngrams = sum(ngram_freq.values())
+    df["Percentage"] = (df["Count"] / total_ngrams) * 100
+
+    # Create Plotly bar chart
+    fig = px.bar(
+        df, 
+        x="N-Gram", 
+        y="Count",
+        text=df.apply(lambda row: f"{row['Count']} ({row['Percentage']:.2f}%)", axis=1),
+        title=f"Top {top_n} Most Frequent {n}-Grams",
+        labels={"N-Gram": "N-Gram", "Count": "Frequency"},
+        color="Count",
+        color_continuous_scale="Blues"
+    )
+
+    # Update layout
+    fig.update_traces(textposition="outside")
+    fig.update_layout(
+        xaxis_title=f"{n}-Grams",
+        yaxis_title="Frequency",
+        coloraxis_showscale=False,
+        bargap=0.2
+    )
+
+    # Show figure
+    fig.show()
