@@ -1,4 +1,78 @@
+import os 
 import re
+from libs.settings import data_catalog as dc
+from libs import data_extraction as de
+import pickle
+
+
+def clean_and_save_all_programs_textfiles(output_directory):
+    """
+    Loads raw text dictionaries from pickle files, cleans them using provided logic, 
+    and saves the cleaned dictionaries back to pickle format in the output directory.
+
+    :param save_directory: Directory containing raw pickle files.
+    :param output_directory: Directory to save the cleaned pickle files.
+    :param clean_text_documents_func: Function to clean text documents.
+    """
+
+    os.makedirs(output_directory, exist_ok=True)
+    save_directory= dc.HP_PATH_RAW_EXTRACTED_DOCS_DICTS
+
+    all_programs_dict_textfiles_raw = de.load_all_programs_dict_textfiles_raw(save_directory)
+
+    for outer_key, inner_dict in all_programs_dict_textfiles_raw.items():
+        # === Define custom cleaning parameters per outer_key ===
+        if outer_key == "dict_bs_teaching_staff_raw":
+            cleaned_inner_dict = clean_text_documents(
+                inner_dict,
+                words_to_remove=["know", "more", "apply", "here", "Education"],
+                words_to_deduplicate=["Teaching Staff"]
+            )
+        elif outer_key == "dict_bs_studyplan_raw":
+            cleaned_inner_dict = clean_text_documents(
+                inner_dict,
+                words_to_remove=["Programs", "resumo do conteudo da tabela", "Loading...", "Education", "modal item",
+                     "card item"]
+            )
+        elif outer_key == "dict_bs_maininfo_raw":
+            cleaned_inner_dict = clean_text_documents(
+                inner_dict,
+                words_to_remove=["Programs", "resumo do conteudo da tabela", "Loading...", "Education", "caption text",
+                     "card item", "modal item", "Apply here", "Know more"],
+                words_to_deduplicate=["Data Science", "Information Management", "Information Systems", "Who is it for?"]
+            )
+        elif outer_key == "dict_pm_teaching_staff_raw":
+            cleaned_inner_dict = clean_text_documents(
+                inner_dict,
+                words_to_remove=["know", "more", "apply", "here"], 
+                words_to_deduplicate=["faculty"]
+            )
+        elif outer_key == "dict_pm_studyplan_raw":
+            cleaned_inner_dict = clean_text_documents(
+                inner_dict,
+                words_to_remove=["loading", "... modal item card item",
+                                "resumo do conteudo da tabela"],
+                words_to_deduplicate=["Study plan"]
+            )
+        elif outer_key == "dict_pm_maininfo_raw":
+            cleaned_inner_dict = clean_text_documents(
+                inner_dict,
+                words_to_remove=["en", "To apply,", "click", "here",
+                    "resumo do conteudo da tabela",
+                    "Loading...","...", "resumo do conteudo da tabela", "Know more",
+                    "modal item", "card item", "caption text", "Value", "Annual Prize", "Program", "Unit",
+                    "Curricular", "Programs", "Education", "Postgraduate Programs and Master Degree Programs"
+
+                    ]
+            )
+
+        # === Save each cleaned dictionary ===
+        output_path = os.path.join(output_directory, f"{outer_key}_cleaned.pkl")
+        with open(output_path, 'wb') as f:
+            pickle.dump(cleaned_inner_dict, f)
+
+        print(f"Saved cleaned dictionary: {output_path}")
+
 
 def clean_text_documents(text_data, words_to_remove=None, words_to_deduplicate=None):
     """
@@ -41,6 +115,8 @@ def clean_text_documents(text_data, words_to_remove=None, words_to_deduplicate=N
 
     return cleaned_text_data
 
+
+###### Function to identify large documents ######
 def get_large_documents(text_data, min_word_count):
     """
     Identifies documents that exceed a given word count threshold.
