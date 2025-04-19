@@ -18,7 +18,7 @@ def clean_and_save_all_programs_textfiles(output_directory):
     os.makedirs(output_directory, exist_ok=True)
     save_directory= dc.HP_PATH_RAW_EXTRACTED_DOCS_DICTS
 
-    all_programs_dict_textfiles_raw = de.load_all_programs_dict_textfiles_raw(save_directory)
+    all_programs_dict_textfiles_raw = de.load_all_programs_dict_textfiles(save_directory)
 
     for outer_key, inner_dict in all_programs_dict_textfiles_raw.items():
         # === Define custom cleaning parameters per outer_key ===
@@ -62,7 +62,6 @@ def clean_and_save_all_programs_textfiles(output_directory):
                     "Loading...","...", "resumo do conteudo da tabela", "Know more",
                     "modal item", "card item", "caption text", "Value", "Annual Prize", "Program", "Unit",
                     "Curricular", "Programs", "Education", "Postgraduate Programs and Master Degree Programs"
-
                     ]
             )
 

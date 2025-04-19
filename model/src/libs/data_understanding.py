@@ -153,19 +153,48 @@ def visualize_keywords(text_data, selected_files=None, top_n=10):
         plt.show()
 
 
-def histogram_word_count_multiple_docs(text_data, bins=10):
+import plotly.express as px
+from typing import Dict, Optional, List
+
+def histogram_word_count_multiple_docs(
+    data: Dict[str, Dict],
+    bins: int = 10,
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None
+):
     """
-    Plots a histogram of the number of documents based on their word count using Plotly.
-    
+    Plots a histogram of word counts from a dict of documents with metadata.
+
     Parameters:
-    text_data (dict): Dictionary with filenames as keys and text content as values.
-    bins (int): Number of bins for the histogram.
+    - data (dict): Dictionary with filenames as keys and dicts containing 'text' and 'metadata'.
+    - bins (int): Number of bins for the histogram.
+    - course_names_to_include (list, optional): Filter by specific course names (case insensitive).
+    - doc_types_to_include (list, optional): Filter by document types ('teaching_staff', 'study_plan', 'main_info').
     """
-    
-    # Compute word count for each document
-    word_counts = [len(content.split()) for content in text_data.values()]
-    
-    # Create histogram
+
+    filtered_data = {}
+
+    for filename, doc in data.items():
+        course_name = doc["metadata"].get("course_name", "").lower()
+        doc_type = doc["metadata"].get("doc_type", "").lower()
+
+        if course_names_to_include:
+            if course_name not in [name.lower() for name in course_names_to_include]:
+                continue
+
+        if doc_types_to_include:
+            if doc_type not in [dt.lower() for dt in doc_types_to_include]:
+                continue
+
+        filtered_data[filename] = doc
+
+    if not filtered_data:
+        print("⚠️ No documents matched the filters.")
+        return
+
+    word_counts = [len(doc["text"].split()) for doc in filtered_data.values()]
+    labels = [f"{doc['metadata'].get('course_name')} ({doc['metadata'].get('doc_type')})" for doc in filtered_data.values()]
+
     fig = px.histogram(
         x=word_counts,
         nbins=bins,
@@ -174,17 +203,77 @@ def histogram_word_count_multiple_docs(text_data, bins=10):
     )
 
     fig.update_layout(
-    title="Distribution of Documents by Word Count",
-    xaxis_title="Word Count",
-    yaxis_title="Number of Documents",
-    bargap=0.1
+        xaxis_title="Word Count",
+        yaxis_title="Number of Documents",
+        bargap=0.1
     )
+
+    fig.show()
+from typing import Dict, Optional, List
+import plotly.express as px
+import tiktoken
+
+def histogram_token_count_multiple_docs(
+    data: Dict[str, Dict],
+    model: str = "gpt-4",
+    bins: int = 15,
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None,
+):
+    """
+    Plots a histogram of token counts per document using Plotly with optional filters.
     
-    # Show figure
+    Parameters:
+    - data (dict): Dictionary with filenames as keys and values as dicts with 'text' and 'metadata'.
+    - model (str): OpenAI model name (e.g., "gpt-4", "gpt-3.5-turbo").
+    - bins (int): Number of bins for the histogram.
+    - course_names_to_include (list): Optional list of course names to include.
+    - doc_types_to_include (list): Optional list of document types to include.
+    """
+    # Load tokenizer
+    encoding = tiktoken.encoding_for_model(model)
+
+    # Apply filters
+    filtered_items = []
+    for filename, doc in data.items():
+        metadata = doc.get("metadata", {})
+        course_name = metadata.get("course_name", "")
+        doc_type = metadata.get("doc_type", "")
+
+        if course_names_to_include and course_name not in course_names_to_include:
+            continue
+        if doc_types_to_include and doc_type not in doc_types_to_include:
+            continue
+
+        filtered_items.append((filename, doc["text"]))
+
+    if not filtered_items:
+        print("⚠️ No documents matched the filters.")
+        return
+
+    # Compute token counts
+    token_counts = {
+        filename: len(encoding.encode(text))
+        for filename, text in filtered_items
+    }
+
+    # Plot
+    fig = px.histogram(
+        x=list(token_counts.values()),
+        nbins=bins,
+        labels={'x': 'Token Count', 'y': 'Number of Documents'},
+        title='Distribution of Documents by Token Count'
+    )
+
+    fig.update_layout(
+        xaxis_title="Token Count",
+        yaxis_title="Number of Documents",
+        bargap=0.1
+    )
+
     fig.show()
 
-
-def histogram_token_count_multiple_docs(text_data, model="gpt-4", bins=15):
+def histogram_token_count_multiple_docs_old(text_data, model="gpt-4", bins=15):
     """
     Plots a histogram of token counts per document using Plotly.
     
@@ -255,6 +344,17 @@ def generate_document_statistics_by_word_count(text_data):
     
     fig.show()
 
+def generate_statistics_for_all_documents(dict_of_dicts, model="gpt-4"):
+    """
+    Applies `generate_document_statistics_by_tokens` to each sub-dictionary in a dict of dicts.
+
+    :param dict_of_dicts: A dictionary where each value is another dictionary of documents.
+    :param model: The OpenAI model name to use for tokenization.
+    """
+    for category_name, sub_dict in dict_of_dicts.items():
+        print(f"\nGenerating stats for: {category_name}")
+        generate_document_statistics_by_tokens(sub_dict, model=model)
+
 def generate_document_statistics_by_tokens(text_data, model="gpt-4"):
     """
     Generate and visualize document statistics for token counts in a given text dataset.
@@ -291,8 +391,6 @@ def generate_document_statistics_by_tokens(text_data, model="gpt-4"):
 
     fig.update_layout(title="Token-Based Document Statistics")
 
-    
-    
     fig.show()
 
 

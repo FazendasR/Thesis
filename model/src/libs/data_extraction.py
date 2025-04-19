@@ -15,24 +15,6 @@ import pickle
 
 
 
-def load_all_programs_dict_textfiles_raw(save_directory):
-    """
-    Loads all dictionary text files in pickle format from the specified directory and returns their content.
-
-    :param save_directory: The directory where the extracted pickle files are saved.
-    :return: A dictionary with filenames (without .pkl) as keys and loaded dictionaries as values.
-    """
-    loaded_dicts = {}
-
-    for filename in os.listdir(save_directory):
-        if filename.endswith('.pkl'):
-            file_path = os.path.join(save_directory, filename)
-            with open(file_path, 'rb') as f:
-                loaded_dicts[os.path.splitext(filename)[0]] = pickle.load(f)
-
-    return loaded_dicts
-
-
 
 def extract_faq_section(url, save_directory):
     """
