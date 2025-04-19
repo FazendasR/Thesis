@@ -3,6 +3,7 @@ import re
 from libs.settings import data_catalog as dc
 from libs import data_extraction as de
 import pickle
+from typing import Dict, Optional, List
 
 
 def clean_and_save_all_programs_textfiles(output_directory):
@@ -73,46 +74,65 @@ def clean_and_save_all_programs_textfiles(output_directory):
         print(f"Saved cleaned dictionary: {output_path}")
 
 
-def clean_text_documents(text_data, words_to_remove=None, words_to_deduplicate=None):
+def clean_text_documents(
+    data: Dict[str, Dict],
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None,
+    words_to_remove: Optional[List[str]] = None,
+    words_to_deduplicate: Optional[List[str]] = None
+) -> Dict[str, Dict]:
     """
     Cleans text documents by:
     1. Removing specified words/phrases completely.
     2. Ensuring only a single occurrence remains for repetitive words.
 
     Parameters:
-    - text_data (dict): Dictionary where keys are filenames and values are document contents.
+    - data (dict): Dictionary where keys are filenames and values contain 'text' and 'metadata'.
+    - course_names_to_include (list, optional): Filter by specific course names (case insensitive).
+    - doc_types_to_include (list, optional): Filter by document types ('teaching_staff', 'study_plan', 'main_info').
     - words_to_remove (list, optional): List of words or phrases to remove entirely.
     - words_to_deduplicate (list, optional): List of words where only one occurrence should remain.
 
     Returns:
-    - dict: A dictionary with cleaned text.
+    - dict: A dictionary with cleaned text and original metadata.
     """
-    cleaned_text_data = {}
+    cleaned_data = {}
 
-    # Compile patterns only if the respective lists are provided
     remove_pattern = None
     if words_to_remove:
-        # Use exact phrase matching instead of word boundaries
         remove_pattern = r'(?:' + '|'.join(re.escape(word) for word in words_to_remove) + r')'
 
-    for filename, text in text_data.items():
-        cleaned_text = text
+    for filename, doc in data.items():
+        course_name = doc["metadata"].get("course_name", "").lower()
+        doc_type = doc["metadata"].get("doc_type", "").lower()
 
-        # Remove words and phrases completely
+        # Filter by course name
+        if course_names_to_include and course_name not in [name.lower() for name in course_names_to_include]:
+            continue
+
+        # Filter by doc type
+        if doc_types_to_include and doc_type not in [dt.lower() for dt in doc_types_to_include]:
+            continue
+
+        cleaned_text = doc["text"]
+
+        # Remove specified phrases
         if remove_pattern:
             cleaned_text = re.sub(remove_pattern, '', cleaned_text, flags=re.IGNORECASE)
-            cleaned_text = re.sub(r'\s+', ' ', cleaned_text).strip()  # Clean extra spaces
+            cleaned_text = re.sub(r'\s+', ' ', cleaned_text).strip()
 
-        # Remove duplicate occurrences of specific words
+        # Deduplicate repeated phrases
         if words_to_deduplicate:
             for word in words_to_deduplicate:
-                word_pattern = rf'\b{re.escape(word)}(?:\s+{re.escape(word)})+\b'
-                cleaned_text = re.sub(word_pattern, word, cleaned_text, flags=re.IGNORECASE)
+                word_pattern = rf'\b({re.escape(word)})(?:\s+\1)+\b'
+                cleaned_text = re.sub(word_pattern, r'\1', cleaned_text, flags=re.IGNORECASE)
 
-        # Store cleaned text
-        cleaned_text_data[filename] = cleaned_text.strip()
+        cleaned_data[filename] = {
+            "text": cleaned_text.strip(),
+            "metadata": doc["metadata"]
+        }
 
-    return cleaned_text_data
+    return cleaned_data
 
 
 ###### Function to identify large documents ######

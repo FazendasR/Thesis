@@ -9,6 +9,9 @@ import plotly.express as px
 import plotly.figure_factory as ff
 import tiktoken
 from nltk.util import ngrams
+from typing import Dict, Optional, List
+
+
 
 nltk.download("punkt")
 
@@ -273,55 +276,45 @@ def histogram_token_count_multiple_docs(
 
     fig.show()
 
-def histogram_token_count_multiple_docs_old(text_data, model="gpt-4", bins=15):
+
+def generate_document_statistics_by_word_count(
+    data: Dict[str, Dict],
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None
+):
     """
-    Plots a histogram of token counts per document using Plotly.
-    
+    Generate and visualize document statistics for word counts in the given dataset.
+
     Parameters:
-    - text_data (dict): Dictionary with filenames as keys and text content as values.
-    - model (str): OpenAI model name (e.g., "gpt-4", "gpt-3.5-turbo").
-    - bins (int): Number of bins for the histogram.
-    - max_tokens (int): Maximum token limit to check against.
-    """
-    
-    # Load the appropriate tokenizer
-    encoding = tiktoken.encoding_for_model(model)
-    
-    # Compute token count for each document
-    token_counts = {filename: len(encoding.encode(content)) for filename, content in text_data.items()}
-    
-    # Convert to list for histogram
-    token_values = list(token_counts.values())
-
-    # Create histogram
-    fig = px.histogram(
-        x=token_values,
-        nbins=bins,
-        labels={'x': 'Token Count', 'y': 'Number of Documents'},
-        title=f'Distribution of Documents by Token Count'
-    )
-
-    fig.update_layout(
-        xaxis_title="Token Count",
-        yaxis_title="Number of Documents",
-        bargap=0.1
-    )
-    
-    # Show figure
-    fig.show()
-
-def generate_document_statistics_by_word_count(text_data):
-    """
-    Generate and visualize document statistics for a given text dataset.
-    
-    Parameters:
-    - text_data (dict): Dictionary where keys are filenames and values are document contents.
+    - data (dict): Dictionary with filenames as keys and dicts containing 'text' and 'metadata'.
+    - course_names_to_include (list, optional): Filter by specific course names (case insensitive).
+    - doc_types_to_include (list, optional): Filter by document types ('teaching_staff', 'study_plan', 'main_info').
     
     Returns:
-    - Plotly table with summary statistics for word counts in the documents.
+    - Plotly table with summary statistics for word counts in the filtered documents.
     """
-    # Calculate word counts for each document
-    word_counts = [len(word_tokenize(content)) for content in text_data.values()]
+    filtered_data = {}
+
+    for filename, doc in data.items():
+        course_name = doc["metadata"].get("course_name", "").lower()
+        doc_type = doc["metadata"].get("doc_type", "").lower()
+
+        # Filter by course name
+        if course_names_to_include and course_name not in [name.lower() for name in course_names_to_include]:
+            continue
+
+        # Filter by doc type
+        if doc_types_to_include and doc_type not in [dt.lower() for dt in doc_types_to_include]:
+            continue
+
+        filtered_data[filename] = doc
+
+    if not filtered_data:
+        print("⚠️ No documents matched the filters.")
+        return
+
+    # Calculate word counts for each filtered document
+    word_counts = [len(word_tokenize(doc["text"])) for doc in filtered_data.values()]
     
     # Compute summary statistics
     summary = pd.DataFrame(word_counts, columns=["Word Count"]).describe().T
@@ -340,37 +333,55 @@ def generate_document_statistics_by_word_count(text_data):
     for i in range(len(fig.layout.annotations)):
         fig.layout.annotations[i].update(align="center")
 
-    fig.update_layout(title="Document Statistics")
+    fig.update_layout(title="Document Statistics by Word Count")
     
     fig.show()
 
-def generate_statistics_for_all_documents(dict_of_dicts, model="gpt-4"):
-    """
-    Applies `generate_document_statistics_by_tokens` to each sub-dictionary in a dict of dicts.
 
-    :param dict_of_dicts: A dictionary where each value is another dictionary of documents.
-    :param model: The OpenAI model name to use for tokenization.
+def generate_document_statistics_by_tokens(
+    data: Dict[str, Dict],
+    model="gpt-4",
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None
+):
     """
-    for category_name, sub_dict in dict_of_dicts.items():
-        print(f"\nGenerating stats for: {category_name}")
-        generate_document_statistics_by_tokens(sub_dict, model=model)
+    Generate and visualize document statistics for token counts in the given dataset.
 
-def generate_document_statistics_by_tokens(text_data, model="gpt-4"):
-    """
-    Generate and visualize document statistics for token counts in a given text dataset.
-    
     Parameters:
-    - text_data (dict): Dictionary where keys are filenames and values are document contents.
+    - data (dict): Dictionary with filenames as keys and dicts containing 'text' and 'metadata'.
     - model (str): OpenAI model name (e.g., "gpt-4", "gpt-3.5-turbo").
-    
+    - course_names_to_include (list, optional): Filter by specific course names (case insensitive).
+    - doc_types_to_include (list, optional): Filter by document types ('teaching_staff', 'study_plan', 'main_info').
+
     Returns:
-    - Plotly table with summary statistics for token counts in the documents.
+    - Plotly table with summary statistics for token counts in the filtered documents.
     """
+    filtered_data = {}
+
+    # Filter documents based on course names and document types
+    for filename, doc in data.items():
+        course_name = doc["metadata"].get("course_name", "").lower()
+        doc_type = doc["metadata"].get("doc_type", "").lower()
+
+        # Filter by course name
+        if course_names_to_include and course_name not in [name.lower() for name in course_names_to_include]:
+            continue
+
+        # Filter by doc type
+        if doc_types_to_include and doc_type not in [dt.lower() for dt in doc_types_to_include]:
+            continue
+
+        filtered_data[filename] = doc
+
+    if not filtered_data:
+        print("⚠️ No documents matched the filters.")
+        return
+
     # Load the tokenizer for the specified model
     encoding = tiktoken.encoding_for_model(model)
     
-    # Calculate token counts for each document
-    token_counts = [len(encoding.encode(content)) for content in text_data.values()]
+    # Calculate token counts for each filtered document
+    token_counts = [len(encoding.encode(doc["text"])) for doc in filtered_data.values()]
     
     # Compute summary statistics
     summary = pd.DataFrame(token_counts, columns=["Token Count"]).describe().T
@@ -394,21 +405,50 @@ def generate_document_statistics_by_tokens(text_data, model="gpt-4"):
     fig.show()
 
 
-def bar_plot_word_frequency(text_data, top_n=20):
+def bar_plot_word_frequency(
+    data: Dict[str, Dict],
+    top_n=20,
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None
+):
     """
     Generates a Plotly bar chart of the most frequent words in a given text dataset.
-    
+
     Parameters:
-    - text_data (dict): Dictionary where keys are filenames and values are document contents.
+    - data (dict): Dictionary where keys are filenames and values are document contents.
     - top_n (int): Number of top words to display.
-    
+    - course_names_to_include (list, optional): Filter by specific course names (case insensitive).
+    - doc_types_to_include (list, optional): Filter by document types ('teaching_staff', 'study_plan', 'main_info').
+
     Returns:
     - A Plotly bar plot showing word frequency with counts and percentages.
     """
     
+    # Filter the data based on course names and document types
+    filtered_data = {}
+
+    for filename, doc in data.items():
+        course_name = doc["metadata"].get("course_name", "").lower()
+        doc_type = doc["metadata"].get("doc_type", "").lower()
+
+        # Filter by course name
+        if course_names_to_include and course_name not in [name.lower() for name in course_names_to_include]:
+            continue
+
+        # Filter by doc type
+        if doc_types_to_include and doc_type not in [dt.lower() for dt in doc_types_to_include]:
+            continue
+
+        filtered_data[filename] = doc
+
+    if not filtered_data:
+        print("⚠️ No documents matched the filters.")
+        return
+
     # Tokenize and normalize words (remove punctuation, convert to lowercase)
     words = []
-    for content in text_data.values():
+    for doc in filtered_data.values():
+        content = doc["text"]
         tokens = word_tokenize(content)
         words.extend([word.lower() for word in tokens if word.isalnum()])  # Keep only alphanumeric words
     
@@ -447,22 +487,52 @@ def bar_plot_word_frequency(text_data, top_n=20):
     # Show figure
     fig.show()
 
-def bar_plot_ngram_frequency(text_data, n=2, top_n=20):
+def bar_plot_ngram_frequency(
+    data: Dict[str, Dict],
+    n=2,
+    top_n=20,
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None
+):
     """
     Generates a Plotly bar chart of the most frequent n-grams in a given text dataset.
-    
+
     Parameters:
-    - text_data (dict): Dictionary where keys are filenames and values are document contents.
+    - data (dict): Dictionary where keys are filenames and values are document contents.
     - n (int): The 'n' in n-gram (default is 2 for bigrams).
     - top_n (int): Number of top n-grams to display.
-    
+    - course_names_to_include (list, optional): Filter by specific course names (case insensitive).
+    - doc_types_to_include (list, optional): Filter by document types ('teaching_staff', 'study_plan', 'main_info').
+
     Returns:
     - A Plotly bar plot showing n-gram frequency with counts and percentages.
     """
-    
+
+    # Filter the data based on course names and document types
+    filtered_data = {}
+
+    for filename, doc in data.items():
+        course_name = doc["metadata"].get("course_name", "").lower()
+        doc_type = doc["metadata"].get("doc_type", "").lower()
+
+        # Filter by course name
+        if course_names_to_include and course_name not in [name.lower() for name in course_names_to_include]:
+            continue
+
+        # Filter by doc type
+        if doc_types_to_include and doc_type not in [dt.lower() for dt in doc_types_to_include]:
+            continue
+
+        filtered_data[filename] = doc
+
+    if not filtered_data:
+        print("⚠️ No documents matched the filters.")
+        return
+
     # Tokenize and normalize words (remove punctuation, convert to lowercase)
     all_ngrams = []
-    for content in text_data.values():
+    for doc in filtered_data.values():
+        content = doc["text"]
         tokens = word_tokenize(content)
         words = [word.lower() for word in tokens if word.isalnum()]  # Keep only alphanumeric words
         n_grams = list(ngrams(words, n))

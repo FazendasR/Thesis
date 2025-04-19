@@ -2,6 +2,20 @@ import pickle
 import os
 from typing import Dict, List, Optional
 from libs.settings import data_catalog as dc
+from libs import data_preparation as dp
+
+def _save_dict_program_textfiles_to_pickle(data_dict: Dict[str, Dict], output_file_name: str, output_folder: str):
+    '''
+        Save a dictionary of dictionaries to a pickle file.
+
+    '''
+    os.makedirs(output_folder, exist_ok=True)  
+    output_path = os.path.join(output_folder, output_file_name)
+
+    with open(output_path, "wb") as f:
+        pickle.dump(data_dict, f)
+
+    print(f"✅ Saved: {output_path}")
 
 def load_pickle_to_dict(pickle_file_path: str) -> Dict[str, Dict]:
     if not os.path.exists(pickle_file_path):
@@ -53,6 +67,82 @@ def print_text_context_from_program_dicts(
         print(doc["text"])
         print("\n" + "-"*50)
 
+
+def create_dict_programs_cleaned():
+    """
+    Load raw bachelor and postgrad data, apply custom cleaning rules per document type,
+    and save cleaned dictionaries preserving original structure.
+    """
+    # Load raw data
+    bachelors_data_raw = load_pickle_to_dict(dc.BACHELORS_DATA_RAW)
+    postgradmasters_data_raw = load_pickle_to_dict(dc.POSTGRAD_AND_MASTERS_DATA_RAW)
+
+    # === Define cleaning rules for each document type ===
+    bachelors_rules = {
+        "teaching_staff": {
+            "words_to_remove": ["know", "more", "apply", "here", "Education"],
+            "words_to_deduplicate": ["Teaching Staff"]
+        },
+        "study_plan": {
+            "words_to_remove": ["Programs", "resumo do conteudo da tabela", "Loading...", "Education", "modal item", "card item"],
+            "words_to_deduplicate": []
+        },
+        "main_info": {
+            "words_to_remove": [
+                "Programs", "resumo do conteudo da tabela", "Loading...", "Education", "caption text",
+                "card item", "modal item", "Apply here", "Know more"
+            ],
+            "words_to_deduplicate": ["Data Science", "Information Management", "Information Systems", "Who is it for?"]
+        }
+    }
+
+    postgrad_rules = {
+        "teaching_staff": {
+            "words_to_remove": ["know", "more", "apply", "here"],
+            "words_to_deduplicate": ["faculty"]
+        },
+        "study_plan": {
+            "words_to_remove": ["loading", "... modal item card item", "resumo do conteudo da tabela"],
+            "words_to_deduplicate": ["Study plan"]
+        },
+        "main_info": {
+            "words_to_remove": [
+                "en", "To apply,", "click", "here", "resumo do conteudo da tabela", "Loading...", "...", "Know more",
+                "modal item", "card item", "caption text", "Value", "Annual Prize", "Program", "Unit", "Curricular",
+                "Programs", "Education", "Postgraduate Programs and Master Degree Programs"
+            ],
+            "words_to_deduplicate": []
+        }
+    }
+
+    # === Clean raw data ===
+    def clean_all_doc_types(raw_data: Dict[str, Dict], rules: Dict[str, Dict]) -> Dict[str, Dict]:
+        cleaned = {}
+        for doc_type, params in rules.items():
+            cleaned_part = dp.clean_text_documents(
+                data=raw_data,
+                doc_types_to_include=[doc_type],
+                words_to_remove=params["words_to_remove"],
+                words_to_deduplicate=params["words_to_deduplicate"]
+            )
+            cleaned.update(cleaned_part)
+        return cleaned
+
+    bachelors_data_cleaned = clean_all_doc_types(bachelors_data_raw, bachelors_rules)
+    postgradmasters_data_cleaned = clean_all_doc_types(postgradmasters_data_raw, postgrad_rules)
+
+    # === Save cleaned dicts ===
+    _save_dict_program_textfiles_to_pickle(
+        data_dict=bachelors_data_cleaned,
+        output_file_name="bachelors_textfiles_cleaned.pkl",
+        output_folder=dc.PATH_CLEANED_DOCS_DICTS  
+    )
+
+    _save_dict_program_textfiles_to_pickle(
+        data_dict=postgradmasters_data_cleaned,
+        output_file_name="postgradmasters_textfiles_cleaned.pkl",
+        output_folder=dc.PATH_CLEANED_DOCS_DICTS 
+    )
 
 
 
@@ -151,16 +241,5 @@ def _process_textsfiles_with_metadata(folder_path: str) -> Dict[str, Dict]:
 
     return docs_input
 
-def _save_dict_program_textfiles_to_pickle(data_dict: Dict[str, Dict], output_file_name: str, output_folder: str):
-    '''
-        Save a dictionary of dictionaries to a pickle file.
 
-    '''
-    os.makedirs(output_folder, exist_ok=True)  
-    output_path = os.path.join(output_folder, output_file_name)
-
-    with open(output_path, "wb") as f:
-        pickle.dump(data_dict, f)
-
-    print(f"✅ Saved: {output_path}")
 
