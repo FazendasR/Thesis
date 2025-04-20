@@ -1,8 +1,61 @@
 import pickle
 import os
 from typing import Dict, List, Optional
+from langchain.schema import Document
 from libs.settings import data_catalog as dc
 from libs import data_preparation as dp
+from libs import data_chunking as dch
+
+def save_documents_to_pickle(
+    documents: List[Document],
+    output_file_name: str,
+    output_folder: Optional[str] = None
+) -> None:
+    """
+    Saves a list of LangChain Document objects to a pickle file.
+
+    Args:
+        documents (List[Document]): List of chunked Document objects.
+        filename (str): The name of the file to save (should end in .pkl).
+        directory (Optional[str]): Optional directory path to save into. Defaults to current directory.
+    """
+    if not output_file_name.endswith(".pkl"):
+        output_file_name += ".pkl"
+
+    if output_folder:
+        os.makedirs(output_folder, exist_ok=True)
+        file_path = os.path.join(output_folder, output_file_name)
+    else:
+        file_path = output_file_name
+
+    try:
+        with open(file_path, "wb") as f:
+            pickle.dump(documents, f)
+        print(f"✅ Saved {len(documents)} documents to {file_path}")
+    except Exception as e:
+        print(f"❌ Failed to save documents to pickle: {e}")
+
+def load_documents_from_pickle(file_path: str) -> List[Document]:
+    """
+    Loads a list of LangChain Document objects from a pickle file.
+
+    Args:
+        file_path (str): Full path to the pickle file.
+
+    Returns:
+        List[Document]: The list of loaded LangChain Document objects.
+    """
+    if not os.path.isfile(file_path):
+        raise FileNotFoundError(f"❌ File not found: {file_path}")
+
+    try:
+        with open(file_path, "rb") as f:
+            documents = pickle.load(f)
+        print(f"✅ Loaded {len(documents)} documents from {file_path}")
+        return documents
+
+    except Exception as e:
+        raise RuntimeError(f"❌ Failed to load pickle file: {e}")
 
 def _save_dict_program_textfiles_to_pickle(data_dict: Dict[str, Dict], output_file_name: str, output_folder: str):
     '''
@@ -67,7 +120,69 @@ def print_text_context_from_program_dicts(
         print(doc["text"])
         print("\n" + "-"*50)
 
+# ==== Create List of Documents Chunked ====
+def create_docs_programs_cleaned_chunked():
+    # Load raw data
+    datasets = {
+        "bachelors": load_pickle_to_dict(dc.BACHELORS_DATA_CLEANED),
+        "postgradmasters": load_pickle_to_dict(dc.POSTGRAD_AND_MASTERS_DATA_CLEANED),
+    }
 
+    # Configuration for each chunking job
+    chunk_jobs = [
+        {
+            "name": "teachingstaff",
+            "func": dch.chunk_teaching_staff_documents,
+            "max_tokens": 512,
+            "chunk_overlap": False,
+            "overlap_size": 0,
+            "doc_types": ["teaching_staff"],
+        },
+        {
+            "name": "studyplan",
+            "func": dch.chunk_study_plan_documents,
+            "max_tokens": 800,
+            "chunk_overlap": False,
+            "overlap_size": 0,
+            "doc_types": ["study_plan"],
+        },
+        {
+            "name": "maininfo",
+            "func": dch.chunk_main_info_documents,
+            "max_tokens": 512,
+            "chunk_overlap": True,
+            "overlap_size": 100,
+            "doc_types": ["main_info"],
+        },
+    ]
+
+    all_chunks: List[Document] = []
+
+    for program_name, data in datasets.items():
+        for job in chunk_jobs:
+            chunks = job["func"](
+                data=data,
+                max_tokens=job["max_tokens"],
+                chunk_overlap=job["chunk_overlap"],
+                overlap_size=job["overlap_size"],
+                course_names_to_include=None,
+                doc_types_to_include=job["doc_types"],
+                include_metadata=False,
+                extra_metadata=None
+            )
+            print(f"✅ {program_name} - {job['name']} chunks: {len(chunks)}")
+            all_chunks.extend(chunks)
+
+    print(f"Total documents chunked: {len(all_chunks)}")
+
+    # Save
+    save_documents_to_pickle(
+        documents=all_chunks,
+        output_file_name="docs_all_programs_chunked_without_metadata",
+        output_folder=dc.PATH_DOCS_CHUNKED
+    )
+
+# ==== Create Dictionary of Programs Cleaned Text Files ====
 def create_dict_programs_cleaned():
     """
     Load raw bachelor and postgrad data, apply custom cleaning rules per document type,

@@ -2,51 +2,10 @@ import os
 from langchain_core.documents import Document
 import pickle
 import re
-from typing import List, Dict
 from transformers import AutoTokenizer, PreTrainedTokenizerFast
 from nltk import sent_tokenize
-
-
-def save_documents_to_disk(documents: List[Document], output_path: str) -> None:
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    with open(output_path, "wb") as f:
-        pickle.dump(documents, f)
-
-
-def load_documents_from_disk(input_path: str) -> List[Document]:
-    with open(input_path, "rb") as f:
-        return pickle.load(f)
-
-
-def process_chunking_documents(
-                                input_folder: str,
-                                output_folder: str,
-                                max_tokens_by_type: dict,
-                            ) -> None:
-    
-    for file_name in os.listdir(input_folder):
-        if not file_name.endswith(".pkl"):
-            continue
-
-        input_path = os.path.join(input_folder, file_name)
-        with open(input_path, "rb") as f:
-            data_dict = pickle.load(f)
-
-        if "teachingstaff" in file_name.lower():
-            max_tokens = max_tokens_by_type.get("teachingstaff")
-            documents = chunk_teaching_staff_documents(data_dict, max_tokens)
-        elif "studyplan" in file_name.lower():
-            max_tokens = max_tokens_by_type.get("studyplan")
-            documents = chunk_study_plan_documents(data_dict, max_tokens)
-        elif "maininfo" in file_name.lower():
-            max_tokens = max_tokens_by_type.get("maininfo")
-            documents = chunk_maininfo_documents(data_dict, max_tokens)
-        else:
-            continue
-
-        output_path = os.path.join(output_folder, file_name)
-        save_documents_to_disk(documents, output_path)
-
+from typing import List, Dict, Optional, Any
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 
 # === Tokenizer Setup ===
@@ -68,19 +27,59 @@ def count_tokens(text: str) -> int:
 
 # === Chunking Function for Teaching Staff ===
 def chunk_teaching_staff_documents(
-    doc_dict: Dict[str, str],
+    data: Dict[str, Dict],
     max_tokens: int = 512,
     chunk_overlap: bool = False,
-    overlap_size: int = 0
+    overlap_size: int = 0,
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None,
+    include_metadata: bool = True,
+    extra_metadata: Optional[Dict[str, Any]] = None,
 ) -> List[Document]:
     """
-    Main entry point. Accepts a dictionary {doc_name: text} and returns chunked Documents.
+    Chunk teaching staff documents into LangChain Documents with optional filters and metadata injection.
+
+    Parameters:
+        data: Dict of {filename: {'text': ..., 'metadata': {...}}}
+        max_tokens: Max token length for chunks
+        chunk_overlap: Whether to overlap chunks
+        overlap_size: Overlap size (in blocks)
+        course_names_to_include: Optional filter by course name
+        doc_types_to_include: Optional filter by doc_type
+        include_metadata: If True, include existing metadata
+        extra_metadata: Optional extra metadata to attach to each chunk
+
+    Returns:
+        List of LangChain Document objects
+
+    Example: 
+        chunked_docs = chunk_teaching_staff_documents(
+        data=my_data,
+        max_tokens=512,
+        chunk_overlap=False,
+        overlap_size=0,
+        doc_types_to_include=["teaching_staff"],
+        course_names_to_include=["Data Science"],
+        extra_metadata={"chunked_by": "teaching_staff_function", "version": "v1.2"},
+        include_metadata=True
+)
     """
     all_docs = []
 
-    for name, text in doc_dict.items():
+    for file_name, file_data in data.items():
+        text = file_data.get("text", "")
+        metadata = file_data.get("metadata", {})
+
         if not isinstance(text, str) or not text.strip():
-            print(f"⚠️ Skipping empty or invalid text for: {name}")
+            print(f"⚠️ Skipping empty or invalid text for: {file_name}")
+            continue
+
+        course_name = metadata.get("course_name", "")
+        doc_type = metadata.get("doc_type", "")
+
+        if course_names_to_include and course_name not in course_names_to_include:
+            continue
+        if doc_types_to_include and doc_type not in doc_types_to_include:
             continue
 
         try:
@@ -93,10 +92,18 @@ def chunk_teaching_staff_documents(
             )
 
             for chunk in grouped_chunks:
-                all_docs.append(Document(page_content=chunk, metadata={"source": name}))
+                doc_metadata = {"source": file_name}
+
+                if include_metadata:
+                    doc_metadata.update(metadata)
+
+                if extra_metadata:
+                    doc_metadata.update(extra_metadata)
+
+                all_docs.append(Document(page_content=chunk, metadata=doc_metadata))
 
         except Exception as e:
-            print(f"❌ Error processing teaching staff in '{name}': {e}")
+            print(f"❌ Error processing teaching staff in '{file_name}': {e}")
 
     return all_docs
 
@@ -155,24 +162,35 @@ def group_blocks_by_token_limit(
         grouped_chunks.append("".join(current_chunk).strip())
 
     return grouped_chunks
-
 # === Chunking Function for Study Plan ===
 def chunk_study_plan_documents(
-    doc_dict: Dict[str, str],
+    data: Dict[str, Dict],
     max_tokens: int = 512,
     chunk_overlap: bool = False,
-    overlap_size: int = 50
+    overlap_size: int = 0,
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None,
+    include_metadata: bool = True,
+    extra_metadata: Optional[Dict[str, Any]] = None,
 ) -> List[Document]:
-    
     all_docs = []
 
-    if not isinstance(doc_dict, dict):
-        raise ValueError("❌ Input must be a dictionary with document names and text.")
+    for file_name, file_data in data.items():
+        text = file_data.get("text", "")
+        metadata = file_data.get("metadata", {})
 
-    for name, text in doc_dict.items():
         if not isinstance(text, str) or not text.strip():
-            print(f"⚠️ Skipping empty or invalid text for: {name}")
+            print(f"⚠️ Skipping empty or invalid text for: {file_name}")
             continue
+
+        course_name = metadata.get("course_name", "")
+        doc_type = metadata.get("doc_type", "")
+
+        if course_names_to_include and course_name not in course_names_to_include:
+            continue
+        if doc_types_to_include and doc_type not in doc_types_to_include:
+            continue
+
         try:
             chunks = smart_chunk_by_semester(
                 text,
@@ -181,11 +199,21 @@ def chunk_study_plan_documents(
                 overlap_size=overlap_size
             )
             for chunk in chunks:
-                all_docs.append(Document(page_content=chunk, metadata={"source": name}))
+                doc_metadata = {"source": file_name}
+
+                if include_metadata:
+                    doc_metadata.update(metadata)
+
+                if extra_metadata:
+                    doc_metadata.update(extra_metadata)
+
+                all_docs.append(Document(page_content=chunk, metadata=doc_metadata))
+
         except Exception as e:
-            print(f"❌ Error chunking document '{name}': {e}")
-    
+            print(f"❌ Error chunking study plan in '{file_name}': {e}")
+
     return all_docs
+
 
 # === Helper Functions for Study Plan Chunking ===
 def split_to_token_limit(text: str, max_tokens: int, overlap: bool = False, overlap_size: int = 50) -> List[str]:
@@ -225,91 +253,54 @@ def smart_chunk_by_semester(text: str, max_tokens: int = 512, chunk_overlap: boo
     return chunks
 
 # === Chunking Function for Main Info ===
-def chunk_maininfo_documents(
-    doc_dict: Dict[str, str],
+def chunk_main_info_documents(
+    data: Dict[str, Dict],
     max_tokens: int = 512,
     chunk_overlap: bool = False,
-    overlap_size: int = 50
+    overlap_size: int = 50,
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None,
+    include_metadata: bool = True,
+    extra_metadata: Optional[Dict[str, Any]] = None,
 ) -> List[Document]:
-    chunked_documents = []
+    documents = []
+    text_splitter = get_text_splitter(max_tokens, overlap_size if chunk_overlap else 0)
 
-    for course_name, text in doc_dict.items():
-        lines = text.split("\n")
-        sections = []
-        current_section = {"header": None, "content": ""}
+    for filename, content_dict in data.items():
+        text = content_dict.get("text", "")
+        metadata = content_dict.get("metadata", {})
 
-        for line in lines:
-            if is_potential_section_header(line):
-                if current_section["header"] or current_section["content"].strip():
-                    sections.append(current_section)
-                current_section = {"header": line.strip(), "content": ""}
-            else:
-                current_section["content"] += line.strip() + " "
+        course_name = metadata.get("course_name", "")
+        doc_type = metadata.get("doc_type", "")
 
-        if current_section["header"] or current_section["content"].strip():
-            sections.append(current_section)
+        if course_names_to_include and course_name not in course_names_to_include:
+            continue
+        if doc_types_to_include and doc_type not in doc_types_to_include:
+            continue
+        if not isinstance(text, str) or not text.strip():
+            print(f"⚠️ Skipping empty or invalid text in: {filename}")
+            continue
 
-        for section in sections:
-            full_text = (section["header"] + "\n" if section["header"] else "") + section["content"]
-            sentences = sent_tokenize(full_text)
+        # Split the full text using RecursiveCharacterTextSplitter
+        chunks = text_splitter.split_text(text)
 
-            buffer = []
-            token_count = 0
-            i = 0
+        # Create Document objects for each chunk
+        for chunk in chunks:
+            doc_metadata = {"source": filename}
+            if include_metadata:
+                doc_metadata.update(metadata)
+                if extra_metadata:
+                    doc_metadata.update(extra_metadata)
+            
+            documents.append(Document(page_content=chunk, metadata=doc_metadata))
 
-            while i < len(sentences):
-                sentence = sentences[i]
-                sentence_tokens = count_tokens(sentence)
+    return documents
 
-                if sentence_tokens > max_tokens:
-                    raise ValueError(
-                        f"❌ Sentence too large to fit in a chunk (size={sentence_tokens} tokens, max={max_tokens}):\n{sentence}"
-                    )
-
-                if token_count + sentence_tokens <= max_tokens:
-                    buffer.append(sentence)
-                    token_count += sentence_tokens
-                    i += 1
-                else:
-                    chunk_text = " ".join(buffer).strip()
-                    chunked_documents.append(
-                        Document(page_content=chunk_text, metadata={"source": course_name})
-                    )
-
-                    # Handle overlap
-                    if chunk_overlap:
-                        overlap_buffer = []
-                        overlap_token_count = 0
-                        for s in reversed(buffer):
-                            s_tokens = count_tokens(s)
-                            if overlap_token_count + s_tokens <= overlap_size:
-                                overlap_buffer.insert(0, s)
-                                overlap_token_count += s_tokens
-                            else:
-                                break
-                        buffer = overlap_buffer
-                        token_count = overlap_token_count
-                    else:
-                        buffer = []
-                        token_count = 0
-
-            if buffer:
-                chunk_text = " ".join(buffer).strip()
-                chunked_documents.append(
-                    Document(page_content=chunk_text, metadata={"source": course_name})
-                )
-
-    return chunked_documents
-
-# === Helper Function for Main Info Chunking ===
-def is_potential_section_header(line: str) -> bool:
-    line = line.strip()
-    if not line:
-        return False
-    return (
-        len(line) < 80 and (
-            line.isupper() or
-            line.istitle() or
-            bool(re.match(r"^\d+[\).\s]", line))
-        )
+# === RecursiveCharacterTextSplitter Setup ===
+def get_text_splitter(max_tokens: int, chunk_overlap: int) -> RecursiveCharacterTextSplitter:
+    return RecursiveCharacterTextSplitter(
+        chunk_size=max_tokens,  # Max number of characters per chunk
+        chunk_overlap=chunk_overlap,  # Number of overlapping characters between chunks
+        length_function=len,  # Function to compute the length of each chunk (by character count)
+        separators=["\n", "\n\n", ".", "!", "?"]  # Prefer breaking on these separators for better semantic breaks
     )
