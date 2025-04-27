@@ -167,7 +167,7 @@ def create_docs_programs_cleaned_chunked():
                 overlap_size=job["overlap_size"],
                 course_names_to_include=None,
                 doc_types_to_include=job["doc_types"],
-                include_metadata=False,
+                include_metadata=True,
                 extra_metadata=None
             )
             print(f"✅ {program_name} - {job['name']} chunks: {len(chunks)}")
