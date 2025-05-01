@@ -1,0 +1,84 @@
+{
+    "evaluation_retrievers_dataset": [
+      {
+        "query": "What are the admission requirements for the Master Degree in Law and Financial Markets?",
+        "relevant_docs": ["044839f6-fe8a-4bc4-9d50-a0e52100df1", "cfbf2fed-1f0f-46d2-b009-0b90315ca27c"]
+      },
+      {
+        "query": "What are the main professional opportunities of the Bachelor's degree in Information Systems?",
+        "relevant_docs": ["6970a629-331d-40d2-85c7-04b99c219040", "56bd04db-ab9d-48bc-8fe7-82583c83853d"]
+      },
+      {
+        "query": "What is the study plan of the Master's in Data Science and advanced analytics?",
+        "relevant_docs": ["8978c024-442f-4cbb-aa67-517182f84770", "c9cd0f7e-e2bd-4a07-b4aa-28498940635c", "3800e187-b87c-4902-b7e9-9c49cfcf8e87"]
+      },
+      {
+        "query": "How many ECTS are required to complete the Postgraduate Program in Information Management and Business Intelligence in Healthcare?",
+        "relevant_docs": ["20e1ecce-8ce2-41e5-af90-c630e65c5ee7"]
+      },
+      {
+        "query": "Are there any specializations offered in the Master's in Data Driven Marketing?",
+        "relevant_docs": ["598a030a-8552-45c9-a3cc-6dc24ea9be0b", "fa3a6814-7368-4ee5-a9cf-d4ac28e80004", "98189b9d-52ba-4778-97cc-36046cf30161", "9b8c3451-1513-42f2-a478-fe7f50216dd6"]
+      },
+      {
+        "query": "What is the difference between the Bachelor's in Information Management and the Bachelor's in Information Systems?",
+        "relevant_docs": ["c32c8965-3380-4b99-b679-7956072a60c9", "1d26bc64-2e81-49de-a949-3f9cbcbe8f64", "d444d0e4-6662-4c2c-86d7-c0e2ebca711a", "2483d1a4-d71a-42b3-993c-c4dafe74e4ca"]
+      },
+      {
+        "query": "Can you give me the email of professor Bruno Jardim?",
+        "relevant_docs": ["e6d10b9d-bb21-4864-a81b-48efc0d5ebe1", "e22f4ccd-133b-4dba-af33-2c26d856bb9a", "e370d516-315b-4b88-80cc-3fbdda7d0e7f", "fea80b56-5379-4eb4-bd47-f497f8020976", "2035868e-f203-4a61-bab1-81bdf874deac", "62ad74f9-d235-49ef-b19a-3b208dc078ca"]
+      },
+      {
+        "query": "Who is the program coordinator of the Postgraduate Program In Digital Transformation?",
+        "relevant_docs": ["2b64b14b-f2e2-4610-85ac-a3c6918ce3f3"]
+      },
+      {
+        "query": "Can you give me the email of professor Ivo Bernardo and Bruno Jardim?",
+        "relevant_docs": ["71d41c7e-db27-4ceb-8897-196c8216bfb6", "d6cb5c54-ccb8-4e92-8358-1793a9566dc4", "00fc1236-6315-4e0e-a9bb-f3ef38024702", "e370d516-315b-4b88-80cc-3fbdda7d0e7f", "fea80b56-5379-4eb4-bd47-f497f8020976"]
+      },
+      {
+        "query": "How is the curriculum for the Postgraduate Program in Business Intelligence?",
+        "relevant_docs": ["520d9d37-84ce-4df6-9831-cfd0988c7e34", "7d5f4c6f-f2fc-4a9b-a858-844b8aa3bd4b"]
+      },
+      {
+        "query": "What are the main courses in the Master's Degree Program in Statistics and Information Management, with a specialization in Data Analytics?",
+        "relevant_docs": ["f0e0659d-2a5c-4567-af0a-d2c43f0b7ec0", "24e4554d-f223-400c-a9a7-1d43a5f9e77a", "9d8a22c0-4582-4136-be5c-b559c87608fc"]
+      },
+      {
+        "query": "What are the compulsory courses in the Master Degree Program in Data Science and Advanced Analytics, with a specialization in Data Science?",
+        "relevant_docs": ["8978c024-442f-4cbb-aa67-517182f84770", "c9cd0f7e-e2bd-4a07-b4aa-28498940635c", "3800e187-b87c-4902-b7e9-9c49cfcf8e87"]
+      },
+      {
+        "query": "What programming languages are taught in the Bachelor's in Data Science?",
+        "relevant_docs": ["d549ecfe-44d3-4ba0-b99b-43520fa4ee4a", "9b06a471-ffbc-4f22-a0ee-0df00d2b11bb"] 
+      },
+      {
+        "query": "How does the Master in Information Management, with a specialization in Business Intelligence prepare students for the digital transformation of businesses?",
+        "relevant_docs": ["dd3532c5-8d98-4603-b556-1dec975ca377"]
+      },
+      {
+        "query": "What are the admission fees for the Master in Clinical Research Management?",
+        "relevant_docs": ["4ee4c3c0-18c6-4ede-855d-d775934bfc41", "312d7c66-baf0-456d-bcc5-6eaafb40e993", "6c045641-ee8f-42ae-81bb-e89d7a0eb3be"]
+      },
+      {
+        "query": "Who is the Postgraduate Program in Geospatial Intelligence for?",
+        "relevant_docs": ["31b09000-b7e9-407b-8f1d-603b5490ccf8", "bd813b55-28d7-4652-bb3f-2c424690f388"]
+      },
+      {
+        "query": "Can I pursue a Master's in Data Science after completing a Bachelor's in Economics?",
+        "relevant_docs": ["d6c3c806-7850-456d-a4d7-b8c532299c02"]
+      },
+      {
+        "query": "Tell me more about the Master Degree in Law and Financial Markets?",
+        "relevant_docs": ["b4a7a86b-4421-4dec-ad3e-cdb45d65e572", "cfbf2fed-1f0f-46d2-b009-0b90315ca27c", "257f5074-cfdb-4db5-ac9b-1b3e480f7af3", "487f4ef8-9923-4a00-8017-4c1eb00662dd"]
+      },
+      {
+        "query": "What is the focus of the Postgraduate Program in Financial and Budgetary Management and Control?",
+        "relevant_docs": ["a0ece7ce-4fb0-4500-a3b1-a9d449129761", "0f934f59-8e33-47c5-b7b4-fd53142a8b80", "18288cf4-7c48-484e-89f9-00870c21fa50"]
+      },
+      {
+        "query": "Give me the name of the professor responsible for the Financial Accounting class of the Postgraduate Program in Financial and Budgetary Management and Control?",
+        "relevant_docs": ["0a9e22db-1918-44ec-81d2-65c86380762e"]
+      }
+    ]
+  }
