@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree in Geographic Information Systems and Science, with a specialization in Geospatial Data Science
 The specialization in Geospatial Data Science
 provides the necessary skills for the analysis, modeling, and visualization of geographic information,
@@ -42,7 +43,7 @@ Attendance
 week
 Start Date
 September 2025
-Who is it for?
+<Who is it for?>
 The specialization in Geospatial Data Science aims to train managers and staff able to analyze, modeling, and visualize geographic information in environments with large amounts of data.
 This Program is taught in Portuguese and aims at everyone from Portuguese-speaking African countries but also Portugal, Brazil, Timor, and Portuguese communities all over the world, who is interested in continuing their studies by getting a Master's Degree in a Portuguese university.
 Goals
@@ -50,14 +51,11 @@ This program provides the knowledge and skills needed to:
 Understand and contribute to the great technical and social challenges created by computing environments rich in geospatial data including its architecture, integrity and management;
 Understand how geospatial data can be acquired and used to support various analysis, modeling, and geovisualization processes in large data environments;
 Understand how artificial intelligence, programming and data mining can be used to intelligently enhance the typical concepts and flows of geographic information science and thus provide institution-centric solutions to a wide variety of challenges and societal problems across public and private sectors.
-
----
-
 Program Coordinator
 Marco Painho
 Full Professor
 painho@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the required attributes.
 3
 rd

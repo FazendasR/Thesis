@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree in Data-Driven Marketing, with a specialization in Marketing Intelligence - Working Hours Format
 The Master Degree Program in Data-Driven Marketing, with a specialization in Marketing Intelligence, trains technical and management staff to
 lead and guide the collection, organization, analysis, exploration, and dissemination of marketing information in organizations.
@@ -41,20 +42,18 @@ Start Date
 September 2025
 Support and funding
 https://recuperarportugal.gov.pt/
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Develop strategies, methods and tools of marketing management;
 Be aware of client behavior and create relationship policies;
 Master the processes and tools used for the storage, organization and access to marketing information in organizations;
 Use the several methodologies and tools of exploration and analysis, in order to reduce the levels of uncertainty related to solving marketing problems.
-
----
-
 Program Coordinator
 Paulo Rita
 Full Professor
 prita@novaims.unl.pt
-Admissions and fees
+
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

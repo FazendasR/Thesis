@@ -1,3 +1,4 @@
+<Introduction>
 European Master of Science in Information Systems Management
 The European Master of Science in Information Systems Management aims at graduates who are willing to
 acquire additional information systems management skills
@@ -27,7 +28,7 @@ Attendance
 2 to 3 times a week
 Start Date
 September 2025
-Who is it for?
+<Who is it for?>
 This program is aimed at graduates in management, engineering, economics, marketing, information management, and professionals in network systems and data communications analysis, computer software engineering (both applications and systems software), network, computer systems and database administration, among others, who are willing to acquire additional Information Systems Management skills to be applied in their professional field.
 Goals
 The goals of the program are:
@@ -35,15 +36,12 @@ Develop the understanding of the strategic benefits in successfully implementing
 Develop project management and capital budgeting skills to enable activity, program and project costing, control and evaluation;
 Develop an appreciation of the impact and management of change caused by the introduction of information systems;
 Develop the ability to manage, advise, and participate in the development and application of information resources, and the ability to manage changes towards the strategic renewal of business.
-
----
-
 NOVA IMS' Program Coordinator
 Fernando Bação
 Full Professor
 bacao@novaims.unl.pt
 
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS and SEB LU is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

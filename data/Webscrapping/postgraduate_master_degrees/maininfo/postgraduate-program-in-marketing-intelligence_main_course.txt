@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Marketing Intelligence
 The Postgraduate Program in Marketing Intelligence aims to train experts and managers able to
 lead and guide the collection, compilation, analysis and dissemination of marketing information
@@ -39,7 +40,7 @@ Start Date
 September 2025
 Support and Funding
 https://recuperarportugal.gov.pt/
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Develop strategies, methods and instruments of marketing management;
 Be aware of client behavior and create relationship policies;
@@ -50,7 +51,7 @@ Program Coordinator
 Paulo Rita
 Full Professor
 prita@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree in Statistics and Information Management, with a specialization in Data Analytics
 The
 Master's Degree Program in Statistics and Information Management, with a specialization in Data Analytics
@@ -24,18 +25,16 @@ Start Date
 September 2025
 Who is it for?
 The Master Degree Program in Statistics and Information Management, with a specialization in Data Analytics, is aimed at everyone whose concern for analysis and treatment of information is critical to perform their roles, namely managers and technical staff involved in information production for strategic decision-making support in organizations. Marketing technical staff and managers, experts in market research and CRM, Information technologies managers, technical staff of Risk Management, Information systems managers, are among the target groups of this program.
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Develop techniques and methodologies for data collection;
 Apply various methodologies, tools and computational statistics to explore and analyze information in order to reduce levels of uncertainty associated with decision making;
 Communicate results, in written form or orally, adapting them to the level and interests of the audience.
-
----
-
 Program Coordinator
 Bruno Damásio
 Assistant Professor
 bdamasio@novaims.unl.pt
+<Admissions and Fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

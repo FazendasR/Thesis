@@ -1,12 +1,10 @@
+<Introduction>
 Master Degree in Information Management, with a specialization in Digital Transformation
 The Master Degree in Information Management, with a specialization in Digital Transformation recognizes the significance of digital transformation in today's business world. The program aims to strengthen NOVA IMS's training offering in this area by focusing on the exploration of technological advancements and processes that can help organizations enhance their competitive advantage through the transformation or development of their business models. As digital transformation becomes increasingly crucial for companies to remain relevant and competitive, the importance of training in this area cannot be overstated. By participating in this program, professionals will gain a deeper understanding and competences of how to leverage technology to drive business growth and create new opportunities.
 The program's focus on exploring technological developments and processes is particularly relevant, as it equips professionals with the skills and knowledge necessary to stay ahead of the curve in a fast-paced digital environment. This training will provide professionals with the tools they need to work effectively with new technologies, adopt best practices, and continuously improve their skills. In conclusion, the Postgraduate Program in Digital Transformation is an important step in helping individuals and organizations to effectively navigate the digital world. The program's focus on technological developments and processes will equip individuals with the skills and knowledge necessary to drive business success and enhance.
 The 1
 st
 year of the Master’s corresponds to the Postgraduate Program in Digital Transformation
-–  for more information about the Postgraduate Program, click
-here
-.
 The applications for this program are open between March 10
 th
 and April 10
@@ -24,18 +22,15 @@ Who is it for?
 Digital transformation is an ongoing process that involves using technology to fundamentally change the way organizations operate and deliver value to customers. This Program is designed for individuals who want to gain a comprehensive understanding of digital transformation and its impact on various industries. Whether you're a recent graduate in the fields of engineering, management, or technology or an experienced professional looking to expand your knowledge, this specialization will provide you with the skills and insights you need to help organizations navigate the challenges and opportunities of digital transformation.
 Through a combination of hands-on projects, expert lectures, and interactive discussions, you'll explore cutting-edge technologies and processes that are driving digital transformation and learn how to assess their potential impact on your organization.
 By the end of the program, you'll have a deep understanding of how digital transformation is shaping the future of work and be well-equipped to play a leading role in your organization's journey towards a more digital future.
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Train technicians and managers capable of formulating and evaluating digital transformation processes in organizations;
 Present solutions aimed at increasing productivity and efficiency in organizations, with efficient and secure data management.
-
----
-
 Program Coordinator
 Fernando Bação
 Full Professor
 bacao@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

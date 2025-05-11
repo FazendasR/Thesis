@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Geospatial Intelligence
 The Geospatial Intelligence Certificate,
 accredited by the
@@ -22,7 +23,7 @@ Attendance
 2 times a week
 Start Date
 September 2024
-Who is it for?
+<Who is it for?>
 This Postgraduate Program, with access to the GEOINT Certificate and the USGIF Certificate, is for anyone who desires to work in or who already is working in GEOINT fields, such as emergency and disaster response, environmental change, national and corporate defense and security.
 This certificate is especially relevant to individuals in:
 Armed Forces and Security Forces and Services working with geospatial information;
@@ -42,7 +43,7 @@ Program Coordinator
 Marco Painho
 Full Professor
 painho@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 Entry Requirements
 To enter this program, applicants must meet the following requirements:

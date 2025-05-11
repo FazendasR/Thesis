@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree Program in Data Science and Advanced Analytics, with a specialization in Business Analytics
 The Master degree Program in Data Science and Advanced Analytics, with a specialization in Business Analytics, is aimed at
 market oriented people
@@ -42,7 +43,7 @@ Attendance
 2 to 3 times a week
 Start Date
 September 2025
-Goals
+<Goals>
 This program will provide a set of interdisciplinary skills and tools such as:
 Understanding of the main paradigms associated with large databases and data warehouses;
 Understanding the processes of decision making;
@@ -57,7 +58,7 @@ Program Coordinator
 Roberto Henriques
 Associate Professor
 roberto@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 2
 nd

@@ -1,3 +1,4 @@
+<Introduction>
 Master in Information Management, with a specialization in Business Intelligence 
 The Master's Degree Program in Information Management, with a specialization in Business Intelligence, working hours format, is a full-time program that gives Students
 the skills and knowledge for data-driven decision making
@@ -34,7 +35,7 @@ Know more here
 Who is it for?
 This program is aimed at recent graduated students who plan to pursue a career in the business analytics field, as well as those seeking career advancement or change, especially from fields as Management, Engineering, Economics, Statistics, Information Management, Computer Science or related.
 The program answers the industry’s demand for business information systems and data analytics, ensuring graduates the required training to manage and build actionable insights. This Master Program is designed with full-time students in mind.
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Introduce the principles of Knowledge Management to improve organizational efficiency and effectiveness, in order to promote the competitiveness of organizations;
 Understand the process of Business Intelligence and its role in creating value for the business;
@@ -42,13 +43,11 @@ Use analytical applications to monitor organizations' performance and visualizat
 Understand the purpose and meet the main techniques of Data Mining and Predictive Analytics;
 Identify the key indicators of the analytical applications in a business context.
 
----
-
 NOVA IMS' Program Coordinator
 Fernando Bação
 Full Professor
 bacao@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

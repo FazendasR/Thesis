@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Risk Analysis and Management
 The Postgraduate program in Risk Analysis and Management aims to train technical and management staff to be able to identify, quantify, and manage the risks of institutions (whether financial or not). The program aims to train staff of financial institutions or those of a different nature, enabling them to make decisions in risk management, according to the capital requirements established by Solvency II and Basel III. This Postgraduate Program is especially for Financial Analysts, Financial Controllers, Auditors, chartered accountants, among others.
 This Postgraduate Program gives access to the
@@ -28,7 +29,7 @@ nd
 best in the
 World
 by Eduniversal, an international agency that publishes an annual ranking of the best MBA and Master degree programs in the world.
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Become familiar with operations and products that are part of the activity of financial institutions;
 Identify and quantify risks associated with financial institutions;
@@ -40,7 +41,7 @@ Program Coordinator
 Jorge Miguel Bravo
 Associate Professor
 jbravo@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

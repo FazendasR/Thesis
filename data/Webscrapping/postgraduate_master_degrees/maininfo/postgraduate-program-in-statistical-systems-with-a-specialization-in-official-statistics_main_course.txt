@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Statistical Systems, with a specialization in Official Statistics
 The Postgraduate Program in Statistical Systems, with a specialization in Official Statistics,
 accredited by European Statistical System
@@ -26,7 +27,7 @@ Partner Entities
 European Master in Official Statistics
 Who is it for?
 This program is aimed to employees of the organizations that take part of the National Statistical System of Portugal and the Portuguese-speaking countries. It is also addressed to everyone who is interested in official statistics, including the employees of any other organizations with interests in this field and the general public.
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Manage and lead the process of producing official statistics;
 Develop techniques and methodologies of data collection;
@@ -38,7 +39,7 @@ NOVA IMS' Program Coordinator
 Pedro Simões Coelho
 Full Professor
 psc@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

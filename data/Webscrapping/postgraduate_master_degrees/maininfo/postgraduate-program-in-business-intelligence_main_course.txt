@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Business Intelligence
 The globalizing and ever-changing environment in which businesses operate has promoted, as a critical success factor for business, the ability to leverage data and digital transformation to manage information and knowledge in organizations.
 The Postgraduate Program in Business Intelligence aims to train experts and managers able to design, build and use business intelligence and analytics processes to support organizational decision making and knowledge management, inducing value creation and promoting its operational and strategic excellence. This program is aimed at managers looking for added value provided from data warehouses of the organizations, and technical staff who work in BI initiatives, including the processes of data warehousing, business analytics and data visualization.
@@ -31,7 +32,7 @@ World
 by Eduniversal, for the 6
 th
 time in a row.
-Who is it for?
+<Who is it for?>
 The Postgraduate Program in Knowledge Management and Business Intelligence is aimed at graduates in a compatible field such as: Management, Engineering, Economics, Marketing, Statistics and Information Management, Sociology or Psychology; or another area of knowledge if qualified with the appropriate professional experience in information management activities. Among the potential targets of this postgraduate program, we highlight those who have responsibilities in Knowledge Management and Business Intelligence, Data Warehouses Managers, as well as managers and leaders looking for added value provided from data warehouses of the organizations in which they develop their activity. This Postgraduate Program also aims at technical staff and managers that need to work together to launch BI initiatives.
 Goals
 The goal of this program is to train technical staff and managers to:
@@ -47,7 +48,7 @@ NOVA IMS' Program Coordinator
 Fernando Bação
 Full Professor
 bacao@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

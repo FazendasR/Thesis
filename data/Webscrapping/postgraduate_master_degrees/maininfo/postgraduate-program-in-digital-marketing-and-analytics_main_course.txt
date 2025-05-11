@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Digital Marketing and Analytics
 The digital revolution of recent years has completely changed the way people search for information, consume, interact, and learn. In this context, marketing professionals increasingly use decision support systems to sustain their brands and products in the marketplace.
 The need to adopt analytical approaches to understand and create competitive advantages in this environment has gained greater importance.
@@ -43,7 +44,7 @@ rd
 best in
 Western Europe
 by Eduniversal.
-Who is it for?
+<Who is it for?>
 The Postgraduate Program in Digital Marketing and Analytics is aimed at managers, experts and other professionals who want to obtain skills in Digital Marketing and Web Analytics, using the most advanced methodologies for collecting, analyzing and processing data to support decision-making in Web Marketing.
 Goals
 The goal of this program is to train technical staff and managers to:
@@ -52,13 +53,11 @@ Understand and be able to apply analytical Social Media techniques;
 Understand the principles and metrics of Web Analytics;
 Master the techniques of Search Engine Marketing, including AdWords campaign management and the development of Search Engine Optimization (SEO) strategy.
 
----
-
 Program Coordinator
 Paulo Rita
 Full Professor
 prita@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

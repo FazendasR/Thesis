@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree Program in Clinical Research Management
 Developed in partnership with NOVA IMS,
 NOVA Medical School (NMS|FCM)
@@ -25,7 +26,7 @@ Attendance
 Twice a week
 Start Date
 September 2024
-Who is it for?
+<Who is it for?>
 This Master Degree Program is aimed at:
 Graduates in the area of Life Sciences and Health (Pharmaceutical Sciences, Medicine, Veterinary Medicine, Dental Medicine, Biomedical Sciences, Biology, Nursing, Microbiology, Biochemistry, Biotechnology, etc.);
 Holders of a foreign higher academic degree, conferred following a 1
@@ -38,7 +39,7 @@ that is recognized as attesting the capacity to carry out this cycle of studies,
 
 ---
 
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 Tuition fee
 The tuition fee is:

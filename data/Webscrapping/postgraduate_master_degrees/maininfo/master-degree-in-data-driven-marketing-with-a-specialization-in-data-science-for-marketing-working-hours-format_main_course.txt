@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree in Data-Driven Marketing, with a specialization in Data Science for Marketing - Working Hours Format
 The Master Degree Program in Data-Driven Marketing, with a specialization in Data Science for Marketing, aims to fill a gap in the postgraduate training of marketing professionals who need to gain new skills to be able to
 actively participate in the development and application of analytical marketing models
@@ -31,7 +32,7 @@ Attendance
 2 to 3 times a week
 Start Date
 September 2025
-Who is it for?
+<Who is it for?>
 This Master Degree Program is aimed at managers, technical staff and other professionals who wish to acquire analytical skills in the field of marketing, using the most advanced technologies and methodologies for collecting, analyzing and processing data in the scope of data science, in order to allow making data-driven based decisions.
 Goals
 The main goal of this program is to train marketing professionals to be capable of:
@@ -42,14 +43,12 @@ Developing the capabilities to load, clean and transform data, and identifying t
 Understanding the power of Big Data and learning how to achieve business solutions by processing large streams of data in real-time;
 Interpreting and communicating data and results using a wide range of real-world marketing examples;
 Always being ready to face the challenges of the modern and fast-changing business world.
-
----
-
 Program Coordinator
 Paulo Rita
 Full Professor
 prita@novaims.unl.pt
-Admissions and fees
+
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

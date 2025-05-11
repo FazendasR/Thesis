@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Statistical Systems, with a specialization in Central Banks' Statistics
 The Postgraduate Program in Statistical Systems, with a specialization in Central Bank Statistics, was developed
 in close collaboration with Banco de Portugal
@@ -31,7 +32,7 @@ Irving Fisher Committee on Central Bank Statistics
 Banco de Portugal
 European Central Bank
 European Master in Official Statistics
-Who is it for?
+<Who is it for?>
 This program is aimed at staff of central banks, including producers, analysts or users of statistical information. It is also addressed to all those interested in central banks' statistics, particularly employees in statistical departments of banks and other financial institutions, as well as national statistical institutes and other entities responsible for producing official statistics.
 Goals
 The goal of this program is to train technical staff and managers to:
@@ -45,7 +46,7 @@ NOVA IMS' Program Coordinator
 Pedro Simões Coelho
 Full Professor
 psc@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

@@ -1,10 +1,4 @@
-Text from https://www.novaims.unl.pt/en/education/programs/bachelor-s-degrees/information-systems/:
-Information Systems
-Degree in
-Information Systems
-en
-Education
-Programs
+<Introduction>
 Bachelor's Degrees
 Information Systems
 Nowadays, Information Technologies are present in the most diverse areas of knowledge and people's everyday lives, even when they do not realize it.
@@ -35,35 +29,16 @@ Systems Analyst.
 Technical and Managerial Positions in Public Administration.
 At NOVA IMS we encourage continuous individual development through excellence.
 - For this reason, we believe that we must reward all those who stand out at the entrance of the Bachelor´s Degree courses and who, during their academic career, work to exceed their and our expectations.
-At NOVA IMS we encourage continuous individual development through excellence.
-- For this reason, we believe that we must reward all those who stand out at the entrance of the Bachelor´s Degree courses and who, during their academic career, work to exceed their and our expectations.
-Award for
 Academic Excellence Incentive
 Application prize awarded to all students whose average entry grade to the National Competition is equal to or greater than 18 values
-Know more
+
 What does a graduate with Degree in Information Systems?
 Manuela Aparício | Coordinator of the Bachelor Degree
-Sorry, your browser doesn't support embedded videos.
-Play video
-Who is it for?
-Who is it for?
-Program Goals
-Program Structure
-Admissions and Fees
-Achievement Awards
-Teaching Staff
-Tuition Fee
-Scholarships
-Calendar, Timetable and Exams
-FAQ
-Regulations and Accreditations
-Apply here
-Who is it for?
+
+<Who is it for?>
 This degree is addressed to all high school finalist students, who are seeking a college education that enables them to master the Information Technologies in the operational management of the organizations, creating new products, services and business processes.
 A degree in Information Systems aims at training professionals who are characterized by the ability to make the connection between the different business areas and the area of information systems. Being experts in analysis, design and implementation of information systems whose main task to improve the quality of decision making in organizations.
-For information about the International Student Access, please click
-here
-.
+
 Program Goals
 In this degree, it is intended that students acquire skills to analyze, design and implement systems and information technologies, providing a link between the different business areas and the area of information systems. In this context, by the end of the program, the Graduated in Information Systems shall:
 Know the fundamentals of information systems as tools for effective increase productivity;
@@ -77,7 +52,8 @@ Become productive, responsible information systems professionals capable of cond
 Demonstrate independent thinking, self-management, and functioning effectively in team-oriented and open-ended activities in a business or an industrial environment;
 Develop leadership skills and perform ethically and professionally in business, industry, and society;
 Excel in a career in an Information Systems related field.
-Student Outcomes
+
+<Student Outcomes>
 The program objectives are to train experts and managers to be able to analyze, design and implement information systems, establishing the link between the different business areas and the area of information systems. Thus, the program aims to train graduates capable of using the information systems for improving the decision making process of organizations, with an advanced level of knowledge, comprehension and skills.
 In this context, students that obtain a degree in Information Systems by NOVA IMS should be able to:
 Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions;
@@ -100,8 +76,8 @@ The total number of enrolled students in the three years of the program was 177 
 Program Structure
 The course lasts 3 years (6 semesters) and classes start in September 2025.
 The study plan corresponds to 180 ECTS, of which 150 ECTS correspond to mandatory curricular units (the first 5 semesters) and 30 ECTS correspond to optional curricular units (last semester of the course), which will be chosen by each Student, from among a wide range of curricular units available.
-See study plan
-Admissions and Fees
+
+<Admissions and Fees>
 Establishment Code:
 0906 - Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação
 Course Code:
@@ -113,10 +89,7 @@ Entry Exam Subjects (One of the following):
 16 - Mathematics and 18 - Portuguese
 16 - Mathematics and 09 - Geography
 16 - Mathematics and 13 - English
-Course Unit
-Loading...
-modal item
-card item
+
 NOTICE:
 The exams presented are valid for admissions in the 2025/26 academic year, through the National Competition for Access to Higher Education.
 Minimum Grades
@@ -180,16 +153,7 @@ Best Finalist Student
 €1.500
 Best Student of the Course Units
 €1.500
-Best Student
-of the Course Unit
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
+
 Supportive Entities
 Best student of the Course Unit
 €1.000
@@ -197,14 +161,7 @@ Best Student of Undergraduate and Master Degree Programs
 Scholarship with Value to be Defined
 Best Application Grade
 €1.000
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
+
 Tuition Fee
 The annual fee set for the academic year
 2024/25,
@@ -215,23 +172,18 @@ For the students of the International Student Contest, the annual fee for the ac
 2024/25, is €7500.
 This payment can also be paid in full or in 5 instalments.
 The Student (national or international), when registering for a school year, has to take into account that the full payment of the tuition fee fixed for that school year (the monthly fees/benefits are a payment facility), even if they cancel the registration/withdraw of the course.
-For more information, please consult the Frequently Asked Questions at the bottom of the page.
-FAQ
+
+
+<FAQ>
 What is the language of instruction of the course?
 The course is taught in English. Nowadays, being comfortable with the English language is a competitive advantage, which makes a difference in the global job market.
 NOVA IMS students have all the support to quickly adapt to the language and can always speak in Portuguese when they are unable to express themselves.
 Where is NOVA IMS located?
-NOVA IMS is located on the Campolide Campus, in Lisbon. Watch the campus tour made by NOVA IMS Students
-here
-.
+NOVA IMS is located on the Campolide Campus, in Lisbon. 
 What is the schedule?
 The Bachelor´s Degree will work on daytime , 5 days a week.
 Where can I see an overview of undergraduate programs?
-You can watch it
-here
-and for more information click
-here
-.
+
 What is the cost of the tuition and enrollment fee for the students of the National Contest?
 The value of the Annual Fee for
 2024/2025 is €697
@@ -320,65 +272,9 @@ installment of tuition fee;
 €35 - for annual enrollment fee;
 €1,40 - for annual school insurance.
 The enrolment fees are updated annually in the Universidade NOVA de Lisboa table of emoluments, published in the Official  Portuguese Government Gazette
-(Diário da República)
-.
-What is the cost of the tuition and enrollment fee for the students of the International Student Contest?
-The annual fee set for the academic year
-2024/25
-, for the
-students of the International Student Contest,
-is €7500.
-This payment can be as following:
-Full payment (€7500), unit October 1
-st
-, 2024, or in 5 installments:
-1
-st
-installment: September 1
-st
-to 8
-th
-, 2024: €1500;
-2
-nd
-installment: November 1
-st
-to 8
-th
-, 2024: €1500;
-3
-rd
-installment: January 1
-st
-to 8
-th
-, 2025: €1500;
-4
-th
-installment: March 1
-st
-to 8
-th
-, 2025: €1500;
-5
-th
-installment: May 1
-st
-to 8
-th
-, 2025: €1500.
-What is the timetable and exams calendar?
-Academic Calendar
-See here the 1
-st
-Year for academic year 2022-2023;
-See here the 2
-nd
-& 3
-rd
-Years for academic year 2022-2023.
-Exams Calendar
-See the Spring Semester for academic year 2021-2022.
+(Diário da República).
+
+
 Are there special access quotas?
 There are several special quotas, beyond to the general quota, to which certain percentages of vacancies are allocated, intended for candidates who meet the conditions of each quota. These are:
 Candidates from the Autonomous Region of the Açores;

@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree in Data-Driven Marketing, with a specialization in Digital Marketing and Analytics - Working Hours Format
 The Master's Degree Program in Data-Driven Marketing, with a specialization in Digital Marketing and Analytics, is aimed at marketing professionals who want to
 obtain skills in Digital Marketing and Web Analytics
@@ -47,23 +48,20 @@ best in
 Western Europe
 by Eduniversal.
 Learn more here
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Understand Digital Marketing and its characteristics;
 Understand the operating principles of Digital Marketing and Internet Social Media, as well the methodologies for its use in creating value for business;
 Understand and be able to apply analytical Social Media techniques;
 Understand the principles and metrics of Web Analytics;
 Master the techniques of Search Engine Marketing, including AdWords campaign management and the development of Search Engine Optimization (SEO) strategy.
-
----
-
 Program Coordinator
 Paulo Rita
 Full Professor
 prita@novaims.unl.pt
 
 
-Admissions and Fees
+<Admissions and Fees>
 Application fee
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Tuition Fee

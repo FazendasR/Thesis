@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Financial and Budgetary Management and Control
 Developed in partnership with the
 Inspectorate General of Finance – Portuguese Audit Authority (IGF),
@@ -28,13 +29,11 @@ September
 Who is it for?
 The Postgraduate Program in Financial and Budgetary Management and Control is aimed at staff and professionals in the financial and budgetary management area wishing to deepen their competences in the functional areas of management, auditing, financial reporting and control, including the analysis and requirements of accounting and internal control systems, as well as the development of procedures to enable appropriate management control.
 
----
-
 NOVA IMS' Program Coordinator
 Pedro Simões Coelho
 Full Professor
 psc@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

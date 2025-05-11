@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program Enterprise Data Science & Analytics
 Developed in partnership with Microsoft, the Postgraduate Program in Enterprise Data Science & Analytics will present the methodologies and tools that will transform data into information, on which enterprises can base strategic information on entering new markets, launching new product or service lines, optimizing processes, transforming business models and, generally, competing in a market increasingly driven by data-driven decisions. This program aims to qualify professionals in the use of big data and machine learning methodologies and tools.
 The applications for this program are open between March 10
@@ -28,7 +29,7 @@ World
 by Eduniversal, an international agency that publishes the annual ranking of the best MBA and Master programs in the world.
 Who is it for?
 This program is aimed at professionals interested in deepening their knowledge in data science and advanced analytics, as well as in the creation of predictive models and their practical application in enterprise environments. It aims to tackle the shortage of highly qualified professionals in this field, with one of the highest growths in the current market of information systems.
-Goals
+<Goals>
 The main goal of this program is to train technical staff to use Big Data and Machine Learning tools and methodologies in the:
 Exploration and transformation of data;
 Creation of data models and data visualization;
@@ -37,8 +38,6 @@ Application of data science methodologies;
 Implementation and validation of Machine Learning models;
 Application of data science techniques to common scenarios in enterprise environments.
 
----
-
 Program Coordinator
 Roberto Henriques
 Associate Professor
@@ -46,7 +45,7 @@ roberto@novaims.unl.pt
 Henrique Carreiro
 Invited Assistant Professor
 hcarreiro@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 2
 nd

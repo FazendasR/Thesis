@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree Program in Data Science and Advanced Analytics, with a specialization in Data Science
 The Master Degree Program in Data Science and Advanced Analytics, with a specialization in Data Science, is aimed at technically oriented people with solid scientific background, who want to
 strengthen and deepen their skills on the most used paradigms and environments for software development
@@ -43,7 +44,7 @@ Attendance
 2 to 3 times a week
 Start Date
 September 2025
-Goals
+<Goals>
 This program will provide a set of interdisciplinary skills and tools such as:
 Understanding of the main paradigms associated with large databases and data warehouses;
 Understanding the processes of decision making;
@@ -52,13 +53,11 @@ Mastering the processes of creation and maintenance of descriptive and predictiv
 Mastering the most used paradigms and environments of software development;
 Mastering the concept of problem-solving.
 
----
-
 Program Coordinator
 Roberto Henriques
 Associate Professor
 roberto@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 Application fee
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Tuition fee

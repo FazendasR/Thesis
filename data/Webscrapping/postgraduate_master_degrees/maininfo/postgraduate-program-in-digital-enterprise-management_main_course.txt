@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Digital Enterprise Management
 Organizations seeking leadership in competitive markets, where digital technologies play a strategic role, need managers and professionals with the skills to manage transformation projects in a holistic and strategic way, beyond mere technological modernization. The postgraduate program in Digital Enterprise Management equips managers and professionals to
 master disruptive technologies such as artificial intelligence, machine learning, big data & analytics, the internet of things, 3D printing, and cloud computing
@@ -35,12 +36,12 @@ st
 and 2
 nd
 level managers of medium-sized and big enterprises, systems integrators and consulting companies, and IT and IS professionals.
-Goals
+<Goals>
 Prepare managers to be in charge of the "digital transformation" in their organizations, and become the change drivers in processes, organization and human resources;
 Help in the selection and prioritization of the adequate technological solutions and distribution models to accelerate the profitability and productivity in the organizations;
 Offer the students clear access to state of the art of reference suppliers of technologies and distribution models that leverage the "digital transformation";
 Provide access to digital transformation methodologies, including IDC Digital Transformation MaturityScape, for an assessment of their organizations.
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 2
 nd

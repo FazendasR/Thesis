@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree in Information Management, with a specialization in Information Systems Management 
 The Master Degree Program in Information Management, with a specialization in Information Systems Management,
 is aimed at professionals who have roles in Information Systems
@@ -34,21 +35,18 @@ Western Europe
 in Information Systems Management
 according to the Best Masters Ranking 2024 of Eduniversal
 Know more here
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Develop strategies, methods, and tools for knowledge and information systems management;
 Analyze the contexts of organizations and their significance in establishing innovative methods based on the most recent technological advances;
 Master the processes and tools used for the storage, organization, and access to information in organizations;
 Improve organizational efficiency through the creation and design of business processes;
 Create and develop information systems and technologies that meet organizations' information needs.
-
----
-
 Program Coordinator
 Jorge Miguel Bravo
 Associate Professor
 jbravo@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

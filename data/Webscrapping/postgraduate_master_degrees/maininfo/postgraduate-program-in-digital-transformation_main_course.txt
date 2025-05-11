@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Digital Transformation
 The
 Postgraduate Program in Digital Transformation
@@ -24,18 +25,16 @@ Who is it for?
 Digital transformation is an ongoing process that involves using technology to fundamentally change the way organizations operate and deliver value to customers. This Program is designed for individuals who want to gain a comprehensive understanding of digital transformation and its impact on various industries. Whether you're a recent graduate in the fields of engineering, management, or technology or an experienced professional looking to expand your knowledge, this specialization will provide you with the skills and insights you need to help organizations navigate the challenges and opportunities of digital transformation.
 Through a combination of hands-on projects, expert lectures, and interactive discussions, you'll explore cutting-edge technologies and processes that are driving digital transformation and learn how to assess their potential impact on your organization.
 By the end of the program, you'll have a deep understanding of how digital transformation is shaping the future of work and be well-equipped to play a leading role in your organization's journey towards a more digital future.
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Train technicians and managers capable of formulating and evaluating digital transformation processes in organizations;
 Present solutions aimed at increasing productivity and efficiency in organizations, with efficient and secure data management.
-
----
 
 NOVA IMS' Program Coordinator
 Fernando Bação
 Full Professor
 bacao@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

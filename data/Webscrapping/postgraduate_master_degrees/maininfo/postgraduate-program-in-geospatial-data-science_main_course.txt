@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Geospatial Data Science
 The Postgraduate Program in Geospatial Data Science
 provides the necessary skills for the analysis, modeling, and visualization of geographic information
@@ -33,7 +34,7 @@ September 2025
 Who is it for?
 The Postgraduate Program in Geospatial Data Science aims to train managers and staff able to analyze, modeling, and visualize geographic information in environments with large amounts of data.
 This Program is taught in Portuguese and aims at everyone from Portuguese-speaking African countries but also Portugal, Brazil, Timor, and Portuguese communities all over the world, who is interested in continuing their studies by getting a Postgraduate diploma and/or a master's degree in a Portuguese university.
-Goals
+<Goals>
 This program provides the knowledge and skills needed to:
 Understand and contribute to the great technical and social challenges created by computing environments rich in geospatial data including its architecture, integrity and management;
 Understand how geospatial data can be acquired and used to support various analysis, modeling, and geovisualization processes in large data environments;
@@ -42,8 +43,8 @@ Program Coordinator
 Marco Painho
 Full Professor
 painho@novaims.unl.pt
-Know more
-Admissions and fees
+
+<Admissions and fees>
 NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the required attributes.
 3
 rd

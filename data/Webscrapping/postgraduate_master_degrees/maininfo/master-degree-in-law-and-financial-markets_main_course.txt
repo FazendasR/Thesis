@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree in Law and Financial Markets
 Consistently
 ranked by Eduniversal among the top master's courses in Western Europe
@@ -33,7 +34,7 @@ Western Europe
 in
 International Business Law by Eduniversal, an international agency that publishes the annual ranking of the best MBA and Master programs in the world.
 Learn more here
-Who is it for?
+<Who is it for?>
 The Master's Degree Program in Law and Financial Markets is presented as a tool to deepen the knowledge of those who already hold a law degree. Therefore, holders of a bachelor's degree (or equivalent) in Law will be given preference in admission.
 This program aims to provide Law graduates a comprehensive and specialized training that enables them to enter into legal research, to embrace a legal profession in banking, insurance or capital markets, or practicing Law at a renowned law firm.
 Goals
@@ -44,9 +45,7 @@ Provide analysis and evaluation skills of the main financial instruments traded 
 Identify intervention strategies in capital markets (risk hedging, arbitrage, speculation) using financial instruments;
 Stimulate a critical and interdisciplinary approach of knowledge, providing the lawyer with the necessary tools to solve complex problems or issue judgments on situations of incomplete information.
 
----
-
-Admissions and fees
+<Admissions and fees>
 Tuition fees
 The tuition fee of this master degree program, for international students (from European Union),is €6.200, of which €4.200 corresponds to the curricular component of the program (1
 st

@@ -1,3 +1,4 @@
+<Introduction>
 Master Degree in Geographic Information Systems and Science, with a specialization in Geographic Information Systems and Science
 The specialization in Geographic Information Systems and Science provides a
 technical and scientific framework related to the use of geographic information technology and analysis
@@ -50,20 +51,17 @@ The main goal of the
 specialization
 in
 Geographic Information Systems and Science is to train managers and technical staff able to lead and conduct the design and development of GIS, adapted to the needs of the organizations and public and private institutions. This program is taught in Portuguese and aims at everyone from Portuguese-speaking African countries but also Portugal, Brazil, Timor, and Portuguese communities all over the world, who is interested in continuing their studies by getting a Postgraduate diploma and/or a master’s degree in a Portuguese University.
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Develop appropriate strategies, methodologies, and tools of geographic information management, for the analysis of questions raised when using this type of information;
 Model, monitor, and simulate geographic, demographic, and environmental phenomena in diverse analysis contexts;
 Use exploration and analysis methodologies and tools, to reduce the levels of uncertainty related to the resolution of problems of a geographical nature;
 Design and develop information systems and technologies that meet the needs of geographic information within an organizational context.
-
----
-
 Program Coordinator
 Marco Painho
 Full Professor
 painho@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the required attributes.
 3
 rd

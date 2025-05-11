@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Information Systems Management
 The Postgraduate Program in Information Systems Management explores the various technologies in IT and their impact on planning, design, functionality, and information systems management. It also focuses on understanding the interaction between technology and business processes, strategy, and organizational policies. This program promotes strategic thinking in the role of information systems in developing management strategies and information sharing that can increase the competitiveness of organizations
 The Postgraduate Program in Information Systems Management is aimed at those
@@ -33,7 +34,7 @@ Western Europe
 by Eduniversal.
 Who is it for?
 The Postgraduate Program in Information Systems Management is aimed at those who have roles in Information Systems (IS), namely managers and experts in the coordination and development of IS projects, IT auditing, quality control and strategic management of IS.
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Develop strategies, methods, and tools for knowledge and information systems management;
 Analyze the contexts of organizations and their significance in establishing innovative methods based on the most recent technological advances;
@@ -45,7 +46,7 @@ NOVA IMS' Program Coordinator
 Fernando Bação
 Full Professor
 bacao@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Financial Markets and Risks
 Resulting from a partnership between
 NOVA Information Management School and ISCTE Executive Education
@@ -34,7 +35,7 @@ Attendance
 2 to 3 times a week
 Start Date
 September 2025
-Who is it for?
+<Who is it for?>
 This program is aimed at:
 Asset and/or Risk managers in Banks and Insurance Companies;
 Managers of Investment Funds, Pension Funds or Heritage Managers;
@@ -59,7 +60,7 @@ Jorge Miguel Bravo
 Associate Professor
 jbravo@novaims.unl.pt
 
-Admissions and Fees
+<Admissions and Fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 
 4th  Applications Phase

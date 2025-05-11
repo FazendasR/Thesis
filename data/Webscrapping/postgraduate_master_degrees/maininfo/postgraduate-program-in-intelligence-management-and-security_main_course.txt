@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Intelligence Management and Security
 The Postgraduate Program in Intelligent Management and Security develops skills to objectively and knowledgeably understand and address the challenges faced by various institutions within the current framework of security, defense, international cooperation, and information culture in the global world. The program provides analytical competencies of various types and presents methodologies to assess, manage, and make decisions in complex international security and defense contexts. These contexts require an understanding of the political, diplomatic, economic, social, and regional frameworks, particularly those arising from risks and new challenges posed by cybersecurity, counterintelligence, Artificial Intelligence, foresight, and scenario planning.
 Applications for this program are open between March 10
@@ -19,7 +20,7 @@ February 2026
 Who is it for?
 This postgraduate program is aimed at students, graduates, or professionals from any scientific field who wish to acquire skills related to security studies and strategic studies, update their knowledge, or explore new perspectives on the dynamics of the current world and its evolving trends, considering current theories and emerging security themes.
 Among the potential target audience for this postgraduate program are individuals with responsibilities in the fields of information and security, particularly in information management. Specifically, members of security forces and services, military personnel, public or private sector managers in information management, decision-making support, and competitive intelligence, as well as professionals from private companies, NGOs, and various sectors of public administration.
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Understand the various stages of the information production cycle;
 Comprehend and critically analyze the risks, threats, and opportunities arising from today's BANI world (Brittle, Anxious, Nonlinear, and Incomprehensible);
@@ -27,7 +28,7 @@ Demonstrate knowledge of intelligence and information gathering, and techniques 
 Communicate complex issues, clearly and effectively;
 Develop key skills to support decision-making, enhanced by the use of Competitive Intelligence and Business processes;
 Understand the role of strategic intelligence and the additional challenges posed by cybersecurity, counterintelligence, and Artificial Intelligence, with a focus on foresight.
-Admissions and fees
+<Admissions and fees>
 2
 nd
 applications phase

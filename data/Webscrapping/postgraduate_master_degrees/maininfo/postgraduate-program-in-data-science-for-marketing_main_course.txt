@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Data Science for Marketing
 The Postgraduate program in Data Science for Marketing aims to fill a gap in the postgraduate training of marketing professionals who need to gain new skills to be able to
 actively participate in the development and application of analytical marketing models.
@@ -28,7 +29,7 @@ Start Date
 September 2025
 Who is it for?
 This postgraduate program is aimed at managers, technical staff and other professionals who wish to acquire analytical skills in the field of marketing, using the most advanced technologies and methodologies for collecting, analyzing and processing data in the scope of data science, in order to allow making data-driven based decisions.
-Goals
+<Goals>
 The main goal of this program is to train marketing professionals to be capable of:
 Bridging the gap between marketing and data science, being empowered with the ability to think critically about data, and deriving conclusions from incomplete information;
 Knowing how to support marketing decision-making through a practical understanding of the fundamental methods used by data scientists;
@@ -38,13 +39,11 @@ Understanding the power of Big Data and learning how to achieve business solutio
 Interpreting and communicating data and results using a wide range of real-world marketing examples;
 Always being ready to face the challenges of the modern and fast-changing business world.
 
----
-
 Program Coordinator
 Paulo Rita
 Full Professor
 prita@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

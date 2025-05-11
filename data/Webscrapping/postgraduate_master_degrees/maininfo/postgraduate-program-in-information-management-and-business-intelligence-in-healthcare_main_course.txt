@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Information Management and Business Intelligence in Healthcare
 The Postgraduate Program in Information Management and Business Intelligence in Healthcare aims to train managers and healthcare professionals who wish to use information and knowledge management to promote the competitiveness of healthcare organizations. The program covers a wide range of topics, from health policy and strategy to information systems and data science to prepare future leaders in a dynamic and complex industry. The main focus is to provide practical skills and tools that support innovation, processes improvement, and better decision making based on analytical and BI tools.
 This Postgraduate Program is ranked as
@@ -43,14 +44,14 @@ Know more here
 Who is it for?
 The Postgraduate Program is for anyone who has a relevant bachelor’s degree and who wishes to acquire skills in information management, knowledge management and Business Intelligence in healthcare.
 This Postgraduate Program is also aimed at healthcare professionals who are responsible for the services management as well as managers and leaders in healthcare who need to develop studies and projects in Business Intelligence.
-Goals
+<Goals>
 Meet the challenges of the new healthcare market using the instruments of planning and management control in healthcare organizations;
 Know and manage the processes of innovation and change, as well as customer relationships in the new healthcare market;
 Introduce the principles of Information and Knowledge Management to promote the competitiveness of organizations working in the health sector;
 Understand the process of Business Intelligence and manage the infrastructure components of BI - people, processes, and technologies;
 Use analytical applications monitoring the performance of organizations, and identify key indicators of the analytical applications in healthcare.
 
-Admissions and fees
+<Admissions and fees>
 2
 nd
 Application Phase

@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Marketing Research and CRM
 The Postgraduate Program in Marketing Research and CRM fills a gap in the high-level training of managers, technical staff, and other marketing professionals, highlighting technical staff and market researchers, as well as professionals involved in customer relationship management.
 Its main goal is to provide excellent and balanced training, with a conceptual component and marketing methodology with quantitative aptitude, as well as practical training that draws on case studies and project development.
@@ -21,7 +22,7 @@ Start Date
 September 2025
 Who is it for?
 The Postgraduate Program in Marketing Research and CRM is for managers, technical staff and other marketing professionals, who wish to obtain and deepen their skills in Marketing Research and CRM, using the most advanced methods of collection, analysis and treatment of information. This program is particularly designed for technical staff and market researchers, as well for professionals who are involved in Customer Relationship Management in Banking and Insurance, Telecommunications, FMCG (fast-moving consumer goods), among others.
-Goals
+<Goals>
 The goal of this program is to train technical staff and managers to:
 Plan, create, and conduct market studies or any other market research;
 Select and apply marketing data collection methods;
@@ -33,7 +34,7 @@ Program Coordinator
 Paulo Rita
 Full Professor
 prita@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd

@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Business Intelligence and Analytics for Hospitality & Tourism
 The
 Postgraduate Program in Business Intelligence and Analytics for Hospitality & Tourism
@@ -35,7 +36,7 @@ Attendance
 a week
 Start Date
 February 2026
-Who is it for?
+<Who is it for?>
 This Postgraduate Program is aimed at senior managers, public and private technicians, consultants, entrepreneurs, and other professionals who wish to acquire analytical skills in data science in the field of tourism, using the most advanced information management technologies, data collection and analysis methodologies.
 Goals
 The goal of this program is to train technical staff and managers to:
@@ -44,9 +45,7 @@ Deepen analytical and problem-solving skills within a highly dynamic and competi
 Update management and marketing knowledge in the context of digital transformation in a big data era that poses constant challenges to tourism organizations and companies;
 Develop hospitality and tourism analytics projects integrating concepts and tools worked throughout the program.
 
----
-
-Admissions and fees
+<Admissions and fees>
 Last applications phase
 Until February 16
 th

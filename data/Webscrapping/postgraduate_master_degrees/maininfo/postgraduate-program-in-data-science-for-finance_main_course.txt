@@ -1,3 +1,4 @@
+<Introduction>
 Postgraduate Program in Data Science for Finance
 The Postgraduate Diploma in Data Science for Finance is an internationally innovative training program that offers
 a quantitative and analytical approach to finance
@@ -30,7 +31,7 @@ September 2025
 Who is it for?
 This program is geared towards technically minded graduates wanting a deeper, more analytical study of finance, risk management and financial engineering that is found in general finance programs. Candidates with a first or upper second Class honors degree (or international equivalent) from a recognized university in a highly quantitative subject such as economics, mathematics, statistics, engineering, computation, science, or management pursuing a successful career in finance are the main target of this program. Work experience is not essential, but you are strongly recommended to undertake relevant internships and to share your expertise in class.
 Graduates are typically employed in investment banking, asset management, hedge funds and investment advisory, risk management, sales and trading, hedge funds, financial engineering, financial technology, and consulting/advisory.
-Goals
+<Goals>
 This Postgraduate program has as specific objectives the training of professionals in the financial sector:
 Developing Data-Driven pricing & risk management models of both plain vanilla and exotic financial securities that compete with traditional model-based approaches;
 The development of Data-Driven models that explain the dynamics of financial asset prices;
@@ -39,13 +40,11 @@ Understanding the potential transformations in the financial industry resulting 
 The acquisition and development of skills in the most popular programming languages in the financial industry (R, Python);
 The development of Predictive Analysis and Trading models, Sentiment Analysis, Financial Fraud Detection techniques, Credit Rating models, Insurance pricing models, Customer Segmentation methods.
 
----
-
 Program Coordinator
 Jorge Miguel Bravo
 Associate Professor
 jbravo@novaims.unl.pt
-Admissions and fees
+<Admissions and fees>
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
 rd
