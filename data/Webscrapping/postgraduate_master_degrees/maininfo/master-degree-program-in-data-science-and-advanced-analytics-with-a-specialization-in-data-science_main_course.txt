@@ -1,9 +1,3 @@
-Master's Degree in Data Science and Advanced Analytics,
-with a specialization in Data Science
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
 Master Degree Program in Data Science and Advanced Analytics, with a specialization in Data Science
 The Master Degree Program in Data Science and Advanced Analytics, with a specialization in Data Science, is aimed at technically oriented people with solid scientific background, who want to
 strengthen and deepen their skills on the most used paradigms and environments for software development
@@ -31,33 +25,16 @@ time in a row, as the
 best Master program in Data Analytics in the
 Western Europe
 by Eduniversal.
-Know more here
 Partnerships
 Tranquilidade
 Future Healthcare
 BI4ALL
 Mind Over Data
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Internships Agreements
 Tranquilidade
 Accenture
 Feedzai
 Ageas
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Format
 Working Hours
 Length and ECTS
@@ -81,19 +58,6 @@ Program Coordinator
 Roberto Henriques
 Associate Professor
 roberto@novaims.unl.pt
-Know more
-Length, timetable and exams
-Length
-The program lasts 4 semesters. The classes will start in September 2025, ending in June 2026, and run during working hours, 2 to 3 times a week.
-Timetable
-See the timetable
-here
-for the academic year 2024/2025.
-The schedule for the 2025-26 academic year will be published in March 2025.
-Exams
-See the exams calendar
-here
-for the academic year 2024-2025.
 Admissions and fees
 Application fee
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.

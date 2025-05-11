@@ -1,9 +1,4 @@
 European Master of Science in Information Systems Management
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
-European Master of Science in Information Systems Management
 The European Master of Science in Information Systems Management aims at graduates who are willing to
 acquire additional information systems management skills
 to be applied in their professional field and intend to have a master's double degree diploma from two universities:
@@ -21,19 +16,9 @@ th
 and April 10
 th
 , 2025
-. To apply, click
-here
-.
+. 
 Partner Entity
 Faculty of Economics - University of Ljubljana
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Format
 After Working Hours
 Length and ECTS
@@ -57,21 +42,7 @@ NOVA IMS' Program Coordinator
 Fernando Bação
 Full Professor
 bacao@novaims.unl.pt
-Know more
-Length and timetable
-Lenght
-The program lasts four semesters (120 ECTS). The classes of 1
-st
-and 2
-nd
-semesters of the program will start in September 2025, ending in June 2026, running after working hours (after 6.30 p.m.), 2 to 3 times a week.
-Timetable
-See the timetable for the Mandatory Course Units
-here
-and the Elective Course Units
-here
-for the academic year 2024-2025.
-The schedule for the 2025-26 academic year will be published in March 2025.
+
 Admissions and fees
 The Admissions' Jury Panel of NOVA IMS and SEB LU is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3
@@ -151,7 +122,3 @@ Semester)
 €2.000,00
 Total
 €8.000,00
-Course Unit
-Loading...
-modal item
-card item

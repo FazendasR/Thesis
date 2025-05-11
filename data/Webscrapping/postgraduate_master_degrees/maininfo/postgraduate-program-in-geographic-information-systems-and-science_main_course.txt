@@ -1,9 +1,4 @@
 Postgraduate Program in Geographic Information Systems and Science
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
-Postgraduate Program in Geographic Information Systems and Science
 The Postgraduate Program in Geographic Information Systems and Science provides a
 technical and scientific framework related to the use of geographic information technology and analysis
 , especially skills related to the modeling and analysis of spatial data, and the design and planning of geographic information technology and analysis in organizations.
@@ -23,10 +18,7 @@ The applications for this program are open between March 10
 th
 and April 10
 th
-, 2025
-. To apply, click
-here
-.
+, 2025.
 Format
 E-Learning and B-Learning
 Length and ECTS
@@ -38,24 +30,8 @@ Start Date
 September 2025
 Accredited by
 United States Geospatial Intelligence Foundation
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Partner Entity
 UNIGIS
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Who is it for?
 The main goal of the Postgraduate Program in Geographical Science and Information Systems is to train managers and technical staff able to lead and conduct the design and development of GIS, adapted to the needs of the organizations and public and private institutions.
 This Program is taught in Portuguese and aims at everyone from Portuguese-speaking African countries but also Portugal, Brazil, Timor, and Portuguese communities all over the world, who is interested in continuing their studies by getting a Postgraduate diploma and/or a master's degree in a Portuguese university.
@@ -65,8 +41,6 @@ Develop appropriate strategies, methodologies, and tools of geographic informati
 Model, monitor, and simulate geographic, demographic, and environmental phenomena in diverse analysis contexts;
 Use exploration and analysis methodologies and tools, to reduce the levels of uncertainty related to the resolution of problems of a geographical nature;
 Design and develop information systems and technologies that meet the needs of geographic information within an organizational context.
-
----
 
 Program Coordinator
 Marco Painho

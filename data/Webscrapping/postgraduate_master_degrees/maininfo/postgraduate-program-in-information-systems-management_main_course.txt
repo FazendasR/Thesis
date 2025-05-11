@@ -1,9 +1,4 @@
 Postgraduate Program in Information Systems Management
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
-Postgraduate Program in Information Systems Management
 The Postgraduate Program in Information Systems Management explores the various technologies in IT and their impact on planning, design, functionality, and information systems management. It also focuses on understanding the interaction between technology and business processes, strategy, and organizational policies. This program promotes strategic thinking in the role of information systems in developing management strategies and information sharing that can increase the competitiveness of organizations
 The Postgraduate Program in Information Systems Management is aimed at those
 who have roles in Information Systems
@@ -19,10 +14,7 @@ The applications for this program are open between March 10
 th
 and April 10
 th
-, 2025
-. To apply, click
-here
-.
+, 2025.
 Format
 After working hours
 Length and ECTS
@@ -39,7 +31,6 @@ Portugal
 and in
 Western Europe
 by Eduniversal.
-Know more here
 Who is it for?
 The Postgraduate Program in Information Systems Management is aimed at those who have roles in Information Systems (IS), namely managers and experts in the coordination and development of IS projects, IT auditing, quality control and strategic management of IS.
 Goals
@@ -50,27 +41,10 @@ Master the processes and tools used for the storage, organization, and access to
 Improve organizational efficiency through the creation and design of business processes;
 Create and develop information systems and technologies that meet organizations' information needs.
 
----
-
 NOVA IMS' Program Coordinator
 Fernando Bação
 Full Professor
 bacao@novaims.unl.pt
-Know more
-Length, timetable and exams
-Length
-The program lasts 2 semesters. The classes will start in September 2025, ending in June 2026, and run after working hours (after 6:30 p.m.), 2 to 3 times a week.
-Timetable
-See the timetable for the Mandatory Course Units
-here
-and the Elective Course Units
-here
-for the academic year 2024-25.
-The schedule for the 2025-26 academic year will be published in March 2025.
-Exams
-See the exams calendar
-here
-for the academic year 2024-2025.
 Admissions and fees
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3

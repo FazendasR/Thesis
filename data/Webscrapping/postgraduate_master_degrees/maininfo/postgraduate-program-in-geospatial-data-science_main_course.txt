@@ -1,9 +1,4 @@
 Postgraduate Program in Geospatial Data Science
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
-Postgraduate Program in Geospatial Data Science
 The Postgraduate Program in Geospatial Data Science
 provides the necessary skills for the analysis, modeling, and visualization of geographic information
 , and aims to train professionals for the role of artificial intelligence, programming, and data mining in the development of solutions to challenges and societal problems in the public and private sectors.
@@ -21,30 +16,11 @@ The applications for this program are open between March 10
 th
 and April 10
 th
-, 2025
-. To apply, click
-here
-.
+, 2025.
 Accredited by
 United States Geospatial Intelligence Foundation
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Partner Entity
 UNIGIS
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Format
 E-Learning and B-Learning
 Length and ECTS
@@ -62,9 +38,6 @@ This program provides the knowledge and skills needed to:
 Understand and contribute to the great technical and social challenges created by computing environments rich in geospatial data including its architecture, integrity and management;
 Understand how geospatial data can be acquired and used to support various analysis, modeling, and geovisualization processes in large data environments;
 Understand how artificial intelligence, programming and data mining can be used to intelligently enhance the typical concepts and flows of geographic information science and thus provide institution-centric solutions to a wide variety of challenges and societal problems across public and private sectors.
-
----
-
 Program Coordinator
 Marco Painho
 Full Professor

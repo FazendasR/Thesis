@@ -1,9 +1,4 @@
 Postgraduate Program in Data Science for Marketing
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
-Postgraduate Program in Data Science for Marketing
 The Postgraduate program in Data Science for Marketing aims to fill a gap in the postgraduate training of marketing professionals who need to gain new skills to be able to
 actively participate in the development and application of analytical marketing models.
 With the proposed study plan, this program presents an up-to-date structure that combines several areas of marketing with a transversal approach of data science to leverage them.
@@ -14,27 +9,14 @@ digital marketing, social media, e-commerce, and search engine optimization
 .
 This Postgraduate Program
 gives access to the Master Degree Program in Data-Driven Marketing
-, with a specialization in Data Science for Marketing - for more information about this Master, please click
-here
-.
+, with a specialization in Data Science for Marketing.
 The applications for this program are open between March 10
 th
 and April 10
 th
-, 2025
-. To apply, click
-here
-.
+, 2025.
 Support and Funding
 https://recuperarportugal.gov.pt/
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Format
 After working hours
 Length and ECTS
@@ -62,21 +44,6 @@ Program Coordinator
 Paulo Rita
 Full Professor
 prita@novaims.unl.pt
-Know more
-Length, timetable and exams
-Length
-The program lasts 2 semesters. The classes will start in September 2025, ending in June 2026, and run after working hours (after 6:30 p.m.), 2 to 3 times a week.
-Timetable
-See the timetable for the Mandatory Course Units
-here
-and the Elective Course Units
-here
-for the academic year 2024-25.
-The schedule for the 2025-26 academic year will be published in March 2025.
-Exams
-See the exams calendar
-here
-for the academic year 2024-2025.
 Admissions and fees
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3

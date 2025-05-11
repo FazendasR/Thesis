@@ -1,9 +1,3 @@
-Postgraduate Program in Information Management
-and Business Intelligence in Healthcare
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
 Postgraduate Program in Information Management and Business Intelligence in Healthcare
 The Postgraduate Program in Information Management and Business Intelligence in Healthcare aims to train managers and healthcare professionals who wish to use information and knowledge management to promote the competitiveness of healthcare organizations. The program covers a wide range of topics, from health policy and strategy to information systems and data science to prepare future leaders in a dynamic and complex industry. The main focus is to provide practical skills and tools that support innovation, processes improvement, and better decision making based on analytical and BI tools.
 This Postgraduate Program is ranked as
@@ -19,33 +13,14 @@ th
 and April 10
 th
 , 2025.
-To apply, click
-here
-.
 Partners
 Faculdade de Ciências Médicas - NOVA
 National School of Public Health
 Instituto de Higiene e Medicina Tropical - NOVA
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Support
 Administração Central do Sistema de Saúde
 Serviços Partilhados do Ministério da Saúde
 Abbvie
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Format
 After Working Hours
 Length and ECTS
@@ -74,8 +49,6 @@ Know and manage the processes of innovation and change, as well as customer rela
 Introduce the principles of Information and Knowledge Management to promote the competitiveness of organizations working in the health sector;
 Understand the process of Business Intelligence and manage the infrastructure components of BI - people, processes, and technologies;
 Use analytical applications monitoring the performance of organizations, and identify key indicators of the analytical applications in healthcare.
-
----
 
 Admissions and fees
 2

@@ -12,3 +12,4 @@ POSTGRAD_AND_MASTERS_DATA_CLEANED = r"..\..\data\Preprocessing_text\all_programs
 
 DOCUMENTS_CHUNKED = r'..\..\data\Preprocessing_text\all_programs_chunked\docs_all_programs_chunked_without_metadata.pkl'
 DOCUMENTS_CHUNKED_WITH_IDS = r'..\..\data\Preprocessing_text\all_programs_chunked\documents_chunks_with_ids_without_metadata_embedded.pkl'
+DOCUMENTS_CHUNKED_WITH_IDS_AND_METADATA = r'..\..\data\Preprocessing_text\all_programs_chunked\documents_chunks_with_ids_and_metadata_embedded.pkl'

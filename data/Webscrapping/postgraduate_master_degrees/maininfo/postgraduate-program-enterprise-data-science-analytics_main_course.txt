@@ -1,28 +1,12 @@
-Postgraduate Program in Enterprise Data Science & Analytics
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
 Postgraduate Program Enterprise Data Science & Analytics
 Developed in partnership with Microsoft, the Postgraduate Program in Enterprise Data Science & Analytics will present the methodologies and tools that will transform data into information, on which enterprises can base strategic information on entering new markets, launching new product or service lines, optimizing processes, transforming business models and, generally, competing in a market increasingly driven by data-driven decisions. This program aims to qualify professionals in the use of big data and machine learning methodologies and tools.
 The applications for this program are open between March 10
 th
 and April 10
 th
-, 2025
-. To apply, click
-here
-.
+, 2025.
 Partner Entity
 Microsoft
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Format
 After Working Hours
 Length and ECTS
@@ -42,7 +26,6 @@ rd
 best in the
 World
 by Eduniversal, an international agency that publishes the annual ranking of the best MBA and Master programs in the world.
-Know more here
 Who is it for?
 This program is aimed at professionals interested in deepening their knowledge in data science and advanced analytics, as well as in the creation of predictive models and their practical application in enterprise environments. It aims to tackle the shortage of highly qualified professionals in this field, with one of the highest growths in the current market of information systems.
 Goals
@@ -60,18 +43,9 @@ Program Coordinator
 Roberto Henriques
 Associate Professor
 roberto@novaims.unl.pt
-Know more
 Henrique Carreiro
 Invited Assistant Professor
 hcarreiro@novaims.unl.pt
-Know more
-Length and timetable
-Length
-The program lasts 2 semesters. The classes will start in February 2026, ending in December of the same year, and run after working hours (after 6:30 p.m.), 2 to 3 times a week.
-Timetable
-See timetable for the 2024-25 school year
-here
-.
 Admissions and fees
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 2

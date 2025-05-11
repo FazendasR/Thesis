@@ -26,7 +26,9 @@
       },
       {
         "query": "Can you give me the email of professor Bruno Jardim?",
-        "relevant_docs": ["e6d10b9d-bb21-4864-a81b-48efc0d5ebe1", "e22f4ccd-133b-4dba-af33-2c26d856bb9a", "e370d516-315b-4b88-80cc-3fbdda7d0e7f", "fea80b56-5379-4eb4-bd47-f497f8020976", "2035868e-f203-4a61-bab1-81bdf874deac", "62ad74f9-d235-49ef-b19a-3b208dc078ca"]
+        "relevant_docs": ["e6d10b9d-bb21-4864-a81b-48efc0d5ebe1", "e22f4ccd-133b-4dba-af33-2c26d856bb9a", 
+        "e370d516-315b-4b88-80cc-3fbdda7d0e7f", "fea80b56-5379-4eb4-bd47-f497f8020976", 
+        "2035868e-f203-4a61-bab1-81bdf874deac", "62ad74f9-d235-49ef-b19a-3b208dc078ca", "e8b2f1e3-9692-4091-ad66-e215ec3fc33a"]
       },
       {
         "query": "Who is the program coordinator of the Postgraduate Program In Digital Transformation?",
@@ -34,7 +36,10 @@
       },
       {
         "query": "Can you give me the email of professor Ivo Bernardo and Bruno Jardim?",
-        "relevant_docs": ["71d41c7e-db27-4ceb-8897-196c8216bfb6", "d6cb5c54-ccb8-4e92-8358-1793a9566dc4", "00fc1236-6315-4e0e-a9bb-f3ef38024702", "e370d516-315b-4b88-80cc-3fbdda7d0e7f", "fea80b56-5379-4eb4-bd47-f497f8020976"]
+        "relevant_docs": ["71d41c7e-db27-4ceb-8897-196c8216bfb6", "d6cb5c54-ccb8-4e92-8358-1793a9566dc4", "00fc1236-6315-4e0e-a9bb-f3ef38024702", 
+        "e370d516-315b-4b88-80cc-3fbdda7d0e7f", "fea80b56-5379-4eb4-bd47-f497f8020976", "3ad5c583-efa4-4282-aa6d-1842511d9411", 
+        "2035868e-f203-4a61-bab1-81bdf874deac", "00fc1236-6315-4e0e-a9bb-f3ef38024702", "62ad74f9-d235-49ef-b19a-3b208dc078ca",
+      "e8b2f1e3-9692-4091-ad66-e215ec3fc33a", "6d10b9d-bb21-4864-a81b-48efc0d5ebe1"]
       },
       {
         "query": "How is the curriculum for the Postgraduate Program in Business Intelligence?",
@@ -70,11 +75,12 @@
       },
       {
         "query": "Tell me more about the Master Degree in Law and Financial Markets?",
-        "relevant_docs": ["b4a7a86b-4421-4dec-ad3e-cdb45d65e572", "cfbf2fed-1f0f-46d2-b009-0b90315ca27c", "257f5074-cfdb-4db5-ac9b-1b3e480f7af3", "487f4ef8-9923-4a00-8017-4c1eb00662dd"]
+        "relevant_docs": ["b4a7a86b-4421-4dec-ad3e-cdb45d65e572", "cfbf2fed-1f0f-46d2-b009-0b90315ca27c", "257f5074-cfdb-4db5-ac9b-1b3e480f7af3", "487f4ef8-9923-4a00-8017-4c1eb00662dd",
+      "044839f6-fe8a-4bc4-9d50-a0e52100df1c", "40c3d9b1-7f37-4e15-9aed-3e12f63e92ce"]
       },
       {
         "query": "What is the focus of the Postgraduate Program in Financial and Budgetary Management and Control?",
-        "relevant_docs": ["a0ece7ce-4fb0-4500-a3b1-a9d449129761", "0f934f59-8e33-47c5-b7b4-fd53142a8b80", "18288cf4-7c48-484e-89f9-00870c21fa50"]
+        "relevant_docs": ["a0ece7ce-4fb0-4500-a3b1-a9d449129761", "4abc37c0-27af-4f36-9dc5-0fe5d816a09f", "18288cf4-7c48-484e-89f9-00870c21fa50"]
       },
       {
         "query": "Give me the name of the professor responsible for the Financial Accounting class of the Postgraduate Program in Financial and Budgetary Management and Control?",

@@ -1,9 +1,4 @@
 Postgraduate Program in Digital Enterprise Management
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
-Postgraduate Program in Digital Enterprise Management
 Organizations seeking leadership in competitive markets, where digital technologies play a strategic role, need managers and professionals with the skills to manage transformation projects in a holistic and strategic way, beyond mere technological modernization. The postgraduate program in Digital Enterprise Management equips managers and professionals to
 master disruptive technologies such as artificial intelligence, machine learning, big data & analytics, the internet of things, 3D printing, and cloud computing
 , enabling them to envision new business models, optimize existing processes, and strengthen organizational strategy, ensuring a competitive edge.
@@ -15,22 +10,11 @@ The applications for this program are open between March 10
 th
 and April 10
 th
-, 2025
-. To apply, click
-here
-.
+, 2025.
 Partner Entities
 Google
 IDC
 SAP
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Format
 After Working Hours
 Length and ECTS
@@ -45,7 +29,6 @@ EDUNIVERSAL
 Ranked as one of the
 best programs in Western Europe in Innovation and Project Management
 , according to Eduniversal
-Learn more here
 Who is it for?
 The Postgraduate Program in Digital Enterprise Management is aimed at managers and professionals who wish to deepen their project management skills in business transformation, based in new digitalization models and information systems. Among the potential candidates we highlight the 1
 st
@@ -57,70 +40,6 @@ Prepare managers to be in charge of the "digital transformation" in their organi
 Help in the selection and prioritization of the adequate technological solutions and distribution models to accelerate the profitability and productivity in the organizations;
 Offer the students clear access to state of the art of reference suppliers of technologies and distribution models that leverage the "digital transformation";
 Provide access to digital transformation methodologies, including IDC Digital Transformation MaturityScape, for an assessment of their organizations.
-Students and Alumni Testimonials
-Paulo Cancela
-Service Practice Leader | Unipartner
-Tânia Pedro
-Business Analyst | Asseco PST
-Joaquim Costa Silva
-Senior Manager on the IT Digital Transformation & Applications team | PwC
-Ana Valente
-Business Analyst | Springer Nature
-Catarina Guedes Simões
-Business Transformation Manager | BOLD by Devoteam
-Ivo Bernardo
-Partner / Senior Data Scientist | DareData Engineering
-João Miguel Salvador
-Coordinating Journalist | Expresso
-Jorge Barroso
-General Director Automotive Solutions | DEKRA Portugal
-Manuel Leandro
-Service Delivery Manager | Milestone @ REN
-Nuno Amaral
-Digital Project Management Officer | Galp Energia
-Rita Gomes da Silva
-Ux Designer, Critical Techworks
-1
-/
-11
-Sorry, your browser doesn't support embedded videos.
-Play video
-Sorry, your browser doesn't support embedded videos.
-Play video
-The choice of a postgraduate degree in Digital Enterprise Management was a natural one, given that I had been managing projects for several years, but I wanted to improve my skills in the great challenge of Digital Transformation. I couldn't have made a better choice. Despite being very demanding, the support of professors and colleagues has made this postgraduate course in Digital Enterprise Management a real training tool. The DEM postgraduate course at NOVA IMS was undoubtedly very important for improving and implementing new models in program and project management, as well as for the development of my career.
-I looked for the Postgraduate Program in Digital Enterprise Management to complement my technical training with management know-how. The group assignnments, in which different case studies from well-known companies are analyzed, allow the creation of a state of alert for the challenges that an organization faces during its digital transformation, which is an asset for those who want to make a difference in a world with an increasingly digital focus.
-Choosing the postgraduate program in Digital Enterprise Management at NOVA IMS was a very conscious decision, certain that the acquisition of new skills and knowledge, so necessary for those who work daily with the topics of Digital Transformation within organizations, would come true. The dynamics and networking present between the faculty, partners and colleagues were crucial for this same achievement.
-Throughout my academic career, NOVA IMS has provided me with the necessary learning to be a better Data Scientist, with its teaching method focused on the most relevant tools in the market and incorporating the most current and basic themes in its curriculum in the creation of good data analysis and statistics professionals. With a practical approach, focused on problem-solving and an academic environment of excellence, with great proximity between teachers and students, NOVA IMS was a school of enormous importance in my development, the right choice for what would be my professional future.
-Choosing the postgraduate program in Digital Enterprise Management of NOVA IMS was the right decision in a context of change within organizations. The digital transformation is a big challenge and this is a great opportunity to reposition the business world and prepare it for tomorrow. Now more than ever: no one expected the future to come so soon and in such a challenging way. The possibility of learning in a practical way and in group, using real business simulations, is an asset in a program like this, created in a prestigious college together with excellent international partners.
-Having been a student at NOVA IMS in a postgraduate and Master degree programs was an excellent decision. There is a highly prepared and demanding faculty that, in addition to their professional experience, together with the work carried out with colleagues, allowed me to obtain a level of deep theoretical and practical knowledge in this new world, increasingly computerized, digital and accelerating transformation with business impact. Another great advantage was the increase in the diversified networking, which is very important today. Without a doubt, it was a great experience with a very positive feedback that will help me to be better prepared for the challenges of the present and the future.
-The postgraduate program in Digital Enterprise Management of NOVA IMS was my choice to meet the cycle of change where I was. The need to update knowledge, acquire new skills found a solution in NOVA IMS’ rigorous and excellent teaching, where the proximity between teachers and students, the strong connection to the business market, and strategic partnerships, are the pillars that supported my decision and were responsible for influencing my evolution. I also gained good friends and contacts for strong personal and professional networking.
-The Postgraduate Program in Digital Enterprise Management at NOVA IMS helps business leaders to answer the challenges of the digital age by providing the tools to “orchestrate” the Why, What and How to deal with a business transformation. Also, the close connection of the professors between academia and the real world of business, the partnerships and the different backgrounds and industries of the colleagues, give us a great opportunity to learn and share knowledge activating our collective brain.
-It was a great experience!
-The need to expand my knowledge base in areas adjacent to mine led me to the postgraduate program in Digital Enterprise Management at NOVA IMS, which caught my attention due to the academic background it presented. The faculty with vast know-how, together with the use of practical case studies, ensured that the program was extremely challenging. Another point that enriched the experience was the heterogeneity of the colleagues' areas which leveraged the sharing of knowledge, also increasing the sphere of networking.
-
----
-
-Length, timetable and exams
-Length
-The program lasts 2 semesters. The classes will start in February 2026, ending in December of the same year, and run after working hours (after 6:30 p.m.), 2 to 3 times a week.
-Timetable
-Fall Semester:
-see the
-timetable for the
-M
-andatory
-Course
-Units
-here
-and
-the Elective Course Units
-here
-for the 2024-25 academic year.
-Exams
-Spring Semester:
-See the exams calendar
-here
-for the academic year 2024-2025.
 Admissions and fees
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 2

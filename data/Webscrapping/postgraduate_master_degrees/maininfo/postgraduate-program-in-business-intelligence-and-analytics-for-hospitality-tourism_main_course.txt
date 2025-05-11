@@ -1,9 +1,3 @@
-Postgraduate Program in Business Intelligence and
-Analytics for Hospitality & Tourism
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
 Postgraduate Program in Business Intelligence and Analytics for Hospitality & Tourism
 The
 Postgraduate Program in Business Intelligence and Analytics for Hospitality & Tourism
@@ -21,10 +15,7 @@ Business Intelligence in Turismo.
 The applications for this program is open until
 February 16
 th
-, 2025
-. To apply, click
-here
-.
+, 2025.
 Partner Entities
 Confederação do Turismo de Portugal
 Turismo de Portugal
@@ -32,24 +23,8 @@ CLEVER
 NEST
 Pestana
 Vila Galé
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Support
 https://recuperarportugal.gov.pt/
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Format
 After Working Hours
 Length and ECTS
@@ -71,13 +46,6 @@ Develop hospitality and tourism analytics projects integrating concepts and tool
 
 ---
 
-Length and timetable
-Length
-This Postgraduate Program lasts 2 semesters. The classes will start in February 2025, ending in December 2025, and running after working hours (after 6:30 p.m.), 2 to 3 times a week.
-Timetable
-See
-here
-the timetable for academic year 2024-25.
 Admissions and fees
 Last applications phase
 Until February 16

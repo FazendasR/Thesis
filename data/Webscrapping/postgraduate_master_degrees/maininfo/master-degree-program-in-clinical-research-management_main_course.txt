@@ -1,8 +1,3 @@
-Master's Program in Clinical Research Management
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
 Master Degree Program in Clinical Research Management
 Developed in partnership with NOVA IMS,
 NOVA Medical School (NMS|FCM)
@@ -22,14 +17,6 @@ Partner Entities
 National School of Public Health
 NOVA Medical School
 Universidade de Aveiro
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Format
 Working Hours
 Length and ECTS
@@ -59,8 +46,6 @@ Portuguese Students: €2.750/year;
 International Students: €5.500/year.
 Selection criteria
 The selection process is based on the analysis of academic, scientific and professional curriculum of the candidate. An interview and/or written test may be conducted as a complementary criterion.
-See the notice
-here.
 How to apply
 To complete the application, the applicant must register, fill the form in
 www.nms.unl.pt
@@ -73,4 +58,3 @@ NOVA IMS' Program Coordinator
 Pedro Simões Coelho
 Full Professor
 psc@novaims.unl.pt
-Know more

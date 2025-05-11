@@ -1,9 +1,4 @@
 Postgraduate Program in Data Science for Finance
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
-Postgraduate Program in Data Science for Finance
 The Postgraduate Diploma in Data Science for Finance is an internationally innovative training program that offers
 a quantitative and analytical approach to finance
 , aimed at professionals in the financial sector seeking a more analytical approach to the areas of valuation of financial assets, trading, risk management, financial engineering, predictive models, financial computing, among others. It also provides an understanding of the potential transformations in the financial industry resulting from the adoption of blockchain technology by Fintech & InsurTech. The program prepares senior management for successful careers in the areas of investment banking, asset management, hedge funds and investment advisory, risk management, sales and trading, hedge funds, financial engineering, financial technology, and consulting/advisory.
@@ -23,10 +18,7 @@ The applications for this program are open between March 10
 th
 and April 10
 th
-, 2025
-. To apply, click
-here
-.
+, 2025.
 Format
 After Working Hours
 Length and ECTS
@@ -53,19 +45,6 @@ Program Coordinator
 Jorge Miguel Bravo
 Associate Professor
 jbravo@novaims.unl.pt
-Know more
-Length, timetable and exams
-Length
-This Postgraduate Program lasts 4 trimesters. The classes will start in September 2025, ending in June 2026, running after working hours (after 6:30 p.m.), 2 to 3 times a week.
-Timetable
-See
-here
-the timetable for academic year 2024-25.
-The schedule for the 2025-26 academic year will be published in March 2025.
-Exams
-See the exams calendar
-here
-for the academic year 2024-2025.
 Admissions and fees
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 3

@@ -1,8 +1,3 @@
-Master's of Science in Geospatial Technologies
-en
-Education
-Programs
-Postgraduate Programs and Master Degree Programs
 Master Degree in Geospatial Technologies
 The Master's of Science in Geospatial Technologies (Erasmus Mundus Program) is a cooperation between NOVA IMS, in Portugal, the Institute for Geoinformatics (IFGI) of the University of Münster (WWU), in Germany, and the Universitat Jaume I (UJI), in Spain. It is aimed at graduates who wish to obtain qualifications in fields where geographic information is applied and intend to have a multicultural experience.
 This Master degree Program has been selected by the Erasmus Mundus Program of the European Commission
@@ -13,20 +8,9 @@ th
 and April 10
 th
 , 2025.
-To apply, click
-here
-.
 Partner universities
 Universitat Jaume I
 Institute for Geoinformatics University of Münster
-Loading...
-resumo do conteudo da tabela
-Curricular
-Unit
-Program
-Annual Prize
-Value
-caption text
 Format
 Working Hours
 Length and ECTS
@@ -51,26 +35,6 @@ Program Coordinator
 Marco Painho
 Full Professor
 painho@novaims.unl.pt
-Know more
-Length, timetable and exams
-Length
-The classes (1
-st
-and 2
-nd
-semesters of the program) will start in September 2025, ending in July 2026, 2 to 3 times a week.
-Timetable
-See the timetable for the academic year 2024-2025
-here
-(NOVA IMS).
-The schedule for the 1
-st
-semester of 2025-26 academic year will be published in March 2025.
-Exams
-Fall Semester:
-see the exams calendar
-here
-for the academic year 2024-2025.
 Admissions and fees
 The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
 2
