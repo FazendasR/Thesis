@@ -148,10 +148,10 @@ def create_docs_programs_cleaned_chunked():
         },
         {
             "name": "maininfo",
-            "func": dch.chunk_main_info_documents,
-            "max_tokens": 512,
-            "chunk_overlap": True,
-            "overlap_size": 100,
+            "func": dch.split_main_info_by_markers,
+            "max_tokens": None,
+            #"chunk_overlap": True,
+            #"overlap_size": 100,
             "doc_types": ["main_info"],
         },
     ]
@@ -163,8 +163,8 @@ def create_docs_programs_cleaned_chunked():
             chunks = job["func"](
                 data=data,
                 max_tokens=job["max_tokens"],
-                chunk_overlap=job["chunk_overlap"],
-                overlap_size=job["overlap_size"],
+                #chunk_overlap=job["chunk_overlap"],
+                #overlap_size=job["overlap_size"],
                 course_names_to_include=None,
                 doc_types_to_include=job["doc_types"],
                 include_metadata=True,

@@ -304,3 +304,91 @@ def get_text_splitter(max_tokens: int, chunk_overlap: int) -> RecursiveCharacter
         length_function=len,  # Function to compute the length of each chunk (by character count)
         separators=["\n", "\n\n", ".", "!", "?"]  # Prefer breaking on these separators for better semantic breaks
     )
+
+
+def split_main_info_by_markers(
+    data: Dict[str, Dict],
+    max_tokens: Optional[int] = None,
+    course_names_to_include: Optional[List[str]] = None,
+    doc_types_to_include: Optional[List[str]] = None,
+    include_metadata: bool = True,
+    extra_metadata: Optional[Dict[str, Any]] = None,
+) -> List[Document]:
+    """
+    Splits document texts into LangChain Document objects using <>-style section headers.
+    Section title is included at the top of page_content without angle brackets.
+
+    Args:
+        data (Dict[str, Dict]): A dictionary where each key is a filename, and each value is a dict with:
+            - 'text': the document content as a string
+            - 'metadata': a dict with at least 'course_name' and 'doc_type'
+        course_names_to_include (Optional[List[str]]): List of course names to include.
+        doc_types_to_include (Optional[List[str]]): List of document types to include.
+        include_metadata (bool): Whether to include metadata in the output Documents.
+        extra_metadata (Optional[Dict[str, Any]]): Extra metadata to attach to each Document.
+
+    Returns:
+        List[Document]: LangChain Document objects split by section.
+    """
+    documents = []
+    marker_pattern = r"(<[^<>]+>)"
+
+    for filename, file_data in data.items():
+        text = file_data.get("text", "")
+        metadata = file_data.get("metadata", {})
+
+        # Apply filtering
+        if course_names_to_include and metadata.get("course_name") not in course_names_to_include:
+            continue
+        if doc_types_to_include and metadata.get("doc_type") not in doc_types_to_include:
+            continue
+
+        parts = re.split(marker_pattern, text)
+        markers_found = any(re.fullmatch(marker_pattern, part) for part in parts)
+
+        if markers_found:
+            current_header = None
+            current_content = []
+
+            for part in parts:
+                if re.fullmatch(marker_pattern, part):
+                    if current_header and current_content:
+                        # Remove brackets from header
+                        clean_header = current_header.strip("<>")
+                        section_text = clean_header + '\n' + ''.join(current_content).strip()
+                        doc_metadata = metadata.copy() if include_metadata else {}
+                        doc_metadata["section"] = clean_header
+                        if extra_metadata:
+                            doc_metadata.update(extra_metadata)
+                        documents.append(Document(
+                            page_content=section_text,
+                            metadata=doc_metadata
+                        ))
+                        current_content = []
+                    current_header = part
+                else:
+                    current_content.append(part)
+
+            # Final section
+            if current_header and current_content:
+                clean_header = current_header.strip("<>")
+                section_text = clean_header + '\n' + ''.join(current_content).strip()
+                doc_metadata = metadata.copy() if include_metadata else {}
+                doc_metadata["section"] = clean_header
+                if extra_metadata:
+                    doc_metadata.update(extra_metadata)
+                documents.append(Document(
+                    page_content=section_text,
+                    metadata=doc_metadata
+                ))
+        else:
+            # Fallback: single doc, no markers
+            doc_metadata = metadata.copy() if include_metadata else {}
+            if extra_metadata:
+                doc_metadata.update(extra_metadata)
+            documents.append(Document(
+                page_content=text.strip(),
+                metadata=doc_metadata
+            ))
+
+    return documents

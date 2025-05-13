@@ -138,15 +138,14 @@ This payment can also be paid in full or in 5 instalments.
 The Student (national or international), when registering for a school year, has to take into account that the full payment of the tuition fee fixed for that school year (the monthly fees/benefits are a payment facility), even if they cancel the registration/withdraw of the course.
 
 
-<FAQ>
-What is the language of instruction of the course?
+<What is the language of instruction of the course?>
 The course is taught in English. Nowadays, being comfortable with the English language is a competitive advantage, which makes a difference in the global job market.
 NOVA IMS students have all the support to quickly adapt to the language and can always speak in Portuguese when they are unable to express themselves.
-Where is NOVA IMS located?
+<Where is NOVA IMS located?>
 NOVA IMS is located on the Campolide Campus, in Lisbon.
-What is the schedule?
+<What is the schedule?>
 The Bachelor´s Degree will work on daytime , 5 days a week.
-What is the cost of the tuition and enrollment fee for the students of the National Contest?
+<What is the cost of the tuition and enrollment fee for the students of the National Contest?>
 The value of the Annual Fee for
 2024/2025 is €697
 . The student, enrolling in a school year, has to consider that full payment of the fee fixed for that year (tuition / benefits are ease of payment) is due, although they may unsubscribe / fold the course.
@@ -236,7 +235,7 @@ installment of tuition fee;
 The enrolment fees are updated annually in the Universidade NOVA de Lisboa table of emoluments, published in the Official  Portuguese Government Gazette
 (Diário da República)
 .
-What is the cost of the tuition and enrollment fee for the students of the International Student Contest?
+<What is the cost of the tuition and enrollment fee for the students of the International Student Contest?>
 The annual fee set for the academic year
 2024/25,
 for the
@@ -281,7 +280,7 @@ st
 to 8
 th
 , 2025: €1500.
-Are there special access quotas?
+<Are there special access quotas?>
 There are several special quotas, beyond to the general quota, to which certain percentages of vacancies are allocated, intended for candidates who meet the conditions of each quota. These are:
 Candidates from the Autonomous Region of the Açores;
 Candidates from the Autonomous Region of Madeira;
@@ -292,14 +291,13 @@ I completed secondary education abroad or at a foreign school. Can I apply for t
 Yes, however there are some conditions that are important to know. For more information, you should contact
 Direcção-Geral do Ensino Superior
 .
-What is the application process for the international student?
-Candidates who do not have the nationality of a Member State of the European Union and who have not lived in Portugal for more than two consecutive years can apply for a Bachelor's degree at NOVA IMS under the International Student status. The application process is different from the National Contest for Access to Higher Education. For more information, click
-here
-.
-What is ObipNOVA?
+<What is the application process for the international student?>
+Candidates who do not have the nationality of a Member State of the European Union and who have not lived in Portugal for more than two consecutive years can apply for a Bachelor's degree at NOVA IMS under the International Student status. The application process is different from the National Contest for Access to Higher Education. 
+
+<What is ObipNOVA?>
 ObipNOVA
 is the Observatory of Graduates’ Transitions into Work at NOVA. The ObipNOVA analyses the graduates of all the study cycles: bachelors, masters and doctorates. Every year, a series of phone surveys are conducted to evaluate the professional activity of those who graduated in the previous year. The more recent data is related to 2019 graduated students.
-Regulations and Accreditations
+<Regulations and Accreditations>
 Regulations
 Regulation n.º 820/2021, on September 1
 st
