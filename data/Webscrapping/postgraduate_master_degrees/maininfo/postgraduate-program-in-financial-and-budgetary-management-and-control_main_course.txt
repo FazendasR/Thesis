@@ -1,5 +1,5 @@
 <Introduction>
-Postgraduate Program in Financial and Budgetary Management and Control
+
 Developed in partnership with the
 Inspectorate General of Finance – Portuguese Audit Authority (IGF),
 the postgraduate program in Financial and Budgetary Management and Control aims to empower participants with a set of competencies in the area of management and financial control, which enable the
@@ -65,7 +65,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application fee
+<Application fee>
 The value of the application fee is €51. The application will only be deemed to be submitted after payment of the application fee within the stipulated period. The fee is non-refundable in case of withdrawal or non-admission to the program.
 Registration fees
 After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of a pre-registration fee (around one week after the admission result announcement), deductible in this postgraduate program's tuition fee, non-refundable in case of withdrawal, with the following value:

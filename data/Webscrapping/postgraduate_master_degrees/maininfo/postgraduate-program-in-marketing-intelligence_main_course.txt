@@ -1,5 +1,5 @@
 <Introduction>
-Postgraduate Program in Marketing Intelligence
+
 The Postgraduate Program in Marketing Intelligence aims to train experts and managers able to
 lead and guide the collection, compilation, analysis and dissemination of marketing information
 in organizations. It provides a balanced curriculum with two components: one based on tools and methodologies of marketing management, and the other supported by methodologies and techniques of information analysis and management.
@@ -85,7 +85,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application fee
+<Application fee>
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Registration fee
 After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of a pre-registration fee (around one week after the admission result announcement), deductible in this postgraduate program's tuition fee, non-refundable in case of withdrawal, with the following value:
@@ -134,7 +134,7 @@ th
 to 30
 th
 , 2026 (25% of tuition fee).
-Discounts
+<Discounts>
 Financial discount: students who choose to pay the tuition fee in a single payment have a 2,5% discount on the payable amount.
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount.
 Companies that finance the program to 2 employees, in the same academic year, have a 10% discount on the tuition fee. This discount is not cumulative with other discounts.

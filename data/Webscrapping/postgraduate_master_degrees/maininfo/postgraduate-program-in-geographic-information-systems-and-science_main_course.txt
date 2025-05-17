@@ -1,5 +1,5 @@
 <Introduction>
-Postgraduate Program in Geographic Information Systems and Science
+
 The Postgraduate Program in Geographic Information Systems and Science provides a
 technical and scientific framework related to the use of geographic information technology and analysis
 , especially skills related to the modeling and analysis of spatial data, and the design and planning of geographic information technology and analysis in organizations.
@@ -85,7 +85,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application Fee
+<Application Fee>
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Registration Costs
 After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of pre-registration (around one week after the admission result announcement), deductible in the tuition fee, non-refundable in case of withdrawal, with the following value:
@@ -123,7 +123,7 @@ to 28
 th
 , 2026
 (50% of the tuition fee).
-Discounts
+<Discounts>
 Financial discount: students who choose to pay the tuition fee in a single payment have a 2,5% discount on the payable amount.
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount.
 Companies that finance the program to 2 employees, in the same academic year, have a 10% discount on the tuition fee. This

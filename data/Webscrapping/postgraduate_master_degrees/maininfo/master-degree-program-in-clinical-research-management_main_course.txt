@@ -1,5 +1,5 @@
 <Introduction>
-Master Degree Program in Clinical Research Management
+
 Developed in partnership with NOVA IMS,
 NOVA Medical School (NMS|FCM)
 ,
@@ -36,8 +36,6 @@ Holders of a foreign higher academic degree in those areas, that is recognized a
 Holders of an academic, scientific or professional
 curriculum
 that is recognized as attesting the capacity to carry out this cycle of studies, by the Scientific Councils of the Faculties / University involved.
-
----
 
 <Admissions and fees>
 The Admissions' Jury Panel is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.

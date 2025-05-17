@@ -1,7 +1,5 @@
-Text from https://www.novaims.unl.pt/en/education/programs/bachelor-s-degrees/data-science/program/#:
 Program
 Study Plan
-en
 Education
 Programs
 Bachelor's Degrees
@@ -370,7 +368,5 @@ S – Seminar;
 OT – Tutor Group;
 ** – Course Unit available in both semesters;
 Course Unit
-Loading...
-modal item
-card item
+
 

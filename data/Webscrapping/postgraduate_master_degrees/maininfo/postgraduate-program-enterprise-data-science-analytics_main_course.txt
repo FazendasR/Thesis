@@ -1,5 +1,5 @@
 <Introduction>
-Postgraduate Program Enterprise Data Science & Analytics
+
 Developed in partnership with Microsoft, the Postgraduate Program in Enterprise Data Science & Analytics will present the methodologies and tools that will transform data into information, on which enterprises can base strategic information on entering new markets, launching new product or service lines, optimizing processes, transforming business models and, generally, competing in a market increasingly driven by data-driven decisions. This program aims to qualify professionals in the use of big data and machine learning methodologies and tools.
 The applications for this program are open between March 10
 th
@@ -79,7 +79,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application Fee
+<Application Fee>
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Tuition fee
 The tuition fee of this postgraduate program is:
@@ -133,7 +133,7 @@ After being admitted to the program and upon confirmation of enrollment, the app
 Upon registration, students should make the following payments:
 €35 - for enrollment fee (the value is updated annually);
 €1.40 - for annual school insurance (the value is updated annually).
-Discounts
+<Discounts>
 Financial discount: students who choose to pay the tuition fee in a single payment have a 2,5% discount on the payable amount;
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount;
 Companies that finance the program to at least 2 employees, in the same academic year, have a 10% discount on the tuition

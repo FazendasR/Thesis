@@ -1,5 +1,5 @@
 <Introduction>
-Master Degree Program in Data Science and Advanced Analytics, with a specialization in Data Science
+
 The Master Degree Program in Data Science and Advanced Analytics, with a specialization in Data Science, is aimed at technically oriented people with solid scientific background, who want to
 strengthen and deepen their skills on the most used paradigms and environments for software development
 ,
@@ -196,7 +196,7 @@ th
 , 2027 (50% of the tuition fee of the 2
 nd
 year).
-Discounts
+<Discounts>
 Financial discount: students who choose to pay the tuition fee in two installments have a 2,5% discount on the payable amount.
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount.
 Companies that finance the program to 2 employees, in the same academic year, have a 10% discount on the tuition fee. This discount is not cumulative with other discounts.

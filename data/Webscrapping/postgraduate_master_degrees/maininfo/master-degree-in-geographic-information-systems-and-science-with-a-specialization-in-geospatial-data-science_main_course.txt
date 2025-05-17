@@ -1,5 +1,5 @@
 <Introduction>
-Master Degree in Geographic Information Systems and Science, with a specialization in Geospatial Data Science
+
 The specialization in Geospatial Data Science
 provides the necessary skills for the analysis, modeling, and visualization of geographic information,
 and aims to train professionals for the role of artificial intelligence, programming, and data mining in the development of solutions to challenges and societal problems in the public and private sectors.
@@ -95,7 +95,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application Fee
+<Application Fee>
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Registration Costs
 After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of pre-registration (around one week after the admission result announcement), deductible in the tuition fee, non-refundable in case of withdrawal, with the following value:
@@ -169,7 +169,7 @@ th
 , 2027 (50% of the tuition fee of the 2
 nd
 year).
-Discounts
+<Discounts>
 Financial discount: students who choose to pay the tuition fee in two installments have a 2,5% discount on the payable amount.
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount.
 Companies that finance the program to 2 employees, in the same academic year, have a 10% discount on the tuition fee. This discount is not cumulative with other discounts.

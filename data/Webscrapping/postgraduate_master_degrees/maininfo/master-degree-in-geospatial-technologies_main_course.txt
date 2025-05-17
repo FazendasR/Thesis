@@ -1,5 +1,5 @@
 <Introduction>
-Master Degree in Geospatial Technologies
+
 The Master's of Science in Geospatial Technologies (Erasmus Mundus Program) is a cooperation between NOVA IMS, in Portugal, the Institute for Geoinformatics (IFGI) of the University of Münster (WWU), in Germany, and the Universitat Jaume I (UJI), in Spain. It is aimed at graduates who wish to obtain qualifications in fields where geographic information is applied and intend to have a multicultural experience.
 This Master degree Program has been selected by the Erasmus Mundus Program of the European Commission
 as one of the most excellent Master Programs in Europe.
@@ -56,7 +56,7 @@ Curriculum Vitae
 ;
 Motivation letter.
 The selection process is based on the analysis of academic and professional curriculum and an interview with the applicant.
-Application Fee
+<Application Fee>
 This Master has a special agreement regarding the application fee,
 so to be exempt of this fee (€51), the applicant must choose “voucher” in the payment method and submit the code: “NOVAIMS_GEOTECH”. The application will only be considered successfully submitted after the submission of the voucher.
 Tuition Fee

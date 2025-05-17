@@ -1,5 +1,5 @@
 <Introduction>
-Postgraduate Program in Digital Enterprise Management
+
 Organizations seeking leadership in competitive markets, where digital technologies play a strategic role, need managers and professionals with the skills to manage transformation projects in a holistic and strategic way, beyond mere technological modernization. The postgraduate program in Digital Enterprise Management equips managers and professionals to
 master disruptive technologies such as artificial intelligence, machine learning, big data & analytics, the internet of things, 3D printing, and cloud computing
 , enabling them to envision new business models, optimize existing processes, and strengthen organizational strategy, ensuring a competitive edge.
@@ -76,7 +76,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application Fee
+<Application Fee>
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Tuition Fee
 The tuition fee of this postgraduate program is:
@@ -130,7 +130,7 @@ After being admitted to the program and upon confirmation of enrollment, the app
 Upon registration, students should make the following payments:
 €35 - for enrollment fee (the value is updated annually);
 €1.40 - for annual school insurance (the value is updated annually).
-Discounts
+<Discounts>
 Financial discount: students who choose to pay the tuition fee in a single payment have a 2,5% discount on the payable
 amount;
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount;

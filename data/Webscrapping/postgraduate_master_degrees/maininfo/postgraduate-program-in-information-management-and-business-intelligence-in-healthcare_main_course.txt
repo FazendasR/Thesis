@@ -1,5 +1,5 @@
 <Introduction>
-Postgraduate Program in Information Management and Business Intelligence in Healthcare
+
 The Postgraduate Program in Information Management and Business Intelligence in Healthcare aims to train managers and healthcare professionals who wish to use information and knowledge management to promote the competitiveness of healthcare organizations. The program covers a wide range of topics, from health policy and strategy to information systems and data science to prepare future leaders in a dynamic and complex industry. The main focus is to provide practical skills and tools that support innovation, processes improvement, and better decision making based on analytical and BI tools.
 This Postgraduate Program is ranked as
 the 2
@@ -85,7 +85,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application Fee
+<Application Fee>
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Registration Fee
 After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of a pre-registration fee (around one week after the admission result announcement), deductible in this postgraduate program's tuition fee, non-refundable in case of withdrawal, with the following value:
@@ -139,7 +139,7 @@ th
 to 30
 th
 , 2026 (25% of tuition fee).
-Discounts
+<Discounts>
 Financial discount: students who choose to pay the tuition fee in a single payment have a 2,5% discount on the payable amount;
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount;
 Companies that finance the program to at least 2 employees, in the same academic year, have a 10% discount on the tuition fee. This discount is not cumulative with other discounts;

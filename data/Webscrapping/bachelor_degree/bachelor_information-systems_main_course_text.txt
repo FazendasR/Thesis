@@ -1,6 +1,5 @@
 <Introduction>
-Bachelor's Degrees
-Information Systems
+
 Nowadays, Information Technologies are present in the most diverse areas of knowledge and people's everyday lives, even when they do not realize it.
 We permanently use intelligent systems, connectivity services, network equipment and data integration, which correspond to the computing platforms we know as: computers, tablets, smartphones, among many other equipment that share information and perform tasks.
 In the Bachelor´s Degree in Information Systems, students learn to analyze, design and implement information systems, fundamental in modern organizations, which include artificial intelligence, new programming languages, development of apps and web systems, mobile computing, among others. They also acquire a set of tools that support the companies' business processes.

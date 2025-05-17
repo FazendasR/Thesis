@@ -1,5 +1,5 @@
 <Introduction>
-Master Degree in Data-Driven Marketing, with a specialization in Digital Marketing and Analytics - Working Hours Format
+
 The Master's Degree Program in Data-Driven Marketing, with a specialization in Digital Marketing and Analytics, is aimed at marketing professionals who want to
 obtain skills in Digital Marketing and Web Analytics
 , using the most advanced methodologies for collecting, analyzing and processing data to support decision making in Web Marketing.
@@ -60,6 +60,22 @@ Paulo Rita
 Full Professor
 prita@novaims.unl.pt
 
+<Entry requirements>
+The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
+3rd  Application phase
+From March 10th to April 10th, 2025.
+To enter this program, applicants must meet the following requirements:
+Hold a bachelor’s degree in a compatible field (completed by September 2025);
+Be proficient in English (spoken and written).
+How to apply and selection process
+To apply, you need to access the NOVA IMS' Applications Portal and follow these steps:
+Fill in the form available in the user area, namely:
+Personal, academic and professional background;
+Upload your Curriculum Vitae (this is the only mandatory document for the application). Although it is not necessary to attach any other documents, the applicant has the option of including other documents that they consider relevant to enrich their application, such as a certificate of completion of their Bachelor's and/or Master's degree. Please note that if you are admitted, you will need to submit your Bachelor's and/or Master's degree completion certificate, or a certificate of attendance if you have not yet completed your degree, within one month;
+Choose the program;
+Present the goals and motivation for applying to the program (limit 1,000 characters, including spaces);
+Pay the application fee. After this last step, the applicant will receive an email confirming their submitted application.
+The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
 
 <Admissions and Fees>
 Application fee
@@ -80,22 +96,6 @@ Payment in six installments:
 4th: April 25th to 30th, 2026 (25% of the tuition fee of the 1st year);
 5th: September 25th to 30th, 2026 (50% of the tuition fee of the 2nd year);
 6th: February 22nd to 28th, 2027 (50% of the tuition fee of the 2nd year).
-The Admissions' Jury Panel of NOVA IMS is looking for excellent students who have the potential to become good technical staff and excellent managers. Qualities such as maturity, determination and motivation, both in the academic path as well in a professional career, are some of the attributes that the Jury Panel is looking for.
-3rd  Application phase
-From March 10th to April 10th, 2025.
-Entry requirements
-To enter this program, applicants must meet the following requirements:
-Hold a bachelor’s degree in a compatible field (completed by September 2025);
-Be proficient in English (spoken and written).
-How to apply and selection process
-To apply, you need to access the NOVA IMS' Applications Portal and follow these steps:
-Fill in the form available in the user area, namely:
-Personal, academic and professional background;
-Upload your Curriculum Vitae (this is the only mandatory document for the application). Although it is not necessary to attach any other documents, the applicant has the option of including other documents that they consider relevant to enrich their application, such as a certificate of completion of their Bachelor's and/or Master's degree. Please note that if you are admitted, you will need to submit your Bachelor's and/or Master's degree completion certificate, or a certificate of attendance if you have not yet completed your degree, within one month;
-Choose the program;
-Present the goals and motivation for applying to the program (limit 1,000 characters, including spaces);
-Pay the application fee. After this last step, the applicant will receive an email confirming their submitted application.
-The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
 Registration fee
 After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of a pre-registration fee (around one week after the admission result announcement), deductible in this master program's tuition fee, non-refundable in case of withdrawal, with the following value:
 €1.250 for applicants with a nationality from a European Union member country;
@@ -103,7 +103,7 @@ After being admitted to the program and upon confirmation of enrollment, the app
 Upon registration, students should make the following payments:
 €35 - for enrollment fee (the value is updated annually);
 €1,40 - for annual school insurance (the value is updated annually).
-Discounts
+<Discounts>
 Financial discount: students who choose to pay the tuition fee in two installments have a 2,5% discount on the payable amount.
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount.
 Companies that finance the program to 2 employees, in the same academic year, have a 10% discount on the tuition fee. This discount is not cumulative with other discounts.

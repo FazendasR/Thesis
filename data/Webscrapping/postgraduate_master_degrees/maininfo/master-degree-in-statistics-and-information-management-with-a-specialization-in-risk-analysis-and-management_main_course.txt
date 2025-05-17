@@ -1,5 +1,5 @@
 <Introduction>
-Master Degree in Statistics and Information Management, with a specialization in Risk Analysis and Management
+
 The Master's Degree Program in Statistics and Information Management, with a specialization in Risk Analysis and Management, aims to train technical and management staff to be able to identify, quantify and manage the risks of institutions (whether financial or not). The program aims to train staff of financial institutions or those of a different nature, enabling them to make decisions in risk management, according to the capital requirements established by Solvency II and Basel III. It is especially for Financial Analysts, Financial Controllers, Auditors, chartered accountants, among others.
 The 1
 st
@@ -74,7 +74,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application fee
+<Application fee>
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Registration fee
 After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of a pre-registration fee (around one week after the admission result announcement), deductible in this master program's tuition fee, non-refundable in case of withdrawal, with the following value:
@@ -171,7 +171,7 @@ th
 , 2027 (50% of the tuition fee of the 2
 nd
 year).
-Discounts
+<Discounts>
 Financial discount: students who choose to pay the tuition fee in two installments have a 2,5% discount on the payable amount.
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount.
 Companies that finance the program to 2 employees, in the same academic year, have a 10% discount on the tuition fee. This discount is not cumulative with other discounts.

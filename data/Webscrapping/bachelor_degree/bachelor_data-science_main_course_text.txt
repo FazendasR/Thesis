@@ -1,5 +1,5 @@
 <Introducion>
-In the Bachelor´s Degree in Data Science, students learn the most modern techniques of artificial intelligence and machine learning to analyze large volumes of data (Big Data).
+Students learn the most modern techniques of artificial intelligence and machine learning to analyze large volumes of data (Big Data).
 They will become true data scientists - considered the sexiest profession of the 21
 st
 century by the Harvard Business Review.

@@ -1,6 +1,5 @@
 <Introduction>
-European Master of Science in Information Systems Management
-The European Master of Science in Information Systems Management aims at graduates who are willing to
+Aims at graduates who are willing to
 acquire additional information systems management skills
 to be applied in their professional field and intend to have a master's double degree diploma from two universities:
 M.Sc. in Information Management, with a specialization in Information Systems Management
@@ -74,7 +73,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application fee
+<Application fee>
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Registration fee
 After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of a pre-registration fee (around one week after the admission result announcement), deductible in this program's tuition fee and non-refundable in case of withdrawal, with the following value:

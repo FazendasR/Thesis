@@ -1,5 +1,5 @@
 <Introduction>
-Postgraduate Program in Business Intelligence and Analytics for Hospitality & Tourism
+
 The
 Postgraduate Program in Business Intelligence and Analytics for Hospitality & Tourism
 responds to the need for higher education in an industry fundamental to the development of the world economy: Tourism. This postgraduate program aims to
@@ -73,7 +73,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application Fee
+<Application Fee>
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Registration Fee
 After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of a pre-registration fee (around one week after the admission result announcement), deductible in this postgraduate program's tuition fee, non-refundable in case of withdrawal, with the following value:
@@ -122,7 +122,7 @@ th
 to 30
 th
 September 2025 (corresponding to 25% of the tuition fee).
-Discounts
+<Discounts>
 The discounts presented are not cumulative with the TIA | PRR Project scholarship:
 Financial discount: students who choose to pay the tuition fee in a single payment have a 2,5% discount on the payable amount;
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount;

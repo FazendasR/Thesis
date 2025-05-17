@@ -1,6 +1,5 @@
 <Introduction>
-Master Degree in Data-Driven Marketing, with a specialization in Data Science for Marketing - Working Hours Format
-The Master Degree Program in Data-Driven Marketing, with a specialization in Data Science for Marketing, aims to fill a gap in the postgraduate training of marketing professionals who need to gain new skills to be able to
+Aims to fill a gap in the postgraduate training of marketing professionals who need to gain new skills to be able to
 actively participate in the development and application of analytical marketing models
 . With the proposed study plan, this program presents an up-to-date structure that combines several areas of marketing with a transversal approach of data science to leverage them.
 This program is designed to provide excellent training, articulating key concepts and challenges for marketing decision-making in its multiple strategic, innovation and methodological strands with
@@ -82,7 +81,7 @@ to the program (limit 1,000 characters, including spaces);
 Pay the application fee
 . After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
-Application fee
+<Application fee>
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 Registration fee
 After being admitted to the program and upon confirmation of enrollment, the applicant must make a payment of a pre-registration fee (around one week after the admission result announcement), deductible in this master program's tuition fee, non-refundable in case of withdrawal, with the following value:
@@ -179,7 +178,7 @@ th
 , 2027 (50% of the tuition fee of the 2
 nd
 year).
-Discounts
+<Discounts>
 Financial discount: students who choose to pay the tuition fee in two installments have a 2,5% discount on the payable amount.
 NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount.
 Companies that finance the program to 2 employees, in the same academic year, have a 10% discount on the tuition fee. This discount is not cumulative with other discounts.

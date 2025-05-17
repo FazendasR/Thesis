@@ -1,0 +1,219 @@
+{
+    "evaluation_retrievers_dataset": [
+      {
+        "query": "In which industries do graduates of the Bachelor's in Information Management typically find work?",
+        "relevant_docs": ["32b065e4-a5eb-46c3-ad47-43d4aec04c0a"]
+      },
+      {
+        "query": "What kinds of roles are former students of the Information Management bachelor's program suited for?",
+        "relevant_docs": ["f7c5bdfd-70c0-44f5-b458-c336ead09a7f"]
+      },
+      {
+        "query": "In which areas do graduates of the Bachelors in Information Systems typically find work?",
+        "relevant_docs": ["9f473cfb-b50a-4a6e-8d5a-2c33bc5fa786"]
+      },
+      {
+        "query": "How is the Business Intelligence postgraduate curriculum structured in the first semester?",
+        "relevant_docs": ["64bf66f3-e8b4-4582-8659-5c8de78a30cb"]
+      },
+      {
+        "query": "How is the postgraduate program in digital enterprise management curriculum structured in the first semester?",
+        "relevant_docs": ["aae9a081-ba65-4462-88d0-2320d21df95e"]
+      },
+      {
+        "query": "How can I contact Bruno Jardim from the teaching staff?",
+        "relevant_docs": ["735614fe-52e7-446f-9dda-b9a779df3281","3bb6b71a-1cd1-4596-8f0e-04fe534631a9", "b980638e-35d1-4922-9514-6a13d6e2ff8d", 
+          "8703d8ee-b4f9-4b13-a2a8-6c2a096a88ff", "2219e530-f336-4d17-903a-4689d7ba1740", "26c4650c-53ec-440a-979e-ab0058540d19",
+          "48878686-6ea9-453b-8ced-886c598242a7", "fa322ad4-4414-46eb-85b7-aedb953bb477", "88966902-20e6-409d-8192-d07bf4b74bc1"]
+      },
+      {
+        "query": "Are internships or practical assignments part of the  Master in Data Science and Advanced Analytics with specialization in Data Science?",
+        "relevant_docs": ["37bead26-aeb8-47df-8d03-c04a1bc51391"]
+      },
+      {
+        "query": "Are internships or practical assignments part of the  Master in Data Science and Advanced Analytics with specialization in Business Analytics?",
+        "relevant_docs": ["ed82c383-453c-43ad-953c-65ed28872df2"]
+      },
+      {
+        "query": "How is the academic content of the postgraduate program in marketing intelligence structured across the duration of the program?",
+        "relevant_docs": ["9ff382c9-2c04-47ec-90a3-2183a7d46bf5", "9b1414f0-4321-43f3-bbb2-3bae4e3f8a41"]
+      },
+      {
+        "query": "Is a background in artificial intelligence necessary to apply for the Master's in Data Science?",
+        "relevant_docs": ["f7c5bdfd-70c0-44f5-b458-c336ead09a7f"]
+      },
+      {
+        "query": "Who is the target applicant for the postgraduate program in digital transformation?",
+        "relevant_docs": ["7ea9c882-86c5-4a8b-a4cd-95a7dfbf8910"]
+      },
+      {
+        "query": "Who is the target applicant for the postgraduate program in geospatial data science?",
+        "relevant_docs": ["00e443c8-b8a5-482e-a017-b1e4c66ad906"]
+      },
+      {
+        "query": "Is a background in statistics necessary to apply for the postgraduate program in geospatial data science?",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      },
+      {
+        "query": "",
+        "relevant_docs": [""]
+      }
+      
+    ]
+  }

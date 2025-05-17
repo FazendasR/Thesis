@@ -1,5 +1,5 @@
 <Introduction>
-Postgraduate Program in Financial Markets and Risks
+
 Resulting from a partnership between
 NOVA Information Management School and ISCTE Executive Education
 , the Postgraduate Program of Financial Markets and Risks combines a prestigious teaching staff, that aligns knowledge and scientific rigor with practical experience, current and innovative contents with a strong applied component, in a structured program providing staff at financial sectors
@@ -82,7 +82,7 @@ Present the goals and motivation for applying to the program (limit 1,000 charac
 Pay the application fee. After this last step, the applicant will receive an email confirming their submitted application.
 The selection process is based on the analysis of academic and professional curriculum. The members of the Admissions’ Jury Panel may decide to hold an interview with all or some applicants - face-to-face or videoconference.
 
-Application Fee
+<Application Fee>
 
 The fee of the application is €51. The application can only be considered after the payment of the application fee, within the stipulated period, non-refundable in case of withdrawal or non-admission in the program.
 
