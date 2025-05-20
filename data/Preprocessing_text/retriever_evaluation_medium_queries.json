@@ -2,49 +2,49 @@
     "evaluation_retrievers_dataset": [
       {
         "query": "In which industries do graduates of the Bachelor's in Information Management typically find work?",
-        "relevant_docs": ["32b065e4-a5eb-46c3-ad47-43d4aec04c0a"]
+        "relevant_docs": ["a797820a-d5ff-4847-8016-4dcb593960ac"]
       },
       {
         "query": "What kinds of roles are former students of the Information Management bachelor's program suited for?",
-        "relevant_docs": ["f7c5bdfd-70c0-44f5-b458-c336ead09a7f"]
+        "relevant_docs": ["a797820a-d5ff-4847-8016-4dcb593960ac"]
       },
       {
         "query": "In which areas do graduates of the Bachelors in Information Systems typically find work?",
-        "relevant_docs": ["9f473cfb-b50a-4a6e-8d5a-2c33bc5fa786"]
+        "relevant_docs": ["acb4929a-db8b-4eb3-9a66-25d1551aebfb"]
       },
       {
         "query": "How is the Business Intelligence postgraduate curriculum structured in the first semester?",
-        "relevant_docs": ["64bf66f3-e8b4-4582-8659-5c8de78a30cb"]
+        "relevant_docs": ["eac0709a-1b32-48c3-ab1d-92f32624614b"]
       },
       {
         "query": "How is the postgraduate program in digital enterprise management curriculum structured in the first semester?",
-        "relevant_docs": ["aae9a081-ba65-4462-88d0-2320d21df95e"]
+        "relevant_docs": ["237c458b-d64a-4680-b2c6-f3ee74f5fd27"]
       },
       {
-        "query": "How can I contact Bruno Jardim from the teaching staff?",
-        "relevant_docs": ["735614fe-52e7-446f-9dda-b9a779df3281","3bb6b71a-1cd1-4596-8f0e-04fe534631a9", "b980638e-35d1-4922-9514-6a13d6e2ff8d", 
-          "8703d8ee-b4f9-4b13-a2a8-6c2a096a88ff", "2219e530-f336-4d17-903a-4689d7ba1740", "26c4650c-53ec-440a-979e-ab0058540d19",
-          "48878686-6ea9-453b-8ced-886c598242a7", "fa322ad4-4414-46eb-85b7-aedb953bb477", "88966902-20e6-409d-8192-d07bf4b74bc1"]
+        "query": "Can you give me the email of professor Bruno Jardim?",
+        "relevant_docs": ["1023ace2-f336-4d59-bd93-433168035010", "553670fc-0f62-4b26-a8ed-09503332e017", 
+      "319ce3b7-3529-4e14-ba72-4aac2312e42a", "106af7b7-62dc-4309-a3b3-202597b0da43", "9af0ea22-10a9-4b39-852e-480ea64958a8", 
+      "b5cea01a-8176-4bd6-87fa-d534b9b624c6", "b4ca6146-102e-4b9a-8195-7a2cbb950fb1", "bd6f2a89-1a08-4891-93c0-4f1ea92f22bc"]
       },
       {
-        "query": "Are internships or practical assignments part of the  Master in Data Science and Advanced Analytics with specialization in Data Science?",
-        "relevant_docs": ["37bead26-aeb8-47df-8d03-c04a1bc51391"]
+        "query": "Are internships or practical assignments part of the Master in Data Science and Advanced Analytics with specialization in Data Science?",
+        "relevant_docs": ["5ec4cf30-741a-4762-a3ad-ef9e15452037"]
       },
       {
-        "query": "Are internships or practical assignments part of the  Master in Data Science and Advanced Analytics with specialization in Business Analytics?",
-        "relevant_docs": ["ed82c383-453c-43ad-953c-65ed28872df2"]
+        "query": "Are internships or practical assignments part of the Master in Data Science and Advanced Analytics with specialization in Business Analytics?",
+        "relevant_docs": ["aa59b70a-0b9c-4fcb-803c-afebd9a08bb3"]
       },
       {
         "query": "How is the academic content of the postgraduate program in marketing intelligence structured across the duration of the program?",
-        "relevant_docs": ["9ff382c9-2c04-47ec-90a3-2183a7d46bf5", "9b1414f0-4321-43f3-bbb2-3bae4e3f8a41"]
+        "relevant_docs": ["428feedc-5620-4302-81f4-1deaa9a8c17a", "5d07fce2-8627-4f06-a662-f09ff2953688"]
       },
       {
         "query": "Is a background in artificial intelligence necessary to apply for the Master's in Data Science?",
-        "relevant_docs": ["f7c5bdfd-70c0-44f5-b458-c336ead09a7f"]
+        "relevant_docs": ["c523079a-add4-4033-9c75-5201d07a015c"]
       },
       {
         "query": "Who is the target applicant for the postgraduate program in digital transformation?",
-        "relevant_docs": ["7ea9c882-86c5-4a8b-a4cd-95a7dfbf8910"]
+        "relevant_docs": ["fc2fd69a-4355-4438-8057-244dc56f5cf6"]
       },
       {
         "query": "Who is the target applicant for the postgraduate program in geospatial data science?",
@@ -52,168 +52,155 @@
       },
       {
         "query": "Is a background in statistics necessary to apply for the postgraduate program in geospatial data science?",
-        "relevant_docs": [""]
+        "relevant_docs": ["299e7384-fbf4-4cb3-9553-bd51c74bedea"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Who is the target applicant for the postgraduate program in data science for marketing?",
+        "relevant_docs": ["57c06f6c-28e4-47f1-b9b5-739b8b0305ca"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Can professionals without a prior degree in management enroll in the Master Degree In Information Management With A Specialization In Information Systems Management?",
+        "relevant_docs": ["ea3b8603-a746-45c0-80ba-1c1fe72f413b"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What key competencies does the postgraduate program aim to develop in marketing professionals with respect to data science?",
+        "relevant_docs": ["57c06f6c-28e4-47f1-b9b5-739b8b0305ca"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "How does the program bridge the gap between marketing and data science, according to its stated goals?",
+        "relevant_docs": ["7b8f1a5b-315a-45f3-bc4a-3cc7fd83e066"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "I already work in marketing but have no formal training in data science. Will this program help me gain hands-on skills to actually work with data in my current role?",
+        "relevant_docs": ["57c06f6c-28e4-47f1-b9b5-739b8b0305ca", "7b8f1a5b-315a-45f3-bc4a-3cc7fd83e066"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What kind of tools or technologies will I learn in postgraduate program in geospatial intelligence?",
+        "relevant_docs": ["b425672e-2edd-4b7b-8151-022b392e5a68"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What is the total cost of the postgraduate program in data science for finance?",
+        "relevant_docs": ["05961086-707b-4b03-9673-50f15dec23e0"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Are there any discounts available for the postgraduate program in data science for finance?",
+        "relevant_docs": ["b04800d1-70e1-438d-8fb7-c40b08041812"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Can discounts be combined for the postgraduate program in data science for finance?",
+        "relevant_docs": ["b04800d1-70e1-438d-8fb7-c40b08041812"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Do I need a background in data science or programming to apply for the postgraduate program in data science for finance?",
+        "relevant_docs": ["f5565715-0e4c-4248-8519-aa5020fa3131", "1a8d0f80-3ada-449b-900e-dfa2f399cc4e"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Can I apply if I haven't completed my undergraduate degree yet for the postgraduate program in data science for finance?",
+        "relevant_docs": ["1a8d0f80-3ada-449b-900e-dfa2f399cc4e"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Are the classes during working hours or in the evening for the master degree in data driven marketing with a specialization in marketing intelligence?",
+        "relevant_docs": ["0ca6f911-2645-4448-bb3f-f99d49a22589"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Is the master degree in data driven marketing with a specialization in marketing intelligence available online or only in-person?",
+        "relevant_docs": ["0ca6f911-2645-4448-bb3f-f99d49a22589"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "How is the Bachelors in Data Science structured across semesters in terms of theoretical vs practical learning?",
+        "relevant_docs": ["cd9747e8-2cb5-436d-b793-0d1e0e218df6", "4b8e7a2c-9e64-4993-bb8e-611eeb57ca5f"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "How many total ECTS are covered in each academic year in the Bachelors in Data Science?",
+        "relevant_docs": ["c523079a-add4-4033-9c75-5201d07a015c"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "How many ECTS are allocated to Statistics and Probability Distributions in the Bachelors in Data Science?",
+        "relevant_docs": ["cd9747e8-2cb5-436d-b793-0d1e0e218df6"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "How are the courses in the spring semester in third year for the Bachelors in Data Science?",
+        "relevant_docs": ["8557e4ef-2ff1-483b-b056-8278b924bbaf"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What are the courses with the most ECTS in the first semesters of the Bachelors in Data Science?",
+        "relevant_docs": ["4b8e7a2c-9e64-4993-bb8e-611eeb57ca5f"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "How are the courses in the spring semester in 2 year for the Bachelors in Data Science?",
+        "relevant_docs": ["8557e4ef-2ff1-483b-b056-8278b924bbaf"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Which entry exams can I use to enter the Bachelors in Data Science?",
+        "relevant_docs": ["fbaf9bca-53e3-43cc-8927-913a52983fd9"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "How much does the entry exams value to enter the Bachelors in Data Science?",
+        "relevant_docs": ["fbaf9bca-53e3-43cc-8927-913a52983fd9"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What is the cost of the tuition and enrollment fee for the students of the International Student Contest?",
+        "relevant_docs": ["1aa96969-c5aa-4a36-b3be-daa197b1ce14"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Are there special access quotas?",
+        "relevant_docs": ["2a854494-32f6-4cec-995b-2a234e50ef45"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What is the application process for the international student?",
+        "relevant_docs": ["20d46d1b-e023-4360-ae33-74b86c456486"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What is ObipNOVA?",
+        "relevant_docs": ["559c51fd-633d-4c57-85f9-ff1941efb43f"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Where is NOVA IMS located?",
+        "relevant_docs": ["4e90131d-a1c6-42a9-a8d0-7dd9d5eb4ca1"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What is the schedule for the Bachelors in Data Science?",
+        "relevant_docs": ["fb182642-21c1-47bf-905b-e344ef158068"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What is the cost of the tuition and enrollment fee for the students of the National Contest for the Bachelors in Data Science?",
+        "relevant_docs": ["415f804e-1e93-48df-ae4c-696033cb5e00"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What are the entry requeirements for the postgraduate program in digital transformation?",
+        "relevant_docs": ["318d6e01-b861-4726-a681-ffb00bb2f300"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What are the steps I need to follow to register in the postgraduate program in digital transformation?",
+        "relevant_docs": ["318d6e01-b861-4726-a681-ffb00bb2f300"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "Do students from NOVA IMS have a discount for the postgraduate program in digital transformation?",
+        "relevant_docs": ["6a8af48d-b621-4420-bb17-ce95d357c95a"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What is the focus of the european master of science in information systems management?",
+        "relevant_docs": ["e66d1963-34c0-4586-8411-7462c233a9ba"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What will I learn on the european master of science in information systems management?",
+        "relevant_docs": ["e66d1963-34c0-4586-8411-7462c233a9ba"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What are the application fees european master of science in information systems management?",
+        "relevant_docs": ["4d32de2d-ae91-42b8-b4b9-6a9ba7889d2d"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What are the application fees postgraduate program in business intelligence and analytics for hospitality tourism?",
+        "relevant_docs": ["dbcf7b53-7f7a-4cff-a497-614b733e3348"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What are the application fees postgraduate program in geospatial intelligence?",
+        "relevant_docs": ["3cb4bbe0-f165-466d-9fec-60fa02747551"]
       },
       {
-        "query": "",
-        "relevant_docs": [""]
-      },
-      {
-        "query": "",
-        "relevant_docs": [""]
-      },
-      {
-        "query": "",
-        "relevant_docs": [""]
-      },
-      {
-        "query": "",
-        "relevant_docs": [""]
+        "query": "What are the application fees postgraduate program in risk analysis and management?",
+        "relevant_docs": ["3f6055ac-c987-457c-8068-58ece95efab0"]
       }
-      
     ]
   }
