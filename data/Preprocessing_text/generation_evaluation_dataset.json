@@ -1,0 +1,347 @@
+{
+    "evaluation_generation_dataset": [
+      {
+        "id": 1,
+        "question": "In which industries do graduates of the Bachelor's in Information Management typically find work?",
+        "relevant_docs": ["a797820a-d5ff-4847-8016-4dcb593960ac"],
+        "reference_answer": ["Graduates of the Bachelor's in Information Management typically find work in Information Technology Companies, Banking, Insurance, Health, Telecommunications, Logistics/Distribution, Marketing and Market Research, Retail, Consulting, and Public Administration."],
+        "generated_answer": ["Graduates of the Bachelor's in Information Management typically find work in industries such as Information Technology Companies, Banking, Insurance, Health, Telecommunications, Logistics/Distribution, Marketing and Market Research, Retail, Consulting and Public Administration."],
+        "human_score": 1.0
+      },
+      {
+        "id": 2,
+        "question": "What kinds of roles are former students of the Information Management bachelor's program suited for?",
+        "relevant_docs": ["acb4929a-db8b-4eb3-9a66-25d1551aebfb"],
+        "reference_answer": ["Former students of the Information Management bachelor's program are suited for roles such as Business Process Analyst, Business Analyst, Data Analyst, Information Manager, Specialist in Analytical Marketing, Specialist in Data Science applied to Management, Specialist in Decision Support Systems, and both technical and managerial positions in Public Administration."],
+        "generated_answer": ["Individuals with a degree in Information Management are well-suited for roles involving data analysis and decision support systems in various industries such as information technology companies, banking, insurance, health, telecommunications, logistics/distribution, marketing and market research, retail, consulting and public administration."],
+        "human_score": 1.0
+      },
+      {
+        "id": 3,
+        "question": "In which areas do graduates of the Bachelors in Information Systems typically find work?",
+        "relevant_docs": ["acb4929a-db8b-4eb3-9a66-25d1551aebfb"],
+        "reference_answer": ["Graduates of the Bachelor's in Information Systems typically find work in sectors such as Information Technology Companies, Banking, Insurance, Health, Telecommunications, Logistics/Distribution, E-Business, Consulting, and Public Administration."],
+        "generated_answer": ["Graduates with a Degree in Information Systems typically find work in various sectors including Information Technology Companies, Banking, Insurance, Health, Telecommunications, Logistics/Distribution, E-Business, Consulting and Public Administration. The main professional opportunities are: Consultant in Information Systems and Technologies; Database Administrator and Programmer; Information Systems Project Manager; Specialist in the development of Artificial Intelligence Systems; Specialist in the implementation of Information Systems; Software Developer; Systems Analyst. Technical and Managerial Positions in Public Administration."],
+        "human_score": 1.0
+      },
+      {
+        "id": 4,
+        "question": "How is the Business Intelligence postgraduate curriculum structured in the first semester?",
+        "relevant_docs": [""],
+        "reference_answer": [
+          "Business Intelligence I (7.5 ECTS) Data Governance (3.5 ECTS) Data Mining I (7.5 ECTS) Data Privacy, Security and Ethics (4 ECTS) There are a vast diversity of elective courses available in the first semester, such as: Applied Multivariate Data Analysis Brand Management Business Process Management For full details on all elective options, please visit the official course page."
+        ],
+        "generated_answer": [
+          "The Business Intelligence postgraduate program in the first semester includes the following mandatory courses: 1. Business Intelligence I (7,5 ECTS) 2. Data Governance (3,5 ECTS) 3. Data Mining I (7,5 ECTS) Data Privacy, Security and Ethics (4 ECTS). Additionally, there are vast diversity of elective courses available in the same semester. Here are the first three elective courses listed in the context: 1. Applied Multivariate Data Analysis (7,5 ECTS) 2. Brand Management (3,5 ECTS) 3. Business Process Management (7,5 ECTS) To fully explore the elective courses available and their respective ECTS values, I would suggest visiting the official course page for detailed information."
+        ],
+        "human_score": 0.80
+      },
+      {
+        "id": 5,
+        "question": "How is the postgraduate program in digital enterprise management curriculum structured in the first semester?",
+        "relevant_docs": ["237c458b-d64a-4680-b2c6-f3ee74f5fd27"],
+        "reference_answer": ["- Adoption Models (4 ECTS) - Change Management (3.5 ECTS) - Digital Transformation Capstone Project (7.5 ECTS) - Online Collaboration Tools (7.5 ECTS) There are a vast diversity of elective courses. The first three listed for the first semester are: - Applied Multivariate Data Analysis - Applied Network Analysis - Banking and Insurance Operations Please visit the official course page for full elective details."],
+        "generated_answer": ["In the first semester of the postgraduate program in Digital Enterprise Management, there are mandatory courses. These courses include Adoption Models (4 ECTS), Change Management (3.5 ECTS), Digital Transformation Capstone Project (7.5 ECTS), and Online Collaboration Tools (7.5 ECTS). Additionally, there are a vast amount of elective courses. The first three are: Applied Multivariate Data Analysis, Applied Network Analysis, Banking and Insurance Operations. I suggest visiting the official course page for full elective details."],
+        "human_score": 0.9
+      },
+      {
+        "id": 6,
+        "question": "Can you give me the email of professor Bruno Jardim?",
+        "relevant_docs": ["1023ace2-f336-4d59-bd93-433168035010"],
+        "reference_answer": ["The email of Professor Bruno Jardim is bjardim@novaims.unl.pt."],
+        "generated_answer": ["Professor Bruno Jardim's email address is bjardim@novaims.unl.pt."],
+        "human_score": 1.0
+      },
+      {
+        "id": 7,
+        "question": "Are internships or practical assignments part of the Master in Data Science and Advanced Analytics with specialization in Data Science?",
+        "relevant_docs": ["5ec4cf30-741a-4762-a3ad-ef9e15452037"],
+        "reference_answer": ["Yes, internships are part of the Master in Data Science and Advanced Analytics with specialization in Data Science. Every academic year, partners offer paid internships to 1st year students, to be undertaken during the 2nd year. Students must apply, and internships are assigned based on qualifications."],
+        "generated_answer": ["Yes, internships or practical assignments are part of the Master in Data Science and Advanced Analytics with a specialization in Data Science. In every academic year, the partners offer a paid internship to the 1st year students, to be undertaken during the 2nd year. 1st year students should apply to the internship(s) they are interested in. The internship will be assigned to the student gathering the best qualification in the application. This Master is ranked, for the 2 nd time in a row, as the best Master in Data Analytics in the Western Europe by Eduniversal."],
+        "human_score": 0.9
+      },
+      {
+        "id": 8,
+        "question": "Are internships or practical assignments part of the Master in Data Science and Advanced Analytics with specialization in Business Analytics?",
+        "relevant_docs": ["aa59b70a-0b9c-4fcb-803c-afebd9a08bb3", "a0b117d5-b0ef-47f1-9928-b8032b40ce1b"],
+        "reference_answer": ["Yes, internships are part of the Master in Data Science and Advanced Analytics with specialization in Business Analytics. Paid internships are offered to 1st year students every academic year, to be undertaken during the 2nd year. Students must apply, and internships are assigned based on qualifications."],
+        "generated_answer": ["From the retrieved context, I can confirm that internships are indeed part of the Master in Data Science and Advanced Analytics with specialization in Business Analytics. The context states that 1st year students should apply to the internship(s) they are interested in. Additionally, it is mentioned that The internship will be assigned to the student gathering the best qualification in the application.'Therefore, I can answer your question with a definitive 'Yes'. Internships or practical assignments are indeed part of the Master in Data Science and Advanced Analytics with specialization in Business Analytics."],
+        "human_score": 0.3
+      },
+      {
+        "id": 9,
+        "question": "How is the academic content of the postgraduate program in marketing intelligence structured across the duration of the program?",
+        "relevant_docs": ["421ad33d-2d4d-4979-86c7-3c69535a814a", "428feedc-5620-4302-81f4-1deaa9a8c17a"],
+        "reference_answer": ["Yes, internships are part of the Master in Data Science and Advanced Analytics with specialization in Business Analytics. Paid internships are offered to 1st year students every academic year, to be undertaken during the 2nd year. Students must apply, and internships are assigned based on qualifications."],
+        "generated_answer": ["From the retrieved context, the Postgraduate Program in Marketing Intelligence is structured into two components. The first component is based on tools and methodologies of marketing management. The second component is supported by methodologies and techniques of information analysis and management. The program duration is two semesters, totaling 60 ECTS. In the first semester, students are required to take courses such as Brand Management, Digital Marketing & E-Commerce, and Marketing Strategy and Innovation. These courses contribute a total of 21 ECTS towards the program. In the second semester, students are mandated to take courses like Applied Network Analysis, Business Intelligence I, and Business Process Management. These courses account for a combined total of 39 ECTS in the second semester.Therefore, the academic content of the Postgraduate Program in Marketing Intelligence is structured across two semesters, with each semester contributing 30 ECTS towards the program's total of 60 ECTS."],
+        "human_score": 0.4
+      },
+      {
+        "id": 10,
+        "question": "Is a background in artificial intelligence necessary to apply for the Master's in Data Science?",
+        "relevant_docs": ["c523079a-add4-4033-9c75-5201d07a015c", "5442637a-7a30-4310-baca-7ef324b4e558"],
+        "reference_answer": ["No, a background in artificial intelligence is not explicitly stated as necessary to apply for the Master's in Data Science. The program is designed to provide interdisciplinary skills, including mastering data mining, computational intelligence, and software development paradigms, implying it is suitable for students who will build or deepen these skills during the course."],
+        "generated_answer": ["There is no explicit statement that a background in artificial intelligence is necessary to apply for the Master's in Data Science. However, the course goals do mention that students should have an understanding of the theoretical foundations of statistics, machine learning. Therefore, to answer your question: No, a background in artificial intelligence is not necessarily required to apply for the Master's in Data Science at NOVA IMS. However, having some foundational knowledge in statistics, machine learning and artificial intelligence methods could be beneficial for students pursuing this degree."],
+        "human_score": 0.7
+      },
+      {
+        "id": 11,
+        "question": "Who is the target applicant for the postgraduate program in digital transformation?",
+        "relevant_docs": ["fc2fd69a-4355-4438-8057-244dc56f5cf6", "ef7fbcc5-831e-4ee2-a81e-d8959c1fa0cc"],
+        "reference_answer": ["The target applicants for the Postgraduate Program in Digital Transformation are individuals seeking a comprehensive understanding of digital transformation and its impact across industries. This includes recent graduates in engineering, management, or technology, as well as experienced professionals aiming to expand their knowledge and skills to help organizations navigate digital transformation challenges and opportunities."],
+        "generated_answer": ["The target applicant for the postgraduate program in digital transformation at NOVA IMS is individuals who want to gain a comprehensive understanding of digital transformation and its impact on various industries. This includes recent graduates in the fields of engineering, management, or technology as well as experienced professionals looking to expand their knowledge."],
+        "human_score": 0.9
+      },
+      {
+        "id": 12,
+        "question": "Who is the target applicant for the postgraduate program in geospatial data science?",
+        "relevant_docs": ["13898ac4-a1ec-49d9-9c29-50854d300c9c", "24e05b2b-6c92-4895-a897-e30c722225ae"],
+        "reference_answer": ["The Postgraduate in Geospatial Data Science targets managers and staff able to analyze, model, and visualize geographic information in environments with large amounts of data. It is taught in Portuguese and aimed at Portuguese-speaking African countries, Portugal, Brazil, Timor, and Portuguese communities worldwide."],
+        "generated_answer": ["The Postgraduate in Geospatial Data Science aims to train managers and staff able to analyze, model, and visualize geographic information in environments with large amounts of data. This is taught in Portuguese and targets applicants from Portuguese-speaking African countries but also Portugal, Brazil, Timor, and Portuguese communities all over the world, who is interested in continuing their studies by getting a Postgraduate diploma and/or a master's degree in a Portuguese university."],
+        "human_score": 1.0
+      },
+      {
+        "id": 13,
+        "question": "Is a background in statistics necessary to apply for the postgraduate program in geospatial data science?",
+        "relevant_docs": ["299e7384-fbf4-4cb3-9553-bd51c74bedea", "13898ac4-a1ec-49d9-9c29-50854d300c9c"],
+        "reference_answer": ["No, a background in statistics is not explicitly required. Applicants should hold a relevant bachelor's degree or equivalent in fields such as Statistics and Information Management, Geography, Economics, Engineering, Computer Sciences, Physics, Mathematics, Architecture, Urban and Regional Planning, or other relevant scientific areas approved by the Scientific Council of NOVA IMS."],
+        "generated_answer": ["From the retrieved context, there is no explicit statement that a background in statistics is necessary to apply for the postgraduate program in geospatial data science. However, it is mentioned that a relevant bachelor's degree or equivalent in Statistics and Information Management, Geography, Economics, Engineering, Computer Sciences, Physics, Mathematics, Architecture, Urban and Regional Planning, or other relevant scientific fields to be approved by the Scientific Council of NOVA IMS is required for admission. While statistics may not be explicitly stated as a requirement, it is listed as one of the relevant scientific fields that could qualify an applicant for admission. Therefore, while a background in statistics is not necessarily a requirement for applying to the postgraduate program in geospatial data science, having a strong foundation in statistics and related fields could certainly be beneficial for success in this program. As for the elective courses, there are a vast diversity of elective courses available in the same semester(s), with the first three being named in the context. For more details about the full range of elective options, it is suggested that the user visit the official course page for comprehensive information."],
+        "human_score": 1.0
+      },
+      {
+        "id": 14,
+        "question": "Who is the target applicant for the postgraduate program in data science for marketing?",
+        "relevant_docs": ["57c06f6c-28e4-47f1-b9b5-739b8b0305ca", "7b8f1a5b-315a-45f3-bc4a-3cc7fd83e066"],
+        "reference_answer": ["The Postgraduate in Data Science for Marketing is aimed at managers, technical staff, and other professionals who wish to acquire analytical skills in marketing using advanced technologies and methodologies for data collection, analysis, and processing to enable data-driven decision-making."],
+        "generated_answer": ["The target applicant for the postgraduate program in data science for marketing is managers, technical staff and other professionals who wish to acquire analytical skills in the field of marketing, using the most advanced technologies and methodologies for collecting, analyzing and processing data in the scope of data science. This will allow making data-driven based decisions."],
+        "human_score": 1.0
+      },
+      {
+        "id": 15,
+        "question": "Can professionals without a prior degree in management enroll in the Master Degree In Information Management With A Specialization In Information Systems Management?",
+        "relevant_docs": ["ea3b8603-a746-45c0-80ba-1c1fe72f413b", "92dba657-769a-4732-bd28-b7805a1d9032"],
+        "reference_answer": ["Professionals without a prior degree in management can enroll if they have roles in Information Systems, such as managers and technical staff involved in IS projects, IT auditing, quality control, or strategic management of Information Systems."],
+        "generated_answer": ["The master's program is aimed at professionals who have roles in Information Systems (IS), namely managers and experts in the coordination and development of IS projects, IT auditing, quality control and strategic management of IS. Therefore, based on the information provided in the context, it appears that professionals without a prior degree in management can still enroll in the Master Degree In Information Management With A Specialization In Information Systems Management. However, it is always recommended to check with the admissions office or program coordinator for the most accurate and up-to-date information regarding the specific requirements and eligibility criteria for enrolling in this master's program."],
+        "human_score": 0.6
+      },
+      {
+        "id": 16,
+        "question": "What key competencies does the postgraduate program aim to develop in marketing professionals with respect to data science?",
+        "relevant_docs": ["57c06f6c-28e4-47f1-b9b5-739b8b0305ca", "7b8f1a5b-315a-45f3-bc4a-3cc7fd83e066"],
+        "reference_answer": ["The postgraduate program aims to develop competencies in bridging marketing and data science, critical thinking about data, supporting marketing decisions with data science methods, using data science tools and models, processing and transforming complex data, understanding Big Data for real-time business solutions, interpreting and communicating data insights, and adapting to the fast-changing business environment."],
+        "generated_answer": ["The Postgraduate Program in Data Science for Marketing aims to develop the following key competencies in marketing professionals with respect to data science: 1. Bridging the gap between marketing and data science, being empowered with the ability to think critically about data, and deriving conclusions from incomplete information. 2. Knowing how to support marketing decision-making through a practical understanding of the fundamental methods used by data scientists. 3. Learning data science tools and models and being ready to deploy them in the organization. 4. Developing the capabilities to load, clean and transform data, and identifying the best models and methodologies to extract meaningful marketing knowledge from different, often heterogeneous and complex data sources. 5. Understanding the power of Big Data and learning how to achieve business solutions by processing large streams of data in real-time. 6. Interpreting and communicating data and results using a wide range of real-world marketing examples. 7. Always being ready to face the challenges of the modern and fast-changing business world."],
+        "human_score": 1.0
+      },
+      {
+        "id": 17,
+        "question": "How does the program bridge the gap between marketing and data science, according to its stated goals?",
+        "relevant_docs": ["7b8f1a5b-315a-45f3-bc4a-3cc7fd83e066", "25e26749-09d7-4171-8546-4eeced8ca41e"],
+        "reference_answer": ["The program bridges the gap between marketing and data science by training professionals to think critically about data, derive conclusions from incomplete information, support marketing decision-making through practical understanding of data science methods, learn and deploy data science tools and models, develop skills to handle complex and heterogeneous data, and apply Big Data techniques for real-time business solutions, all while interpreting and communicating data-driven insights using real-world marketing examples."],
+        "generated_answer": ["The Master Degree in Data Driven Marketing with a Specialization in Data Science for Marketing aims to train marketing professionals to bridge the gap between marketing and data science. According to its stated goals, this program empowers marketing professionals with the ability to think critically about data and derive conclusions from incomplete information. It also provides marketing professionals with practical knowledge of fundamental methods used by data scientists, enabling them to support marketing decision-making. Furthermore, this program equips marketing professionals with the skills to load, clean, and transform data, as well as identifying the best models and methodologies to extract meaningful marketing knowledge from different, often heterogeneous and complex data sources. In summary, according to its stated goals, the Master Degree in Data Driven Marketing with a Specialization in Data Science for Marketing bridges the gap between marketing and data science by empowering marketing professionals with the ability to think critically about data, derive conclusions from incomplete information, and support marketing decision-making through practical knowledge of fundamental methods used by data scientists. Additionally, this program equips marketing professionals with the skills to load, clean, and transform data, as well as identifying the best models and methodologies to extract meaningful marketing knowledge from different, often heterogeneous and complex data sources."],
+        "human_score": 1.0
+      },
+      {
+        "id": 18,
+        "question": "I already work in marketing but have no formal training in data science. Will this program help me gain hands-on skills to actually work with data in my current role?",
+        "relevant_docs": ["57c06f6c-28e4-47f1-b9b5-739b8b0305ca", "7b8f1a5b-315a-45f3-bc4a-3cc7fd83e066"],
+        "reference_answer": ["The Postgraduate Program In Data Science For Marketing is designed specifically for marketing professionals seeking to acquire analytical skills and practical data-oriented processing abilities. It covers data science tools, models, and methodologies applied to marketing, including loading, cleaning, transforming data, and deploying models in real business contexts. The program emphasizes hands-on skills for making data-driven marketing decisions, with practical examples and real-world applications. Therefore, it will help you gain hands-on skills to work with data in your current marketing role."],
+        "generated_answer": ["From the retrieved context, I see that the Postgraduate in Data Science for Marketing is designed to train marketing professionals to bridge the gap between marketing and data science. The program aims to empower participants with the ability to think critically about data, derive conclusions from incomplete information, and support marketing decision-making through a practical understanding of fundamental data science methods.\n\nThe program also covers learning data science tools and models, loading, cleaning, and transforming data, identifying the best models and methodologies for extracting meaningful marketing knowledge from different, often heterogeneous and complex data sources, and interpreting and communicating data and results using a wide range of real-world marketing examples.\n\nBased on this information, I believe that the program will provide you with hands-on skills to actually work with data in your current role. The program covers a comprehensive range of data science concepts, tools, and methodologies, all of which are directly applicable to marketing roles. Additionally, the program emphasizes practical applications and real-world marketing examples, ensuring that participants gain a deep understanding of how data science concepts and techniques can be applied to marketing problems. Overall, I believe that this program will provide you with the hands-on skills and practical knowledge you need to effectively work with data in your current marketing role."],
+        "human_score": 1.0
+      },
+      {
+        "id": 19,
+        "question": "What kind of tools or technologies will I learn in postgraduate program in geospatial intelligence?",
+        "relevant_docs": ["b425672e-2edd-4b7b-8151-022b392e5a68", "b86cae17-8b55-4969-876a-78861625aad7"],
+        "reference_answer": ["The Postgraduate Program In Geospatial Intelligence trains technicians to apply knowledge of image processing and remote sensing, geographic information science, informatics, and analytical tools to geospatial intelligence. It includes key geospatial technologies and techniques needed to solve GEOINT problems related to security, defense, emergency response, environmental risks, and more."],
+        "generated_answer": ["In the postgraduate program in geospatial intelligence at NOVA IMS, you will learn various tools and technologies used in the field of geospatial intelligence. Some of these tools and technologies include:\n\n1. Geographic Information Systems (GIS): GIS is a powerful tool that enables users to collect, store, manage, analyze, and visualize spatial data.\n\n2. Remote Sensing: Remote sensing is the acquisition of information about the Earth's environment and natural resources through the use of sensors that are not in direct physical contact with the object or area being sensed.\n\n3. Cartography: Cartography is the study and practice of making maps. It involves the collection, analysis, and representation of spatial data in a visual format.\n\n4. Global Positioning System (GPS): GPS is a satellite-based navigation system that allows users to determine their precise location on Earth.\n\n5. Informatics and Process Analytical Tools: Informatics and process analytical tools are used to collect, store, manage, analyze, and visualize data in various forms and formats. These tools include databases, data warehouses, data mining tools, statistical analysis software, spreadsheets, text editors, word processors, presentation software, graphic design software, video editing software, audio editing software, and many others.\n\nThese are just a few of the many tools and technologies that you will learn about in the postgraduate program in geospatial intelligence at NOVA IMS."],
+        "human_score": 1.0
+      },
+      {
+        "id": 20,
+        "question": "What is the total cost of the postgraduate program in data science for finance?",
+        "relevant_docs": ["05961086-707b-4b03-9673-50f15dec23e0", "f5565715-0e4c-4248-8519-aa5020fa3131"],
+        "reference_answer": ["The total cost includes a €51 non-refundable application fee, a pre-registration fee of €1,250 for EU nationals (€2,500 for non-EU nationals), a €35 enrollment fee, €1.40 for annual school insurance, and a tuition fee of €5,100 for EU nationals (€6,100 for non-EU nationals)."],
+        "generated_answer": ["The tuition fee for this postgraduate program is €5.100 for applicants with a nationality from a European Union member country and €6.100 for applicants of other nationalities.\n\nHowever, the context also mentions that there are additional payments to be made besides the tuition fee. These include a pre-registration fee, an enrollment fee, and an annual school insurance fee. The exact amounts for these fees are not explicitly stated in the context, but they can be assumed to be deductible from the tuition fee as mentioned in the context.\n\nTherefore, without having access to the exact amounts of the additional fees mentioned above, it is impossible to provide a definitive answer to the question about the total cost of the postgraduate program in data science for finance. However, based on the information provided in the context, we can estimate that the total cost of the program would be at least the sum of the tuition fee and the estimated amounts of the additional fees mentioned above. Without having access to the exact amounts of these additional fees, it is impossible to provide a more precise estimate of the total cost of the postgraduate program in data science for finance."],
+        "human_score": 1.0
+      },
+      {
+        "id": 21,
+        "question": "Are there any discounts available for the postgraduate program in data science for finance?",
+        "relevant_docs": ["b04800d1-70e1-438d-8fb7-c40b08041812", "85ec7503-cd25-4ee5-877e-3e9707baa103"],
+        "reference_answer": ["Yes, there are several discounts available for the postgraduate program in Data Science for Finance: a 2.5% discount for students paying the tuition fee in a single payment; a 20% discount for NOVA IMS alumni, which can be combined with the financial discount; a 10% discount for companies financing up to 2 employees in the same academic year (not cumulative with other discounts); a 20% discount for companies financing 3 or more employees (not cumulative); and a 15% discount for members of the Ordem dos Engenheiros – Região Sul, which can extend to spouses and descendants. For more information, contact admissions@novaims.unl.pt."],
+        "generated_answer": ["Students who choose to pay the tuition fee in a single payment have a 2.5% discount on the payable amount. NOVA IMS’ alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS have a 20% discount on tuition fee, cumulative with the financial discount. Companies that finance the tuition fee for two employees in the same academic year have a 10% discount on the tuition fee. This discount is not cumulative with other discounts. Companies that finance the tuition fee for three or more employees in the same academic year have a 20% discount on the tuition fee. This discount is not cumulative with other discounts. Members of the Ordem dos Engenheiros – Região Sul, have a 15% discount on tuition fees. This discount can be extended to members' spouses and descendants upon presentation of valid documentation. For more information, please contact admissions@novaims.unl.pt. This discount is not cumulative with other financial discounts.\n\nTherefore, yes, there are several discounts available for the postgraduate program in data science for finance at NOVA IMS."],
+        "human_score": 1.0
+      },
+      {
+        "id": 22,
+        "question": "Can discounts be combined for the postgraduate program in data science for finance?",
+        "relevant_docs": ["b04800d1-70e1-438d-8fb7-c40b08041812", "85ec7503-cd25-4ee5-877e-3e9707baa103"],
+        "reference_answer": ["Discounts for the postgraduate program in Data Science for Finance can be combined only in specific cases: the 2.5% financial discount for single payment and the 20% NOVA IMS alumni discount are cumulative. However, discounts for companies financing employees and the discount for members of the Ordem dos Engenheiros – Região Sul are not cumulative with other financial discounts."],
+        "generated_answer": ["From the retrieved context, there are several types of discounts available for the postgraduate program in data science for finance at NOVA IMS. These discounts include:\n\n1. Financial discount: This discount is applicable to students who choose to pay the tuition fee in a single payment. They are eligible for a 2.5% discount on the payable amount.\n\n2. Alumni discount: NOVA IMS alumni who have completed a bachelor's, postgraduate, master's, or doctoral degree at NOVA IMS are entitled to a 20% discount on tuition fees, cumulative with the financial discount.\n\n3. Company discount: Companies that finance the tuition fee for two or more employees in the same academic year are eligible for a 10% discount on the tuition fee. This discount is not cumulative with other discounts. For companies financing three or more employees, they receive a 20% discount on the tuition fee, which is also not cumulative with other discounts.\n\n4. Ordem dos Engenheiros – Região Sul member discount: Members of the Ordem dos Engenheiros – Região Sul who have 15% discount on tuition fees. This discount can be extended to members' spouses and descendants upon presentation of valid documentation. For more information, please contact admissions@novaims.unl.pt.\n\nRegarding your question about combining discounts for the postgraduate program in data science for finance at NOVA IMS, based on the retrieved context, the alumni discount and financial discount can be cumulatively applied to tuition fees for students who meet the eligibility criteria for both discounts. However, company discounts cannot be cumulated with other discounts, including financial discounts and alumni discounts. Members of the Ordem dos Engenheiros – Região Sul are entitled to a 15% discount on tuition fees, which can be extended to members' spouses and descendants upon presentation of valid documentation. For more information about the available discounts and their eligibility criteria, please contact admissions@novaims.unl.pt."],
+        "human_score": 1.0
+      },
+      {
+        "id": 23,
+        "question": "Do I need a background in data science or programming to apply for the postgraduate program in data science for finance?",
+        "relevant_docs": ["f5565715-0e4c-4248-8519-aa5020fa3131", "1a8d0f80-3ada-449b-900e-dfa2f399cc4e"],
+        "reference_answer": ["No, you do not need a formal background specifically in data science or programming to apply. However, the program targets technically minded graduates with a first or upper second class honors degree in highly quantitative fields such as economics, mathematics, statistics, engineering, computation, science, or management. Work experience is not essential, but a strong quantitative foundation and motivation to pursue an analytical approach to finance are expected."],
+        "generated_answer": ["There is no explicit requirement stated for applicants to have a background in data science or programming to apply for the postgraduate program in data science for finance. However, it is mentioned that this program aims at professionals in the financial sector seeking a more analytical approach to areas such as valuation of financial assets, trading, risk management, financial engineering, predictive models, financial computing, among others. Therefore, while having a background in data science or programming may be beneficial for some applicants, it is not an essential requirement for applying to this program."],
+        "human_score": 1.0
+      },
+      {
+        "id": 24,
+        "question": "Can I apply if I haven't completed my undergraduate degree yet for the postgraduate program in data science for finance?",
+        "relevant_docs": ["f5565715-0e4c-4248-8519-aa5020fa3131", "1a8d0f80-3ada-449b-900e-dfa2f399cc4e"],
+        "reference_answer": ["You can apply even if you haven't completed your undergraduate degree yet, but you must complete it by September 2025 to meet the entry requirements. During the application, you can submit a certificate of attendance if your degree is not yet finished, but final admission depends on providing your completed degree certificate within one month after admission."],
+        "generated_answer": ["Applicants for the postgraduate program in data science for finance are required to hold a bachelor's degree in a compatible field by September 2025. However, the context does not explicitly state that applicants must have completed their undergraduate degrees before applying to the postgraduate program.\n\nTherefore, based on the information provided in the retrieved context, it appears that applicants who have not yet completed their undergraduate degrees may still be eligible to apply for the postgraduate program in data science for finance. However, if an applicant is admitted to the program and has not yet completed their undergraduate degree by September 2025, they will be required to submit their Bachelor's degree completion certificate or a certificate of attendance within one month of being admitted to the program.\n\nI hope this information helps clarify your question regarding applying to the postgraduate program in data science for finance while still completing your undergraduate degree. If you have any further questions, please don't hesitate to ask."],
+        "human_score": 1.0
+      },
+      {
+        "id":25,
+        "question": "Are the classes during working hours or in the evening for the master degree in data driven marketing with a specialization in marketing intelligence?",
+        "relevant_docs": ["0ca6f911-2645-4448-bb3f-f99d49a22589", "421ad33d-2d4d-4979-86c7-3c69535a814a"],
+        "reference_answer": ["The Master Degree in Data-Driven Marketing with a specialization in Marketing Intelligence offers both formats: classes during working hours for full-time students and an after working hours format (after 6:30 p.m.)."],
+        "generated_answer": ["The Master Degree in Data-Driven Marketing with a specialization in Marketing Intelligence is offered in two formats: working hours and after working hours. The applications for this are open between February 6th and March 7th, 2025. The first year of the Master’s corresponds to the Postgraduate in Marketing Intelligence. EDUNIVERSAL Ranked as the best in Portugal and the 4th best in the World in Retail Sales Management & Business Development, according to Eduniversal."],
+        "human_score": 1.0
+      },
+      {
+        "id": 26,
+        "question": "Is the master degree in data driven marketing with a specialization in marketing intelligence available online or only in-person?",
+        "relevant_docs": ["The Master Degree in Data-Driven Marketing with a specialization in Marketing Intelligence is only offered in-person, with classes held during working hours or after 6:30 p.m.; there is no mention of an online format."],
+        "reference_answer": ["0ca6f911-2645-4448-bb3f-f99d49a22589", "6e4857c5-8e89-41e6-81e1-7467f82e0cb3"],
+        "generated_answer": ["The Master Degree in Data-Driven Marketing with a specialization in Marketing Intelligence is offered by the institution. However, the context does not explicitly state whether this program is available online or only in-person. Therefore, I'm unable to answer your question based on the provided context alone.\n\nIf you have any additional information or context that could help answer your question, please let me know and I'll do my best to assist you.\n\nAs an assistant for NOVA IMS, my role is to assist with course-related questions. If you have any specific questions about the Master Degree in Data-Driven Marketing with a specialization in Marketing Intelligence that are not covered in the provided context, please let me know and I'll do my best to help you find the information you need.\n\nI hope this response was helpful in answering your question. If you have any further questions or need additional clarification on any of the points covered in this response, please don't hesitate to ask. I'm here to help!\n\nBest regards,\n[Your Name]\nAssistant for NOVA IMS"],
+        "human_score": 1.0
+      },
+      {
+        "id": 27,
+        "question": "How is the Bachelors in Data Science structured across semesters in terms of theoretical vs practical learning",
+        "relevant_docs": ["c523079a-add4-4033-9c75-5201d07a015c", "cd9747e8-2cb5-436d-b793-0d1e0e218df6"],
+        "reference_answer": ["The Bachelors in Data Science is structured over 6 semesters (3 years), with a strong emphasis on technical and practical learning. The first 5 semesters (150 ECTS) consist of mandatory courses that blend theoretical (T) and theoretical/practical (TP, PL) instruction formats, indicating a mix of conceptual grounding and hands-on application. The final semester (30 ECTS) offers optional courses, allowing students to tailor their learning based on interest or specialization. Overall, the program balances theoretical understanding with applied, practice-oriented training from the start."],
+        "generated_answer": ["From the retrieved context, the Bachelors in Data Science is structured across six semesters. The first five semesters are mandatory and consist of a mix of theoretical and practical learning.\n\nIn the second semester, students take courses such as \"Show subtitles T – Theoretical Teaching; TP – Theoretical/ Practical Teaching;\" which indicate that there is both theoretical and practical teaching in this semester. Specifically, students are required to complete both theoretical and practical assignments for these courses.\n\nIn the third semester, students take courses such as \"Mathematical Analysis I\" and \"Mathematical Analysis II,\" which are primarily theoretical in nature. Students are expected to master the mathematical concepts covered in these courses through rigorous theoretical study.\n\nIn the fourth semester, students take courses such as \"Statistics and Probability Distributions,\" which is a primarily practical course focused on teaching students how to apply statistical methods to real-world data. Students are expected to gain hands-on experience with statistical software tools and techniques through completing practical assignments for this course.\n\nIn the fifth semester, students take courses such as \"Introduction to Artificial Intelligence\" and \"Show subtitles T – Theoretical Teaching; TP – Theoretical/ Practical Teaching,\" which indicate that there is both theoretical and practical teaching in these courses. Specifically, students are required to complete both theoretical and practical assignments for these courses.\n\nIn the sixth semester, students take elective courses based on their individual interests and career goals. These courses may be primarily theoretical or primarily practical in nature, depending on the specific course content and learning objectives. Students are expected to choose elective courses that will help them develop the skills and knowledge necessary to achieve their long-term career goals.\n\nIn summary, the Bachelors in Data Science is structured across six semesters, with the first five semesters being mandatory and consisting of a mix of theoretical and practical learning. The sixth semester is dedicated to elective courses based on individual interests and career goals. Throughout the program, students are expected to develop a strong foundation in both theoretical and practical aspects of data science, as well as the ability to apply this knowledge to real-world problems and situations."
+],
+        "human_score": 1.0
+      },
+      {
+        "id": 28,
+        "question": "How many total ECTS are covered in each academic year in the Bachelors in Data Science?",
+        "relevant_docs": ["c523079a-add4-4033-9c75-5201d07a015c", "c96a8f33-6d31-4583-abaa-897804dc02b1"],
+        "reference_answer": ["Each academic year in the Bachelors in Data Science covers 60 ECTS. The program totals 180 ECTS over 3 years (6 semesters), with a consistent annual distribution of 60 ECTS per year."],
+        "generated_answer": ["From the retrieved context, the Bachelors in Data Science lasts for 3 years (6 semesters). The total ECTS for this degree is 180.\n\nEach academic year in the Bachelors in Data Science covers 2 semesters. Therefore, each academic year covers a total of 120 ECTS.\n\nThus, each academic year in the Bachelors in Data Science covers exactly half of the total ECTS required for this degree."],
+        "human_score": 1.0
+      },
+      {
+        "id": 29,
+        "question": "How many ECTS are allocated to Statistics and Probability Distributions in the Bachelors in Data Science?",
+        "relevant_docs": ["c523079a-add4-4033-9c75-5201d07a015c", "cd9747e8-2cb5-436d-b793-0d1e0e218df6"],
+        "reference_answer": ["The course Statistics and Probability Distributions in the Bachelor's in Data Science is allocated 6 ECTS."],
+        "generated_answer": ["From the retrieved context, I see that in the second semester of the Bachelors in Data Science, there is a mandatory course unit called 'Statistics and Probability Distributions'. The context states that this course unit has 67.5 ECTS. Therefore, the answer to your question is that 67.5 ECTS are allocated to Statistics and Probability Distributions in the Bachelors in Data Science."],
+        "human_score": 0.0
+      },
+      {
+        "id": 30,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      },
+      {
+        "id": 0,
+        "question": "",
+        "relevant_docs": [""],
+        "reference_answer": [""],
+        "generated_answer": [""],
+        "human_score": 1.0
+      }
+
+
+    ]
+  }
