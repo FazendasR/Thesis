@@ -29,8 +29,7 @@
         "question": "How is the Business Intelligence postgraduate curriculum structured in the first semester?",
         "relevant_docs": [""],
         "reference_answer": [
-          "Business Intelligence I (7.5 ECTS) Data Governance (3.5 ECTS) Data Mining I (7.5 ECTS) Data Privacy, Security and Ethics (4 ECTS) There are a vast diversity of elective courses available in the first semester, such as: Applied Multivariate Data Analysis Brand Management Business Process Management For full details on all elective options, please visit the official course page."
-        ],
+          "Business Intelligence I (7.5 ECTS) Data Governance (3.5 ECTS) Data Mining I (7.5 ECTS) Data Privacy, Security and Ethics (4 ECTS) There are a vast diversity of elective courses available in the first semester, such as: Applied Multivariate Data Analysis Brand Management Business Process Management For full details on all elective options, please visit the official course page."],
         "generated_answer": [
           "The Business Intelligence postgraduate program in the first semester includes the following mandatory courses: 1. Business Intelligence I (7,5 ECTS) 2. Data Governance (3,5 ECTS) 3. Data Mining I (7,5 ECTS) Data Privacy, Security and Ethics (4 ECTS). Additionally, there are vast diversity of elective courses available in the same semester. Here are the first three elective courses listed in the context: 1. Applied Multivariate Data Analysis (7,5 ECTS) 2. Brand Management (3,5 ECTS) 3. Business Process Management (7,5 ECTS) To fully explore the elective courses available and their respective ECTS values, I would suggest visiting the official course page for detailed information."
         ],
@@ -40,7 +39,7 @@
         "id": 5,
         "question": "How is the postgraduate program in digital enterprise management curriculum structured in the first semester?",
         "relevant_docs": ["237c458b-d64a-4680-b2c6-f3ee74f5fd27"],
-        "reference_answer": ["- Adoption Models (4 ECTS) - Change Management (3.5 ECTS) - Digital Transformation Capstone Project (7.5 ECTS) - Online Collaboration Tools (7.5 ECTS) There are a vast diversity of elective courses. The first three listed for the first semester are: - Applied Multivariate Data Analysis - Applied Network Analysis - Banking and Insurance Operations Please visit the official course page for full elective details."],
+        "reference_answer": ["In the first semester of the postgraduate program in Digital Enterprise Management, there are Adoption Models (4 ECTS), Change Management (3.5 ECTS), Digital Transformation Capstone Project (7.5 ECTS), Online Collaboration Tools (7.5 ECTS) There are a vast diversity of elective courses. The first three listed for the first semester are: Applied Multivariate Data Analysis, Applied Network Analysis, Banking and Insurance Operations Please visit the official course page for full elective details."],
         "generated_answer": ["In the first semester of the postgraduate program in Digital Enterprise Management, there are mandatory courses. These courses include Adoption Models (4 ECTS), Change Management (3.5 ECTS), Digital Transformation Capstone Project (7.5 ECTS), and Online Collaboration Tools (7.5 ECTS). Additionally, there are a vast amount of elective courses. The first three are: Applied Multivariate Data Analysis, Applied Network Analysis, Banking and Insurance Operations. I suggest visiting the official course page for full elective details."],
         "human_score": 0.9
       },
@@ -94,7 +93,7 @@
       },
       {
         "id": 12,
-        "question": "Who is the target applicant for the postgraduate program in geospatial data science?",
+        "question": "Who are the target applicant for the postgraduate program in geospatial data science?",
         "relevant_docs": ["13898ac4-a1ec-49d9-9c29-50854d300c9c", "24e05b2b-6c92-4895-a897-e30c722225ae"],
         "reference_answer": ["The Postgraduate in Geospatial Data Science targets managers and staff able to analyze, model, and visualize geographic information in environments with large amounts of data. It is taught in Portuguese and aimed at Portuguese-speaking African countries, Portugal, Brazil, Timor, and Portuguese communities worldwide."],
         "generated_answer": ["The Postgraduate in Geospatial Data Science aims to train managers and staff able to analyze, model, and visualize geographic information in environments with large amounts of data. This is taught in Portuguese and targets applicants from Portuguese-speaking African countries but also Portugal, Brazil, Timor, and Portuguese communities all over the world, who is interested in continuing their studies by getting a Postgraduate diploma and/or a master's degree in a Portuguese university."],
