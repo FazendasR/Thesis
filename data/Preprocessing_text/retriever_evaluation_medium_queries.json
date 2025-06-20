@@ -39,7 +39,7 @@
         "relevant_docs": ["428feedc-5620-4302-81f4-1deaa9a8c17a", "5d07fce2-8627-4f06-a662-f09ff2953688"]
       },
       {
-        "query": "Is a background in artificial intelligence necessary to apply for the Master's in Data Science?",
+        "query": "Is a degree in artificial intelligence necessary to apply for the Master's in Data Science?",
         "relevant_docs": ["c523079a-add4-4033-9c75-5201d07a015c"]
       },
       {
@@ -51,7 +51,7 @@
         "relevant_docs": ["00e443c8-b8a5-482e-a017-b1e4c66ad906"]
       },
       {
-        "query": "Is a background in statistics necessary to apply for the postgraduate program in geospatial data science?",
+        "query": "Is a degree in statistics necessary to apply for the postgraduate program in geospatial data science?",
         "relevant_docs": ["299e7384-fbf4-4cb3-9553-bd51c74bedea"]
       },
       {
@@ -91,7 +91,7 @@
         "relevant_docs": ["b04800d1-70e1-438d-8fb7-c40b08041812"]
       },
       {
-        "query": "Do I need a background in data science or programming to apply for the postgraduate program in data science for finance?",
+        "query": "Do I need a degree in data science or programming to apply for the postgraduate program in data science for finance?",
         "relevant_docs": ["f5565715-0e4c-4248-8519-aa5020fa3131", "1a8d0f80-3ada-449b-900e-dfa2f399cc4e"]
       },
       {
@@ -107,8 +107,8 @@
         "relevant_docs": ["0ca6f911-2645-4448-bb3f-f99d49a22589"]
       },
       {
-        "query": "How is the Bachelors in Data Science structured across semesters in terms of theoretical vs practical learning?",
-        "relevant_docs": ["cd9747e8-2cb5-436d-b793-0d1e0e218df6", "4b8e7a2c-9e64-4993-bb8e-611eeb57ca5f"]
+        "query": "How is the Bachelors in Data Science curriculum structured across the 1 year of the second semester in terms of theoretical vs practical learning?",
+        "relevant_docs": ["cd9747e8-2cb5-436d-b793-0d1e0e218df6"]
       },
       {
         "query": "How many total ECTS are covered in each academic year in the Bachelors in Data Science?",
@@ -123,11 +123,11 @@
         "relevant_docs": ["8557e4ef-2ff1-483b-b056-8278b924bbaf"]
       },
       {
-        "query": "What are the courses with the most ECTS in the first semesters of the Bachelors in Data Science?",
+        "query": "What are the courses with the most ECTS in the first year and first semester of the Bachelors in Data Science?",
         "relevant_docs": ["4b8e7a2c-9e64-4993-bb8e-611eeb57ca5f"]
       },
       {
-        "query": "How are the courses in the spring semester in 2 year for the Bachelors in Data Science?",
+        "query": "How are the courses in the spring semester in 3 year for the Bachelors in Data Science?",
         "relevant_docs": ["8557e4ef-2ff1-483b-b056-8278b924bbaf"]
       },
       {
@@ -168,7 +168,7 @@
       },
       {
         "query": "What are the entry requeirements for the postgraduate program in digital transformation?",
-        "relevant_docs": ["318d6e01-b861-4726-a681-ffb00bb2f300"]
+        "relevant_docs": ["fc2fd69a-4355-4438-8057-244dc56f5cf6"]
       },
       {
         "query": "What are the steps I need to follow to register in the postgraduate program in digital transformation?",

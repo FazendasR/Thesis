@@ -116,8 +116,8 @@
       "106af7b7-62dc-4309-a3b3-202597b0da43", "1023ace2-f336-4d59-bd93-433168035010"]
       },
       {
-        "query": "How is the curriculum for the Postgraduate Program in Business Intelligence?",
-        "relevant_docs": ["8e619601-aa42-4c72-9c50-c2b40178f697", "eac0709a-1b32-48c3-ab1d-92f32624614b"]
+        "query": "How is the curriculum in the first year for the Postgraduate Program in Business Intelligence?",
+        "relevant_docs": ["eac0709a-1b32-48c3-ab1d-92f32624614b", "8e619601-aa42-4c72-9c50-c2b40178f697"]
       },
       {
         "query": "What programming languages are taught in the Bachelor's in Data Science?",
