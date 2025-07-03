@@ -340,8 +340,4 @@ if __name__ == "__main__":
     print("Initializing NOVA Chatbot...")
     chatbot = create_chatbot()
     
-    # Test question
-    test_question = "What are the mandatory courses in the first year?"
-    print(f"\nTest Question: {test_question}")
-    answer = chatbot.get_answer_only(test_question)
-    print(f"Answer: {answer}")
+    print("Chatbot initialized successfully. You can now use the chatbot instance to ask questions.")

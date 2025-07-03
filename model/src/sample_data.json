@@ -1,0 +1,14 @@
+{
+  "evaluation_generation_dataset_mistral_hard": [
+    {
+      "id": 1,
+      "question": "In which industries do graduates of the Bachelor's in Information Management typically find work?",
+      "reference_answer": [
+        "Graduates of the Bachelor's in Information Management typically find work in Information Technology Companies, Banking, Insurance, Health, Telecommunications, Logistics/Distribution, Marketing and Market Research, Retail, Consulting, and Public Administration."
+      ],
+      "generated_answer": [
+        "Graduates of the Bachelor's in Information Management can typically find work in the following industries:\n\n\u2022 Information Technology Companies\n\u2022 Banking\n\u2022 Insurance\n\u2022 Health\n\u2022 Telecommunications\n\u2022 Logistics/Distribution\n\u2022 Marketing and Market Research\n\u2022 Retail\n\u2022 Consulting\n\u2022 Public Administration"
+      ]
+    }
+  ]
+}
